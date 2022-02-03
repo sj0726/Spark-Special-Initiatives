@@ -1,21 +1,22 @@
-from socket import timeout
 from autoscraper import AutoScraper
 import requests
-from bs4 import BeautifulSoup
 import re
 import json
 
 def getNames():
-    url = "https://risingstars21-eecs.mit.edu/participants/"
+    # initial setups
+    url = "https://risingstars21-eecs.mit.edu/participants/" # link to participants lists
     response = requests.get(url, timeout=10)
     html_content = response.text
-    wanted_list = ['Maria Antoniak, Cornell University: “Modeling Personal Experiences Shared in Online Communities”', 'https://risingstars21-eecs.mit.edu/antoniak/']
+    wanted_list = ['Maria Antoniak, Cornell University: “Modeling Personal Experiences Shared in Online Communities”', 'https://risingstars21-eecs.mit.edu/antoniak/'] # initial scraping models to get participants' names & personal pages
+    
+    # init. autoscraper
     scraper = AutoScraper()
     scraper.build(html=html_content, wanted_list=wanted_list)
     result = scraper.get_result_similar(html=html_content, grouped=True)#, group_by_alias=True)
-    names = list(result.values())[0]
-    bioLink = list(result.values())[1]
-    getDetails(names, bioLink)
+    names = list(result.values())[0] # list of names
+    bioLink = list(result.values())[1] # list of personal pages
+    getDetails(names, bioLink) # get detailed information from personal pages (if applicable)
 
 def getDetails(names, bioLink):
     # scraper initialization / training

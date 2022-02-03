@@ -1,0 +1,762 @@
+{
+    "Sarah Aguasvivas Manzano": {
+        "institution:": "University of Colorado Boulder",
+        "description": "Control and Learning on Edge Devices for Peripheral Robot Intelligence",
+        "contact": "https://sarahaguasvivas.github.io/"
+    },
+    "Rawan Alharbi": {
+        "institution:": "Northwestern University",
+        "description": "Re-imagining Wearable Visual Observation",
+        "contact": "https://www.rawanalharbi.com/"
+    },
+    "Patricia Alves-Oliveira": {
+        "institution:": "University of Washington",
+        "description": "Robots that Enhance Human Experience",
+        "contact": "https://www.patricialvesoliveira.com/"
+    },
+    "Maria Apostolaki": {
+        "institution:": "ETH Zurich",
+        "description": "Routing security for Blockchain systems",
+        "contact": "https://nsg.ee.ethz.ch/people/maria-apostolaki/"
+    },
+    "Hadar Averbuch-Elor": {
+        "institution:": "Cornell-Tech",
+        "description": "Controlling Visual Data Generation",
+        "contact": "http://www.cs.cornell.edu/~hadarelor/"
+    },
+    "Samaneh Azadi": {
+        "institution:": "UC Berkeley",
+        "description": "Semantic Bottleneck Scene Generation",
+        "contact": "https://people.eecs.berkeley.edu/~sazadi/"
+    },
+    "Tayebeh Bahreini": {
+        "institution:": "Wayne State University, Michigan",
+        "description": "VECMAN: A Framework for Energy-Aware Resource Management in VEC Systems",
+        "contact": "http://webpages.eng.wayne.edu/~fv3342/"
+    },
+    "Yasaman Bahri": {
+        "institution:": "Google Research",
+        "description": "A Scientific Approach To Bridging Theory & Practice in Machine Learning",
+        "contact": "http://yasamanb.github.io"
+    },
+    "Hannaneh Barahouei Pasandi": {
+        "institution:": "Virginia Commonwealth University",
+        "description": "Self-Driving MAC Protocol Optimization in WLAN Networks",
+        "contact": "https://hanabhp.github.io"
+    },
+    "Sruti Bhagavatula": {
+        "institution:": "Carnegie Mellon University",
+        "description": "What breach? Measuring online awareness of security incidents by studying real-world browsing behavior",
+        "contact": "http://www.cs.cmu.edu/~sbhagava/"
+    },
+    "Alankrita Bhatt": {
+        "institution:": "UC San Diego",
+        "description": "Universal Graph Compression",
+        "contact": "N/A"
+    },
+    "Indrani Bhattacharya": {
+        "institution:": "Stanford University",
+        "description": "Radiology-Pathology Fusion for Automated Prostate Cancer Detection",
+        "contact": "https://sites.google.com/site/indranibhattacharya021188/home"
+    },
+    "Stephanie Bohaichuk": {
+        "institution:": "Stanford University",
+        "description": "Device Applications of Insulator-Metal Transitions",
+        "contact": "N/A"
+    },
+    "Renuka Bowrothu": {
+        "institution:": "University of Florida",
+        "description": "Energy Efficient Passives for 5G and Beyond",
+        "contact": "https://www.linkedin.com/in/renuka-bowrothu/"
+    },
+    "Fraser Brown": {
+        "institution:": "Stanford University",
+        "description": "https://web.stanford.edu/~mlfbrown/",
+        "contact": "N/A"
+    },
+    "Nataly Brukhim": {
+        "institution:": "Princeton University",
+        "description": "New directions in Boosting",
+        "contact": "https://www.cs.princeton.edu/~nbrukhim/"
+    },
+    "Kalesha Bullard": {
+        "institution:": "Facebook AI Research",
+        "description": "Exploring Emergent Communication in Embodied Multi-Agent Populations",
+        "contact": "https://www.kaleshabullard.com/"
+    },
+    "Diana Cai": {
+        "institution:": "Princeton University",
+        "description": "Finite mixture models do not reliably learn the number of components",
+        "contact": "https://www.dianacai.com"
+    },
+    "Khyathi Raghavi Chandu": {
+        "institution:": "Carnegie Mellon University",
+        "description": "Effective Controllability of Multimodal Narrative Intelligence",
+        "contact": "http://www.cs.cmu.edu/~kchandu/"
+    },
+    "Irene Chen": {
+        "institution:": "Massachusetts Institute of Technology",
+        "description": "Clustering Censored Multivariate Time-Series for Disease Phenotyping",
+        "contact": "http://irenechen.net"
+    },
+    "Xinyi Chen": {
+        "institution:": "Princeton University",
+        "description": "Black-Box Control for Linear Dynamical Systems",
+        "contact": "https://xinyi.github.io/"
+    },
+    "Xinyun Chen": {
+        "institution:": "UC Berkeley",
+        "description": "Deep Learning for Program Synthesis from Diverse Specifications",
+        "contact": "https://jungyhuk.github.io/"
+    },
+    "Yizheng Chen": {
+        "institution:": "Columbia University",
+        "description": "Certified Robustness Properties for Security Classifiers",
+        "contact": "http://surrealyz.github.io/"
+    },
+    "Yue Chen": {
+        "institution:": "Tsinghua University",
+        "description": "Energy Sharing Design in a Prosumer Era",
+        "contact": "N/A"
+    },
+    "YooJung Choi": {
+        "institution:": "University of California, Los Angeles",
+        "description": "Probabilistic Reasoning for Robust and Fair Decision Making",
+        "contact": "N/A"
+    },
+    "Zhen Dai": {
+        "institution:": "University of Toronto",
+        "description": "Generator Outage Identification Using Synchrophasor Measurements",
+        "contact": "N/A"
+    },
+    "Deeksha Dangwal": {
+        "institution:": "University of California, Santa Barbara",
+        "description": "Privacy of Program Traces",
+        "contact": "https://deekshadangwal.com/"
+    },
+    "Ipshita Datta": {
+        "institution:": "Columbia University",
+        "description": "Low-loss composite photonic platform based on 2d semiconductor monolayers",
+        "contact": "N/A"
+    },
+    "Pubali Datta": {
+        "institution:": "University of Illinois Urbana-Champaign",
+        "description": "Workflow-Centric Audit and Authorization in the Serverless Ecosystem",
+        "contact": "https://pdatta2.web.illinois.edu/"
+    },
+    "Sarah Dean": {
+        "institution:": "University of California, Berkeley",
+        "description": "Safe and Robust Perception-Based Control",
+        "contact": "https://people.eecs.berkeley.edu/~sarahdean/"
+    },
+    "Farah Deeba": {
+        "institution:": "The University of British Columbia",
+        "description": "Tissue Characterization using Quantitative Ultrasound",
+        "contact": "http://www.ece.ubc.ca/~farahdeeba/"
+    },
+    "Shuwen Deng": {
+        "institution:": "Yale University",
+        "description": "Securing Modern Processors: Secure Processor TLBs, Caches, and Beyond",
+        "contact": "https://csl.yale.edu/~shuwen/"
+    },
+    "Yi Ding": {
+        "institution:": "University of Chicago",
+        "description": "Learning Structure for Computer Systems Management",
+        "contact": "https://y-ding.github.io/"
+    },
+    "Grace Dinh": {
+        "institution:": "University of California, Berkeley",
+        "description": "Theoretical Methods for Optimizing Structured Array Computations",
+        "contact": "URL"
+    },
+    "Thaleia Dimitra Doudali": {
+        "institution:": "Georgia Institute of Technology",
+        "description": "Machine Intelligent and Timely Data Management for Hybrid Memory Systems",
+        "contact": "https://www.cc.gatech.edu/~tdoudali/"
+    },
+    "Niharika S. D'Souza": {
+        "institution:": "Johns Hopkins University",
+        "description": "Mapping Brain Connectivity to Behavior: A Deep-Generative Hybrid Framework",
+        "contact": "http://niharikasd.weebly.com/"
+    },
+    "Danielle Duvalsaint": {
+        "institution:": "Carnegie Mellon University",
+        "description": "Measuring the Security of Circuit Locking Techniques",
+        "contact": "N/A"
+    },
+    "Regina Eckert": {
+        "institution:": "University of California, Berkeley",
+        "description": "Computational imaging for 3D refractive index microscopy",
+        "contact": "https://people.eecs.berkeley.edu/~eckert/"
+    },
+    "Nazek El-Atab": {
+        "institution:": "King Abdallah University of Science and Technology, Saudi Arabia",
+        "description": "Topologically Transformed Electronics",
+        "contact": "N/A"
+    },
+    "Rasha El-Jaroudi": {
+        "institution:": "University of Texas at Austin",
+        "description": "Novel III-V alloys for optoelectronic devices",
+        "contact": "https://lase.mer.utexas.edu/"
+    },
+    "Mai ElSherief": {
+        "institution:": "Georgia Institute of Technology",
+        "description": "Computational Methods for Next Generation Online Media Ecosystems",
+        "contact": "https://mayelsherif.github.io/melsherif/"
+    },
+    "Esmat Farzana": {
+        "institution:": "University of California, Santa Barbara",
+        "description": "\u03b2-Ga2O3 and GaN: for Next Generation Energy Efficient High-Power Devices",
+        "contact": "https://www.linkedin.com/in/esmat-farzana-b96385152/"
+    },
+    "Jessie Finocchiaro": {
+        "institution:": "University of Colorado Boulder",
+        "description": "An Embedding Framework for Consistent Convex Surrogates",
+        "contact": "http://jfinocchiaro.github.io"
+    },
+    "Roya Firoozi": {
+        "institution:": "University of California, Berkeley",
+        "description": "Predictive and Collaborative Multi-Robot Coordination with Model Predictive Control and Duality Theory",
+        "contact": "https://sites.google.com/view/royafiroozi/home"
+    },
+    "Dilrukshi Gamage": {
+        "institution:": "University of Moratuwa, Sri Lanka",
+        "description": "Rapid Communities on MOOCs: Scaffolding the Social Presence in Massive Open Online Course by Communitiesof Practice",
+        "contact": "http://www.bit.ly/dilrukshigamage"
+    },
+    "Elba Garza": {
+        "institution:": "Texas A&M University",
+        "description": "CHiRP: Control-Flow History Reuse Prediction",
+        "contact": "http://www.elbagarza.com"
+    },
+    "Christine Geeng": {
+        "institution:": "University of Washington",
+        "description": "Studying Risks in Online Communications: Case Studies in Sexting and Misinformation",
+        "contact": "https://christinegeeng.com"
+    },
+    "Marilyn George": {
+        "institution:": "Brown University",
+        "description": "Adversarial Level Agreements for Cryptographic Protocols",
+        "contact": "http://cs.brown.edu/~mgeorge5/"
+    },
+    "Mahsa Ghasemi": {
+        "institution:": "University of Texas at Austin",
+        "description": "Efficient Data Processing and Trustworthy Decision Making through Structured Task Representation",
+        "contact": "https://mahsaghasemi.github.io/"
+    },
+    "Ramina Ghods": {
+        "institution:": "Carnegie Mellon University, Robotics Institute",
+        "description": "Multi-Agent Active Search and Rescue",
+        "contact": "http://www.cs.cmu.edu/~rghods/"
+    },
+    "Leilani H. Gilpin": {
+        "institution:": "Sony AI",
+        "description": "Anomaly Detection Through Explanations",
+        "contact": "http://lgilpin.com"
+    },
+    "Shiry Ginosar": {
+        "institution:": "University of California, Berkeley",
+        "description": "Body2Hands: Learning to Infer 3D Hands from Conversational Gesture Body Dynamics",
+        "contact": "http://people.eecs.berkeley.edu/~evonne_ng/projects/body2hands/"
+    },
+    "Kira Goldner": {
+        "institution:": "Columbia University",
+        "description": "Mechanism Design for Social Good",
+        "contact": "https://www.kiragoldner.com/"
+    },
+    "Huijing Gong": {
+        "institution:": "University of Maryland, College Park",
+        "description": "Security of Lattice-Based Cryptography under \"Imperfect\" Scenarios",
+        "contact": "http://gong-cr.github.io"
+    },
+    "Jennifer Hammelman": {
+        "institution:": "Massachusetts Institute of Technology",
+        "description": "Identification of determinants of differential chromatin accessibility through a massively parallel genome-integrated reporter assay",
+        "contact": "N/A"
+    },
+    "Rana Hanocka": {
+        "institution:": "Tel Aviv University, Israel",
+        "description": "Point2Mesh: A Self-Prior for Deformable Meshes",
+        "contact": "https://ranahanocka.github.io/point2mesh/"
+    },
+    "Madhumitha Harishankar": {
+        "institution:": "Carnegie Mellon University",
+        "description": "PayPlace: Secure and Flexible Operator-Mediated Payments in Blockchain Marketplaces at Scale",
+        "contact": "https://madhu.fyi"
+    },
+    "Emily Hastings": {
+        "institution:": "University of Illinois Urbana-Champaign",
+        "description": "LIFT: Integrating Stakeholder Voices into Algorithmic Team Formation",
+        "contact": "https://emhastings.github.io/"
+    },
+    "Hajar Homayouni": {
+        "institution:": "Colorado State University",
+        "description": "Anomaly Detection and Explanation in Big Data",
+        "contact": "https://www.cs.colostate.edu/~hhajar/"
+    },
+    "Sena Hounsinou": {
+        "institution:": "University of Colorado, Colorado Springs",
+        "description": "Vulnerability of Controller Area Network to Schedule-based Attacks",
+        "contact": "N/A"
+    },
+    "Wei-Lin (Kimberly) Hsiao": {
+        "institution:": "University of Texas at Austin",
+        "description": "Computational Fashion Understanding",
+        "contact": "http://www.cs.utexas.edu/~kimhsiao/"
+    },
+    "Chamsi Hssaine": {
+        "institution:": "Cornell University",
+        "description": "Satisficing Search and Algorithmic Price Competition",
+        "contact": "https://chamsihssaine.github.io/"
+    },
+    "Yiqing Hua": {
+        "institution:": "Cornell University",
+        "description": "Understanding adversarial interactions against politicians on social media",
+        "contact": "https://yiqing-hua.com"
+    },
+    "Qijing Jenny Huang": {
+        "institution:": "University of California, Berkeley",
+        "description": "Co-optimization of Algorithms, Hardware, and Scheduling for Deep Learning Applications",
+        "contact": "https://hqjenny.com"
+    },
+    "Tzu-Yung Huang": {
+        "institution:": "University of Pennsylvania",
+        "description": "Advancements Towards a Deployable Compact Diamond Quantum Device",
+        "contact": "N/A"
+    },
+    "Yu Huang": {
+        "institution:": "University of Michigan, Ann Arbor",
+        "description": "Towards An Objective Measure of Developers' Cognitive Activities",
+        "contact": "http://www-personal.umich.edu/~yhhy/"
+    },
+    "Yujia Huang": {
+        "institution:": "California Institute of Technology",
+        "description": "Neural Networks with Recurrent Generative Feedback",
+        "contact": "https://yjhuangcd.github.io"
+    },
+    "Jeevana Priya Inala": {
+        "institution:": "Massachusetts Institute of Technology",
+        "description": "Program Synthesis for Robust Robots",
+        "contact": "http://jinala.github.io/"
+    },
+    "Bashima Islam": {
+        "institution:": "University of North Carolina at Chapel Hill",
+        "description": "Scheduling Tasks on Intermittently-Powered Time-Aware Intelligent Systems",
+        "contact": "https://www.cs.unc.edu/~bashima/"
+    },
+    "Shweta Jain": {
+        "institution:": "University of Illinois Urbana-Champaign",
+        "description": "Counting cliques in real-world graphs",
+        "contact": "https://people.ucsc.edu/~sjain12/"
+    },
+    "Kasthuri Jayarajah": {
+        "institution:": "Singapore Management University",
+        "description": "The Case for Collaborative Sensing on the Edge",
+        "contact": "https://kjayarajah.github.io/"
+    },
+    "Ruth Johnson": {
+        "institution:": "University of California, Los Angeles",
+        "description": "Electronic health record signatures identify undiagnosed patients with Common Variable Immunodeficiency Disease",
+        "contact": "https://ruthjohnson95.github.io/"
+    },
+    "Colleen Josephson": {
+        "institution:": "Stanford University",
+        "description": "Techniques to enable low-power ubiquitous sensing",
+        "contact": "https://cjosephson.net/"
+    },
+    "Sara Kandil": {
+        "institution:": "University of California, San Diego",
+        "description": "Metasurfaces for spin-control of surface waves",
+        "contact": "https://scholar.google.com.eg/citations?user=EZxbHFIAAAAJ&hl=en"
+    },
+    "Zerina Kapetanovic": {
+        "institution:": "University of Washington",
+        "description": "FarmBeats: An IoT Platform for Data-Driven Agriculture",
+        "contact": "https://www.zerinakapetanovic.com"
+    },
+    "Rasha Karakchi": {
+        "institution:": "University of South Carolina",
+        "description": "An Overlay Architecture for Pattern Matching",
+        "contact": "N/A"
+    },
+    "Nan Rosemary Ke": {
+        "institution:": "Mila Institute, Quebec",
+        "description": "From \"What\" to \"Why\": towards causal deep learning",
+        "contact": "https://nke001.github.io/N85"
+    },
+    "Marilyn Keller": {
+        "institution:": "Max-Planck Institute for Intelligent Systems, Germany",
+        "description": "A population-based implant shapes set for fracture surgery",
+        "contact": "https://ps.is.tuebingen.mpg.de/person/mkeller2"
+    },
+    "Sarah Keren": {
+        "institution:": "Harvard UniversityA\u0302 / Hebrew University, Israel",
+        "description": "Automated Design of Better Environments for Intelligent Agents",
+        "contact": "https://sarahkeren.wixsite.com/sarahkeren-academics"
+    },
+    "Anna Keune": {
+        "institution:": "University of California, Irvine",
+        "description": "Fabric-based computing: Materials as non-neutral drivers of computer science learning",
+        "contact": "http://www.annakeune.com/"
+    },
+    "Huda Khayrallah": {
+        "institution:": "Johns Hopkins University",
+        "description": "Simulated Multiple Reference Training: Leveraging Paraphrases for Machine Translation",
+        "contact": "http://www.cs.jhu.edu/~huda/"
+    },
+    "Khimya Khetarpal": {
+        "institution:": "McGill University / Mila, Quebec",
+        "description": "Bridging Perception and Action: Towards Continual Reinforcement Learning",
+        "contact": "https://kkhetarpal.github.io/"
+    },
+    "Laura Kim": {
+        "institution:": "Massachusetts Institute of Technology",
+        "description": "Nanophotonics and Plasmonics for Understanding Quantum Materials and Enabling New Quantum Technologies",
+        "contact": "N/A"
+    },
+    "Allison Koenecke": {
+        "institution:": "Stanford University",
+        "description": "Racial Disparities in Automated Speech Recognition",
+        "contact": "http://stanford.edu/~koenecke/"
+    },
+    "Mina Konakovic Lukovic": {
+        "institution:": "Massachusetts Institute of Technology",
+        "description": "Differential geometry for metamaterial design",
+        "contact": "http://people.csail.mit.edu/mina/"
+    },
+    "Anusha Lalitha": {
+        "institution:": "Stanford University",
+        "description": "Bayesian Algorithms for Decentralized Stochastic Bandits",
+        "contact": "https://sites.google.com/a/eng.ucsd.edu/alalitha/"
+    },
+    "Caroline Lemieux": {
+        "institution:": "University of California, Berkeley",
+        "description": "Expanding the Reach of Fuzzing",
+        "contact": "https://www.carolemieux.com/"
+    },
+    "Xueting Li": {
+        "institution:": "University of California, Merced",
+        "description": "Joint-task Self-supervised Learning for Temporal Correspondence",
+        "contact": "https://sunshineatnoon.github.io"
+    },
+    "Anqi (Angie) Liu": {
+        "institution:": "California Institute of Technology",
+        "description": "Machine Learning for the Real World: Distributionally Robust Extrapolation",
+        "contact": "https://anqiliu-ai.github.io/"
+    },
+    "Wanchun Liu": {
+        "institution:": "University of Sydney, Australia",
+        "description": "Novel Splitting Receiver Design and Remote State Estimation over Markov Fading Channels",
+        "contact": "https://sites.google.com/site/wanchunliu0205/home"
+    },
+    "Xuan Luo": {
+        "institution:": "University of Washington",
+        "description": "Consistent Video Depth Estimation",
+        "contact": "http://roxanneluo.github.io/"
+    },
+    "Meiyi Ma": {
+        "institution:": "University of Virginia",
+        "description": "Formal Logic enhanced Learning for Cyber-Physical Systems",
+        "contact": "http://www.cs.virginia.edu/~mm5tk/index.html"
+    },
+    "Uyen Mai": {
+        "institution:": "University of California, San Diego",
+        "description": "Log Transformation Improves Dating of Phylogenies",
+        "contact": "https://uym2.github.io"
+    },
+    "Ana Marasovic": {
+        "institution:": "Allen Institute for AI / University of Washington",
+        "description": "Natural Language Rationales with Full-Stack Visual Reasoning",
+        "contact": "https://www.anamarasovic.com/"
+    },
+    "Reuth Mirsky": {
+        "institution:": "University of Texas at Austin",
+        "description": "Plan Recognition for Collaboration",
+        "contact": "https://sites.google.com/site/dekelreuth/"
+    },
+    "Kristina Monakhova": {
+        "institution:": "University of California, Berkeley",
+        "description": "Computational cameras for ML and ML for computational cameras",
+        "contact": "https://people.eecs.berkeley.edu/~monakhova/"
+    },
+    "Arsha Nagrani": {
+        "institution:": "Google",
+        "description": "Speech2Action: Cross-modal Supervision for Action Recognition",
+        "contact": "http://www.robots.ox.ac.uk/~arsha/"
+    },
+    "Xueyan Niu": {
+        "institution:": "Purdue University",
+        "description": "Information Theoretical Modeling of Multi-Agent Interactions",
+        "contact": "https://web.ics.purdue.edu/~niu26/"
+    },
+    "Shruti Palaskar": {
+        "institution:": "Carnegie Mellon University",
+        "description": "Learning Semantic Concepts for Video Summarization",
+        "contact": "https://shrutijpalaskar.github.io"
+    },
+    "Sharbani Pandit": {
+        "institution:": "Georgia Institute of Technology",
+        "description": "Combating Robocalls with a Virtual Assistant",
+        "contact": "N/A"
+    },
+    "Athina Panotopoulou": {
+        "institution:": "Dartmouth College",
+        "description": "Tactile Images for 3D Shapes",
+        "contact": "https://www.cs.dartmouth.edu/~athina/"
+    },
+    "Amandalynne Paullada": {
+        "institution:": "University of Washington",
+        "description": "Dataset (Dis)contents: A survey of data collection and usage practices in machine learning",
+        "contact": "http://www.amandalynne.pw/"
+    },
+    "Amy Pavel": {
+        "institution:": "Carnegie Mellon University",
+        "description": "Describing Videos for Non-Visual Accessibility",
+        "contact": "https://amypavel.com"
+    },
+    "Chara Podimata": {
+        "institution:": "Harvard University",
+        "description": "Algorithms for Incentive-Compatible and Incentive-Aware Learning",
+        "contact": "https://www.charapodimata.com/"
+    },
+    "Sarah Masud Preum": {
+        "institution:": "Carnegie Mellon University",
+        "description": "EMSContExt: EMS Protocol-driven Concept Extraction for Cognitive Assistance in Emergency Response",
+        "contact": "http://www.cs.virginia.edu/~sp9cx/"
+    },
+    "Aditi Raghunathan": {
+        "institution:": "Stanford University",
+        "description": "Surprises in Robust Machine Learning",
+        "contact": "http://web.stanford.edu/~aditir/"
+    },
+    "Roberta Raileanu": {
+        "institution:": "New York University",
+        "description": "Fast Adaptation to New Environments via Policy-Dynamics Value Functions",
+        "contact": "https://rraileanu.github.io/"
+    },
+    "Sonia Roberts": {
+        "institution:": "University of Pennsylvania",
+        "description": "Mitigating energy loss in a robot hopping on a physically emulated dissipative substrate",
+        "contact": "https://kodlab.seas.upenn.edu/group/sonia/"
+    },
+    "Kexin Rong": {
+        "institution:": "Stanford University",
+        "description": "Prioritizing Computation Over Input Data with Locality Sensitive Hashing",
+        "contact": "https://kexinrong.github.io/"
+    },
+    "Behnoush Rostami": {
+        "institution:": "University of Michigan",
+        "description": "Design and Fabrication of High-Density High-Electrode-Count Silicon-Based Micro-Probe Array",
+        "contact": "https://www.researchgate.net/profile/Behnoosh_Rostami3"
+    },
+    "Amrita Roy Chowdhury": {
+        "institution:": "University of Wisconsin-Madison",
+        "description": "Crypt\u03b5: Crypto-Assisted Differential Privacy on Untrusted Servers",
+        "contact": "https://sites.google.com/wisc.edu/amrita-roy-chowdhury/"
+    },
+    "Sandhya Saisubramanian": {
+        "institution:": "University of Massachusetts Amherst",
+        "description": "Reliable Decision-Making with Incomplete Knowledge",
+        "contact": "https://www.sandhyasai.com/"
+    },
+    "Jean Salac": {
+        "institution:": "University of Chicago",
+        "description": "Beyond Child's Play: Understanding & Supporting Program Comprehension in Young Learners",
+        "contact": "https://jeansalac.github.io/"
+    },
+    "Tara Salman": {
+        "institution:": "Washington University in St. Louis",
+        "description": "Collaborative Knowledge-Based Security Risk Assessments Using Blockchains",
+        "contact": "https://sites.wustl.edu/tarasalman/"
+    },
+    "Shibani Santurkar": {
+        "institution:": "Massachusetts Institute of Technology",
+        "description": "From ImageNet to Image Classification: Contextualizing Progress on Benchmarks",
+        "contact": "http://people.csail.mit.edu/shibani/"
+    },
+    "Simone Schaub-Meyer": {
+        "institution:": "Technical University Darmstadt, Germany",
+        "description": "PhaseNet for Video Frame Interpolation",
+        "contact": "https://schaubsi.github.io/"
+    },
+    "Caitlyn E. Seim": {
+        "institution:": "Stanford University",
+        "description": "Wearable Haptic Devices for Sensorimotor Rehabilitation",
+        "contact": "http://web.stanford.edu/~cseim/"
+    },
+    "Jiasi Shen": {
+        "institution:": "Massachusetts Institute of Technology",
+        "description": "Using Active Learning to Synthesize Models of Applications that Access Databases",
+        "contact": "http://shenjiasi.com/"
+    },
+    "Urmita Sikder": {
+        "institution:": "University of California, Berkeley",
+        "description": "Hybrid CMOS-NEM Circuits for Energy-Efficient Computation",
+        "contact": "N/A"
+    },
+    "Rachee Singh": {
+        "institution:": "University of Massachusetts, Amherst / Microsoft Research",
+        "description": "Rate adaptive wide area networks",
+        "contact": "http://www.racheesingh.com/"
+    },
+    "Dhanya Sridhar": {
+        "institution:": "Columbia University",
+        "description": "Adapting Text Embeddings for Causal Inference",
+        "contact": "https://dsridhar91.github.io/"
+    },
+    "Yi Su": {
+        "institution:": "Cornell University",
+        "description": "Off-Policy Evaluation and Learning for Interactive Systems",
+        "contact": "https://www.yisu.moe/"
+    },
+    "Ava Tan": {
+        "institution:": "University of California, Berkeley",
+        "description": "Materials, Device, and Array Design for Next-Generation Ferroelectric Memory Technologies",
+        "contact": "https://people.eecs.berkeley.edu/~ava/"
+    },
+    "Cecilia Testart": {
+        "institution:": "Massachusetts Institute of Technology",
+        "description": "Towards data-driven Internet routing security",
+        "contact": "https://people.csail.mit.edu/ctestart/"
+    },
+    "Meenakshi Upadhyaya": {
+        "institution:": "University of Massachusetts Amherst",
+        "description": "Organic Thermoelectrics: Transforming Waste Heat into Clean Energy",
+        "contact": "https://meenakshiupadhyaya.github.io/"
+    },
+    "Ecenur Ustun": {
+        "institution:": "Cornell University",
+        "description": "Machine Learning-Assisted Early Timing Prediction for Rapid FPGA Design Closure",
+        "contact": "http://people.ece.cornell.edu/eu49/"
+    },
+    "Chengcheng Wan": {
+        "institution:": "University of Chicago",
+        "description": "Accurate Anytime Learning for Energy and Timeliness in Software Systems",
+        "contact": "http://people.cs.uchicago.edu/~cwan/"
+    },
+    "Yating Wan": {
+        "institution:": "University of California, Santa Barbara",
+        "description": "Monolithic Integration of InAs Quantum Dot Lasers on Si Substrates",
+        "contact": "https://optoelectronics.ece.ucsb.edu/index.php/profile/yating-wan"
+    },
+    "Boya Wang": {
+        "institution:": "The University of Texas at Austin",
+        "description": "Single Instruction, Multiple Data Computation with Information Stored in DNA (SIMD||DNA)",
+        "contact": "http://boyawang.weebly.com"
+    },
+    "Fuyixue Wang": {
+        "institution:": "Massachusetts Institute of Technology",
+        "description": "Spatiotemporal encoding methods for fast brain MRI",
+        "contact": "http://www.mit.edu/~fuyixue/"
+    },
+    "Xin Wang": {
+        "institution:": "University of California, Berkeley",
+        "description": "Last-Mile Delivery of Computer Vision with Test-Time Adaptation",
+        "contact": "https://xinw.ai/"
+    },
+    "Wen Wang": {
+        "institution:": "Yale University",
+        "description": "Building Hardware Architectures for Post-Quantum Cryptography",
+        "contact": "https://caslab.csl.yale.edu/~wen/"
+    },
+    "Manxi Wu": {
+        "institution:": "Massachusetts Institute of Technology",
+        "description": "Multi-agent Bayesian Learning with Adaptive Strategies: Convergence and Stability",
+        "contact": "N/A"
+    },
+    "Tongshuang (Sherry) Wu": {
+        "institution:": "University of Washington",
+        "description": "Principles and Interactive Tools for Evaluating and Improving the Behavior of NLP models",
+        "contact": "https://homes.cs.washington.edu/~wtshuang/"
+    },
+    "Xiaoxia Wu": {
+        "institution:": "The University of Texas at Austin",
+        "description": "Implicit Regularization and Convergence for Weight Normalization",
+        "contact": "https://sites.google.com/view/xwu/home"
+    },
+    "Zhanni Wu": {
+        "institution:": "University of Michigan",
+        "description": "Dynamic Control of Waves: Reconfigurable and Spatiotemporally Modulated Metasurfaces",
+        "contact": "N/A"
+    },
+    "Mengqi (Mandy) Xia": {
+        "institution:": "Cornell University",
+        "description": "A Wave Optics Based Fiber Scattering Model",
+        "contact": "https://mandyxmq.github.io/"
+    },
+    "Liyan Xie": {
+        "institution:": "Georgia Institute of Technology",
+        "description": "Robust Statistical Inference Through the Lens of Optimization",
+        "contact": "https://sites.gatech.edu/lxie/"
+    },
+    "Ningning Xie": {
+        "institution:": "The University of Hong Kong",
+        "description": "Effect Handlers, Evidently",
+        "contact": "https://xnning.github.io/"
+    },
+    "Yujia Xie": {
+        "institution:": "Georgia Institute of Technology",
+        "description": "Meta Learning with Relational Information for Short Sequences",
+        "contact": "https://sites.google.com/view/yujia"
+    },
+    "Wenjie Xiong": {
+        "institution:": "Facebook",
+        "description": "Hardware Security in DRAMs and Processor Caches",
+        "contact": "https://caslab.csl.yale.edu/~wenjie/"
+    },
+    "Helen Xu": {
+        "institution:": "Massachusetts Institute of Technology",
+        "description": "A Parallel Packed Memory Array to Store Dynamic Graphs",
+        "contact": "http://people.csail.mit.edu/hjxu/"
+    },
+    "Huijuan Xu": {
+        "institution:": "University of California, Berkeley",
+        "description": "Compositional and Robust Action Understanding",
+        "contact": "http://people.eecs.berkeley.edu/~huijuan/"
+    },
+    "Le Xu": {
+        "institution:": "University of Illinois Urbana Champaign",
+        "description": "Move Fast and Meet Deadlines: Fine-grained Real-time Stream Processing with Cameo",
+        "contact": "http://lexu1.web.engr.illinois.edu"
+    },
+    "Yi Xue": {
+        "institution:": "University of California, Berkeley",
+        "description": "Three-dimensional Multi-site Random Access Photostimulation (3D-MAP)",
+        "contact": "https://xueyiirene.wixsite.com/homepage"
+    },
+    "Momona Yamagami": {
+        "institution:": "University of Washington, Seattle",
+        "description": "Exploring Novel Input Techniques for Human-Computer Interaction: Promoting Ubiquitous Rehabilitation Through Accessible Design",
+        "contact": "http://momona-yamagami.github.io/"
+    },
+    "Junwen Yang": {
+        "institution:": "University of Chicago",
+        "description": "Improving Performance and Quality of Database-Backed Software",
+        "contact": "https://jwyoung1818.github.io/#"
+    },
+    "Ziyu Yao": {
+        "institution:": "Ohio State University",
+        "description": "On Building an Effective and Trustworthy Natural Language Interface: An intelligent agent that can communicate, collaborate, and learn",
+        "contact": "http://ziyuyao.org"
+    },
+    "Diman Zad Tootaghaj": {
+        "institution:": "Hewlett Packard Labs",
+        "description": "Modeling, Monitoring and Scheduling Techniques for Network Recovery from Massive Failures",
+        "contact": "https://dimanzt.com/home.html"
+    },
+    "Amy Zhang": {
+        "institution:": "McGill University / Mila Institute, Quebec",
+        "description": "Learning Invariant Representations for Reinforcement Learning without Reconstruction",
+        "contact": "https://amyzhang.github.io/"
+    },
+    "Justine Zhang": {
+        "institution:": "Cornell University",
+        "description": "Modeling the Balance of Conversational Objectives",
+        "contact": "http://tisjune.github.io/"
+    },
+    "Xueru Zhang": {
+        "institution:": "University of Michigan",
+        "description": "How Do Fair Decisions Fare in Long-TermQualification?",
+        "contact": "http://www-personal.umich.edu/~xueru/"
+    }
+}
