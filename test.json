@@ -1,0 +1,447 @@
+{
+    "Maria Antoniak": {
+        "institution": "Cornell University",
+        "description": "Modeling Personal Experiences Shared in Online Communities",
+        "contact": "maa343@cornell.edu"
+    },
+    "Juncal Arbelaiz": {
+        "institution": "MIT",
+        "description": "Distributed Kalman Filters for Spatially-invariant Systems: Trade-offs Between Performance and Architecture",
+        "contact": "arbelaiz@mit.edu"
+    },
+    "Nivedita Arora": {
+        "institution": "Georgia Institute of Technology",
+        "description": "Internet of Interactive Computational Materials",
+        "contact": "nivedita.arora@gatech.edu"
+    },
+    "Shaimaa Azzam": {
+        "institution": "UC Santa Barbara",
+        "description": "Photonic Interfaces for Two-dimensional Quantum Materials",
+        "contact": "azzam@ucsb.edu"
+    },
+    "Andrea Victoria Bajcsy": {
+        "institution": "UC Berkeley",
+        "description": "Bridging Safety and Learning in Human-Robot Interaction",
+        "contact": "abajcsy@berkeley.edu"
+    },
+    "Suguman Bansal": {
+        "institution": "University of Pennsylvania",
+        "description": "Assured Autonomy : A Formal Approach",
+        "contact": "suguman@seas.upenn.edu"
+    },
+    "Maria Bauza Villalonga": {
+        "institution": "MIT",
+        "description": "Precise generalization: how to make robotic manipulation scalable and reliable",
+        "contact": "bauza@mit.edu"
+    },
+    "Syrine Belakaria": {
+        "institution": "Washington State University",
+        "description": "Output Space Entropy Search Framework for Multi-Objective Bayesian Optimization",
+        "contact": "syrine.belakaria@wsu.edu"
+    },
+    "Jessica Boles": {
+        "institution": "MIT",
+        "description": "Piezoelectrics as a New Frontier for Miniaturizing Power Electronics",
+        "contact": "jboles@mit.edu"
+    },
+    "Elizabeth Bondi": {
+        "institution": "Harvard University",
+        "description": "Imagery and Strategic Reasoning: Making Decisions in Conservation and Sustainability with Imperfect Data",
+        "contact": "ebondi@g.harvard.edu"
+    },
+    "Maria Brbic": {
+        "institution": "Stanford University",
+        "description": "Bridging labeled and unlabeled data in biomedicine",
+        "contact": "mbrbic@cs.stanford.edu"
+    },
+    "Beidi Chen": {
+        "institution": "Stanford University",
+        "description": "Algorithms and Frameworks for Efficient Neural Network Training",
+        "contact": "beidic@stanford.edu"
+    },
+    "Xinyun Chen": {
+        "institution": "UC Berkeley",
+        "description": "Deep Learning for Program Synthesis from Diverse Specifications",
+        "contact": "xinyun.chen@berkeley.edu"
+    },
+    "Xianyi Cheng": {
+        "institution": "Carnegie Mellon University",
+        "description": "Bringing Human-level Dexterity into Robotic Manipulation",
+        "contact": "xianyic@andrew.cmu.edu"
+    },
+    "Samantha Coday": {
+        "institution": "UC Berkeley",
+        "description": "Efficient and Light-weight Multilevel Power Converters for Hybrid Electric Aircraft",
+        "contact": "scoday@berkeley.edu"
+    },
+    "A. Feder Cooper": {
+        "institution": "Cornell University",
+        "description": "(MC)^3: An Empirical Argument for Massively Capable MCMC",
+        "contact": "afc78@cornell.edu"
+    },
+    "Katherine Cordwell": {
+        "institution": "Carnegie Mellon University",
+        "description": "Towards Practical Provably Correct Algorithms for Real Quantifier Elimination",
+        "contact": "kcordwel@cs.cmu.edu"
+    },
+    "Vidushi Dadu": {
+        "institution": "UCLA",
+        "description": "Towards General Purpose Acceleration: Finding Structure in Irregularity",
+        "contact": "vidushi.dadu@cs.ucla.edu"
+    },
+    "Maitraye Das": {
+        "institution": "Northwestern University",
+        "description": "Augmenting Ability-Diverse Collaboration: Designing for Accessible Collaborative Content Creation by People with Vision Impairments",
+        "contact": "maitraye@u.northwestern.edu"
+    },
+    "Emily Diana": {
+        "institution": "University of Pennsylvania",
+        "description": "Multiaccurate Proxies for Downstream Fairness",
+        "contact": "ediana@wharton.upenn.edu"
+    },
+    "Griffin Dietz": {
+        "institution": "Stanford University",
+        "description": "Cognitively Appropriate and Readily Accessible Computing Education Technologies for Young Learners",
+        "contact": "gdietz44@stanford.edu"
+    },
+    "Kate Donahue": {
+        "institution": "Cornell University",
+        "description": "Fairness, efficiency, and uncertainty in societal resource allocation models",
+        "contact": "kpd46@cornell.edu"
+    },
+    "Priya Donti": {
+        "institution": "Carnegie Mellon University",
+        "description": "Incorporating Power System Physics into Deep Learning via Implicit Layers",
+        "contact": "pdonti@andrew.cmu.edu"
+    },
+    "Lin Du": {
+        "institution": "UC Berkeley",
+        "description": "Implantable Biomedical Systems to Restore Daily Activities for Paralyzed People",
+        "contact": "dulin@seas.upenn.edu"
+    },
+    "Yaqi Duan": {
+        "institution": "Princeton University",
+        "description": "Minimax-Optimal Off-Policy Evaluation with Linear Function Approximation",
+        "contact": "yaqid@princeton.edu"
+    },
+    "Aline Eid": {
+        "institution": "Georgia Tech",
+        "description": "Could 5G Wirelessly Power IoT Devices?",
+        "contact": "aeid7@gatech.edu"
+    },
+    "Saadia Gabriel": {
+        "institution": "University of Washington",
+        "description": "Probing Implications of News Headlines",
+        "contact": "skgabrie@cs.washington.edu"
+    },
+    "Aishwarya Ganesan": {
+        "institution": "VMware",
+        "description": "Observably Consistent and Performant Distributed Systems",
+        "contact": "aishwarya.ganesan@hotmail.com"
+    },
+    "Sijia Geng": {
+        "institution": "University of Michigan",
+        "description": "Safety and Stability of Future Smart Grids: Managing Uncertainties of Distributed Energy Resources",
+        "contact": "sgeng@umich.edu"
+    },
+    "Mor Geva Pipek": {
+        "institution": "Tel Aviv University",
+        "description": "Robust and Interpretable Machine Reasoning Over Text",
+        "contact": "morgeva@mail.tau.ac.il"
+    },
+    "Zahra Ghodsi": {
+        "institution": "UCSD",
+        "description": "Secure Frameworks for Outsourced Deep Learning",
+        "contact": "zghodsi@ucsd.edu"
+    },
+    "Neha Gupta": {
+        "institution": "Stanford University",
+        "description": "Theoretical approaches to machine learning challenges",
+        "contact": "nehagupta@cs.stanford.edu"
+    },
+    "Bahareh Hadidian": {
+        "institution": "University of Michigan",
+        "description": "High-Data-Rate and Energy-Efficient Wireless Transmitters for Beyond 5G Communication Networks",
+        "contact": "hadidian@umich.edu"
+    },
+    "Bahar Haghighat": {
+        "institution": "Harvard University",
+        "description": "Miniaturized Robotic Swarms for Sensing, Surveying, and Inspection",
+        "contact": "bahar@seas.harvard.edu"
+    },
+    "Nasimeh Heydaribeni": {
+        "institution": "University of Michigan",
+        "description": "Analysis and Design of Information Transmission in Networks of Strategic Agents",
+        "contact": "heydari@umich.edu"
+    },
+    "Anwar Hithnawi": {
+        "institution": "ETH Zurich ",
+        "description": "Cryptographic Enforcement of End-to-End Data Privacy",
+        "contact": "anwar.hithnawi@inf.ethz.ch"
+    },
+    "Megan Hofman": {
+        "institution": "Carnegie Mellon University",
+        "description": "A Framework for Producing Clinical CAD Tools with Generative Design",
+        "contact": "meganh@cs.cmu.edu"
+    },
+    "Mengdi Huai": {
+        "institution": "University of Virginia",
+        "description": "Fostering Trustworthiness in Machine Learning Algorithms",
+        "contact": "mh6ck@virginia.edu"
+    },
+    "Daphne Eden Ippolito": {
+        "institution": "University of Pennsylvania",
+        "description": "Deduplicating Training Data Makes Language Models Better",
+        "contact": "daphnei@seas.upenn.edu"
+    },
+    "Shailee Jain": {
+        "institution": "University of Texas Austin",
+        "description": "Using NLP Systems to Investigate Language Processing in the Human Brain",
+        "contact": "shaileejain@utexas.edu"
+    },
+    "Shalmali Joshi": {
+        "institution": "Harvard University",
+        "description": "Towards Safe, Robust and Reliable Machine Learning for Healthcare",
+        "contact": "shalmali@seas.harvard.edu"
+    },
+    "Eunice Jun": {
+        "institution": "University of Washington",
+        "description": "Principles and Interactive Systems for Authoring Valid Statistical Analyses",
+        "contact": "emjun@cs.washington.edu"
+    },
+    "Shamya Karumbaiah": {
+        "institution": "University of Pennsylvania",
+        "description": "The Upstream Sources of Bias: Investigating Theory, Design, and Methods Shaping Adaptive Systems in Education",
+        "contact": "shamya@upenn.edu"
+    },
+    "Qi Lei": {
+        "institution": "Princeton University",
+        "description": "Provable Representation Learning: The Importance of Task Diversity and Pretext Tasks",
+        "contact": "qilei@princeton.edu"
+    },
+    "Hanlin Li": {
+        "institution": "Northwestern University",
+        "description": "Improving Labor Transparency in Social Computing Systems",
+        "contact": "hanlinli2022@u.northwestern.edu"
+    },
+    "Jiaoyang Li": {
+        "institution": "University of Southern California",
+        "description": "Large-Scale Multi-Agent Coordination",
+        "contact": "jiaoyanl@usc.edu"
+    },
+    "Mei-Yun Lin": {
+        "institution": "University of Illinois Urbana-Champaign",
+        "description": "Unravel the Atmospheric Escape of Heavy Ions from the Polar Wind",
+        "contact": "mylin2@illinois.edu"
+    },
+    "Lydia Tingruo Liu": {
+        "institution": "UC Berkeley",
+        "description": "Designing distributive learning algorithms for the societal good",
+        "contact": "lydiatliu@berkeley.edu"
+    },
+    "Quanquan Liu": {
+        "institution": "MIT",
+        "description": "Scalable and Efficient Graph Algorithms for Modern Machines",
+        "contact": "quanquan@mit.edu"
+    },
+    "Wenxin Liu": {
+        "institution": "University of Pennsylvania",
+        "description": "Using deep learning for state estimation in a Bayesian framework",
+        "contact": "wenxinl@seas.upenn.edu"
+    },
+    "Xihui Liu": {
+        "institution": "UC Berkeley",
+        "description": "From Perception to Imagination: Vision-Language Cross-Modal Understanding and Generation",
+        "contact": "xihui.liu.me@gmail.com"
+    },
+    "Sujaya Anantha Maiyya": {
+        "institution": "UC Santa Barbara",
+        "description": "Managing data in both trusted and untrusted infrastructures",
+        "contact": "sujaya_maiyya@ucsb.edu"
+    },
+    "Christine McGinn": {
+        "institution": "Columbia University",
+        "description": "Role of Nanoparticle Composites in Active Devices",
+        "contact": "cm3592@columbia.edu"
+    },
+    "Sabrina J. Mielke": {
+        "institution": "Johns Hopkins University",
+        "description": "What Kind of Language Is Hard to Language-Model?",
+        "contact": "sjm@sjmielke.com"
+    },
+    "Samira Mirbagher Ajorpaz": {
+        "institution": "UC San Diego",
+        "description": "Microarchitectural Prediction for Performance and Security",
+        "contact": "s.mirbagher@gmail.com"
+    },
+    "Trisha Mittal": {
+        "institution": "University of Maryland College Park",
+        "description": "Towards Holistic Emotion Perception with Applications in Social Media Analysis, Accessibility, and Multimedia Recommendation",
+        "contact": "trisha@umd.edu"
+    },
+    "Faidra Monachou": {
+        "institution": "Stanford University",
+        "description": "Discrimination, diversity, and information in selection problems",
+        "contact": "monachou@stanford.edu"
+    },
+    "Michal Moshkovitz": {
+        "institution": "Tel-Aviv University",
+        "description": "Foundations of Explainable Machine learning",
+        "contact": "mmoshkovitz@eng.ucsd.edu"
+    },
+    "Yuval Moskovitch": {
+        "institution": "University of Michigan",
+        "description": "Towards Reliable Data-Driven Decision Tools",
+        "contact": "yuvalm@umich.edu"
+    },
+    "Mahta Mousavi": {
+        "institution": "Technische Universitat Berlin",
+        "description": "Evaluation of EEG-based functional connectivity measures through simulations of whole-brain dynamics",
+        "contact": "mahta.mousavi@gmail.com"
+    },
+    "Chandrakana\tNandi": {
+        "institution": "University of Washington Seattle",
+        "description": "Programming Language Tools and Techniques for Computational Fabrication",
+        "contact": "cnandi@cs.washington.edu"
+    },
+    "Sabrina Neuman": {
+        "institution": "Harvard University",
+        "description": "Robomorphic Computing: A Design Methodology for Domain-Specific Accelerators Parameterized by Robot Morphology",
+        "contact": "sneuman@mit.edu"
+    },
+    "Amy Elizabeth Ousterhout": {
+        "institution": "UC Berkeley",
+        "description": "Efficient Scheduling Policies for Microsecond-Scale Tasks",
+        "contact": "amy.ousterhout@berkeley.edu"
+    },
+    "Srilakshmi Pattabiraman": {
+        "institution": "University of Illinois Urbana-Champaign",
+        "description": "Coding for Polymer and DNA Based Storage",
+        "contact": "sp16@illinois.edu"
+    },
+    "Lillian Pentecost": {
+        "institution": "Harvard University",
+        "description": "NVMExplorer: A Framework for Cross-Stack Comparisons of Embedded Non-Volatile Memories",
+        "contact": "lillian_pentecost@g.harvard.edu"
+    },
+    "Yamuna Phal": {
+        "institution": "University of Illinois Urbana-Champaign",
+        "description": "Emerging Techniques in Infrared Imaging",
+        "contact": "yphal2@illinois.edu"
+    },
+    "Yao Qin": {
+        "institution": "Google",
+        "description": "Understanding and Improving Robustness in Machine Learning Models",
+        "contact": "yaoqin@google.com"
+    },
+    "Giorgia Ramponi": {
+        "institution": "ETH Zurich",
+        "description": "Multi-agent RL: Truly batch model-free Inverse Reinforcement Learning about multiple intentions",
+        "contact": "giorgia.ramponi@polimi.it"
+    },
+    "Anshuka Rangi": {
+        "institution": "Amazon",
+        "description": "Understanding the Limits of Poisoning Attacks in Multi-Armed Bandits and Reinforcement Learning",
+        "contact": "arangi@ucsd.edu"
+    },
+    "Paria Rashidinejad": {
+        "institution": "UC Berkeley",
+        "description": "Bridging Offline Reinforcement Learning and Imitation Learning: A Tale of Pessimism",
+        "contact": "paria.rashidinejad@berkeley.edu"
+    },
+    "Amrita Roy Chowdhury": {
+        "institution": "University of Wisconsin-Madison",
+        "description": "Differential Privacy and Cryptography \u2013 A Symbiotic Relationship",
+        "contact": "roychowdhur2@wisc.edu"
+    },
+    "Luana Ruiz": {
+        "institution": "University of Pennsylvania",
+        "description": "Machine Learning on Large-Scale Graphs",
+        "contact": "rubruiz@seas.upenn.edu"
+    },
+    "Liyue Shen": {
+        "institution": "Stanford University",
+        "description": "Exploiting Prior Knowledge in Physical World Incorporated with Machine Learning for Solving Medical Imaging Problems",
+        "contact": "liyues@stanford.edu"
+    },
+    "Yuhan Shi": {
+        "institution": "UCSD",
+        "description": "Neuro-inspired Computing using Resistive Memory Devices",
+        "contact": "yus022@eng.ucsd.edu"
+    },
+    "Tal Shnitzer": {
+        "institution": "MIT",
+        "description": "Multi-modal and Temporal Data Analysis with Diffusion Operators",
+        "contact": "talsd@mit.edu"
+    },
+    "Kaitlin Nicole Smith": {
+        "institution": "University of Chicago",
+        "description": "Decoherence Mitigation in Quantum Computers through Instruction Scheduling",
+        "contact": "kns@uchicago.edu"
+    },
+    "Mansi Sood": {
+        "institution": "Carnegie Mellon University",
+        "description": "Heterogeneous models for designing resilient topologies and controlling spreading phenomena in real-world networks",
+        "contact": "msood@andrew.cmu.edu"
+    },
+    "Ana-Andreea Stoica": {
+        "institution": "Columbia University",
+        "description": "Diversity and inequality in social networks",
+        "contact": "as5001@columbia.edu"
+    },
+    "Jina Suh": {
+        "institution": "University of Washington/Microsoft Research",
+        "description": "Designing Mental Health and Wellbeing Interventions through Computational and Contextual Understanding",
+        "contact": "jinasuh@cs.washington.edu"
+    },
+    "Tianqi Tang": {
+        "institution": "UC Santa Barbara",
+        "description": "Hardware Modeling & Efficient Architectural Exploration for Machine Learning Accelerator Design",
+        "contact": "ttq1008@gmail.com"
+    },
+    "Maribel Torres-Velazquez": {
+        "institution": "UW-Madison",
+        "description": "Multi-channel Deep Learning Networks as an Advanced Modeling Technique in Improving Epilepsy Workup",
+        "contact": "torresvelazq@wisc.edu"
+    },
+    "Jingbo Wang": {
+        "institution": "University of Southern California",
+        "description": "Enhancing Software Security via Scalable Verification and Program Synthesis Techniques",
+        "contact": "jingbow@usc.edu"
+    },
+    "Stephanie Wang": {
+        "institution": "UC Berkeley",
+        "description": "A Distributed Memory Layer for General-Purpose Execution",
+        "contact": "swang@cs.berkeley.edu"
+    },
+    "Amanda Watson": {
+        "institution": "University of Pennsylvania",
+        "description": "Computation of Human Performance",
+        "contact": "aawatson@seas.upenn.edu"
+    },
+    "Melanie Weber": {
+        "institution": "University of Oxford",
+        "description": "Geometric Methods for Machine Learning and Optimization",
+        "contact": "mw25@math.princeton.edu"
+    },
+    "Alycen Wiacek": {
+        "institution": "Johns Hopkins University",
+        "description": "Coherence-based Learning from Raw Ultrasound Data for Breast Mass Diagnosis",
+        "contact": "awiacek1@jhu.edu"
+    },
+    "Kristin Williams": {
+        "institution": "Carnegie Mellon University",
+        "description": "An Upcycled IoT: Reducing the Financial and Social Costs of Adopting New Computing through Lightweight Modification of Everyday Objects",
+        "contact": "krismawil@cs.cmu.edu"
+    },
+    "Qian Zhang": {
+        "institution": "UCLA",
+        "description": "Reinventing Software Developer Tools for Heterogeneous Computing Paradigm",
+        "contact": "zhangqian@cs.ucla.edu"
+    },
+    "Jieyu Zhao": {
+        "institution": "UCLA",
+        "description": "Understanding and Intervening on Societal Biases in Natural Language Processing",
+        "contact": "jieyuzhao@ucla.edu"
+    }
+}
