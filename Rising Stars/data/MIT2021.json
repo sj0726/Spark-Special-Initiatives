@@ -2,446 +2,535 @@
     "Maria Antoniak": {
         "institution": "Cornell University",
         "description": "Modeling Personal Experiences Shared in Online Communities",
-        "contact": "maa343@cornell.edu"
+        "contact": "maa343@cornell.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/antoniak/"
     },
     "Juncal Arbelaiz": {
         "institution": "MIT",
         "description": "Distributed Kalman Filters for Spatially-invariant Systems: Trade-offs Between Performance and Architecture",
-        "contact": "arbelaiz@mit.edu"
+        "contact": "arbelaiz@mit.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/arbelaiz/"
     },
     "Nivedita Arora": {
         "institution": "Georgia Institute of Technology",
         "description": "Internet of Interactive Computational Materials",
-        "contact": "nivedita.arora@gatech.edu"
+        "contact": "nivedita.arora@gatech.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/arora/"
     },
     "Shaimaa Azzam": {
         "institution": "UC Santa Barbara",
         "description": "Photonic Interfaces for Two-dimensional Quantum Materials",
-        "contact": "azzam@ucsb.edu"
+        "contact": "azzam@ucsb.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/azzam/"
     },
     "Andrea Victoria Bajcsy": {
         "institution": "UC Berkeley",
         "description": "Bridging Safety and Learning in Human-Robot Interaction",
-        "contact": "abajcsy@berkeley.edu"
+        "contact": "abajcsy@berkeley.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/bajcsy/"
     },
     "Suguman Bansal": {
         "institution": "University of Pennsylvania",
         "description": "Assured Autonomy : A Formal Approach",
-        "contact": "suguman@seas.upenn.edu"
+        "contact": "suguman@seas.upenn.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/bansal/"
     },
     "Maria Bauza Villalonga": {
         "institution": "MIT",
         "description": "Precise generalization: how to make robotic manipulation scalable and reliable",
-        "contact": "bauza@mit.edu"
+        "contact": "bauza@mit.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/bauza-villalonga/"
     },
     "Syrine Belakaria": {
         "institution": "Washington State University",
         "description": "Output Space Entropy Search Framework for Multi-Objective Bayesian Optimization",
-        "contact": "syrine.belakaria@wsu.edu"
+        "contact": "syrine.belakaria@wsu.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/belakaria/"
     },
     "Jessica Boles": {
         "institution": "MIT",
         "description": "Piezoelectrics as a New Frontier for Miniaturizing Power Electronics",
-        "contact": "jboles@mit.edu"
+        "contact": "jboles@mit.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/boles/"
     },
     "Elizabeth Bondi": {
         "institution": "Harvard University",
         "description": "Imagery and Strategic Reasoning: Making Decisions in Conservation and Sustainability with Imperfect Data",
-        "contact": "ebondi@g.harvard.edu"
+        "contact": "ebondi@g.harvard.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/bondi/"
     },
     "Maria Brbic": {
         "institution": "Stanford University",
         "description": "Bridging labeled and unlabeled data in biomedicine",
-        "contact": "mbrbic@cs.stanford.edu"
+        "contact": "mbrbic@cs.stanford.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/brbic/"
     },
     "Beidi Chen": {
         "institution": "Stanford University",
         "description": "Algorithms and Frameworks for Efficient Neural Network Training",
-        "contact": "beidic@stanford.edu"
+        "contact": "beidic@stanford.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/chen-beidi/"
     },
     "Xinyun Chen": {
         "institution": "UC Berkeley",
         "description": "Deep Learning for Program Synthesis from Diverse Specifications",
-        "contact": "xinyun.chen@berkeley.edu"
+        "contact": "xinyun.chen@berkeley.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/chen-xinyun/"
     },
     "Xianyi Cheng": {
         "institution": "Carnegie Mellon University",
         "description": "Bringing Human-level Dexterity into Robotic Manipulation",
-        "contact": "xianyic@andrew.cmu.edu"
+        "contact": "xianyic@andrew.cmu.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/cheng/"
     },
     "Samantha Coday": {
         "institution": "UC Berkeley",
         "description": "Efficient and Light-weight Multilevel Power Converters for Hybrid Electric Aircraft",
-        "contact": "scoday@berkeley.edu"
+        "contact": "scoday@berkeley.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/coday/"
     },
     "A. Feder Cooper": {
         "institution": "Cornell University",
         "description": "(MC)^3: An Empirical Argument for Massively Capable MCMC",
-        "contact": "afc78@cornell.edu"
+        "contact": "afc78@cornell.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/cooper/"
     },
     "Katherine Cordwell": {
         "institution": "Carnegie Mellon University",
         "description": "Towards Practical Provably Correct Algorithms for Real Quantifier Elimination",
-        "contact": "kcordwel@cs.cmu.edu"
+        "contact": "kcordwel@cs.cmu.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/cordwell/"
     },
     "Vidushi Dadu": {
         "institution": "UCLA",
         "description": "Towards General Purpose Acceleration: Finding Structure in Irregularity",
-        "contact": "vidushi.dadu@cs.ucla.edu"
+        "contact": "vidushi.dadu@cs.ucla.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/dadu/"
     },
     "Maitraye Das": {
         "institution": "Northwestern University",
         "description": "Augmenting Ability-Diverse Collaboration: Designing for Accessible Collaborative Content Creation by People with Vision Impairments",
-        "contact": "maitraye@u.northwestern.edu"
+        "contact": "maitraye@u.northwestern.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/das/"
     },
     "Emily Diana": {
         "institution": "University of Pennsylvania",
         "description": "Multiaccurate Proxies for Downstream Fairness",
-        "contact": "ediana@wharton.upenn.edu"
+        "contact": "ediana@wharton.upenn.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/diana/"
     },
     "Griffin Dietz": {
         "institution": "Stanford University",
         "description": "Cognitively Appropriate and Readily Accessible Computing Education Technologies for Young Learners",
-        "contact": "gdietz44@stanford.edu"
+        "contact": "gdietz44@stanford.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/dietz/"
     },
     "Kate Donahue": {
         "institution": "Cornell University",
         "description": "Fairness, efficiency, and uncertainty in societal resource allocation models",
-        "contact": "kpd46@cornell.edu"
+        "contact": "kpd46@cornell.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/donahue/"
     },
     "Priya Donti": {
         "institution": "Carnegie Mellon University",
         "description": "Incorporating Power System Physics into Deep Learning via Implicit Layers",
-        "contact": "pdonti@andrew.cmu.edu"
+        "contact": "pdonti@andrew.cmu.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/donti/"
     },
     "Lin Du": {
         "institution": "UC Berkeley",
         "description": "Implantable Biomedical Systems to Restore Daily Activities for Paralyzed People",
-        "contact": "dulin@seas.upenn.edu"
+        "contact": "dulin@seas.upenn.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/du/"
     },
     "Yaqi Duan": {
         "institution": "Princeton University",
         "description": "Minimax-Optimal Off-Policy Evaluation with Linear Function Approximation",
-        "contact": "yaqid@princeton.edu"
+        "contact": "yaqid@princeton.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/duan/"
     },
     "Aline Eid": {
         "institution": "Georgia Tech",
         "description": "Could 5G Wirelessly Power IoT Devices?",
-        "contact": "aeid7@gatech.edu"
+        "contact": "aeid7@gatech.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/eid/"
     },
     "Saadia Gabriel": {
         "institution": "University of Washington",
         "description": "Probing Implications of News Headlines",
-        "contact": "skgabrie@cs.washington.edu"
+        "contact": "skgabrie@cs.washington.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/gabriel/"
     },
     "Aishwarya Ganesan": {
         "institution": "VMware",
         "description": "Observably Consistent and Performant Distributed Systems",
-        "contact": "aishwarya.ganesan@hotmail.com"
+        "contact": "aishwarya.ganesan@hotmail.com",
+        "personal page": "https://risingstars21-eecs.mit.edu/ganesan/"
     },
     "Sijia Geng": {
         "institution": "University of Michigan",
         "description": "Safety and Stability of Future Smart Grids: Managing Uncertainties of Distributed Energy Resources",
-        "contact": "sgeng@umich.edu"
+        "contact": "sgeng@umich.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/geng/"
     },
     "Mor Geva Pipek": {
         "institution": "Tel Aviv University",
         "description": "Robust and Interpretable Machine Reasoning Over Text",
-        "contact": "morgeva@mail.tau.ac.il"
+        "contact": "morgeva@mail.tau.ac.il",
+        "personal page": "https://risingstars21-eecs.mit.edu/geva-pipek/"
     },
     "Zahra Ghodsi": {
         "institution": "UCSD",
         "description": "Secure Frameworks for Outsourced Deep Learning",
-        "contact": "zghodsi@ucsd.edu"
+        "contact": "zghodsi@ucsd.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/ghodsi/"
     },
     "Neha Gupta": {
         "institution": "Stanford University",
         "description": "Theoretical approaches to machine learning challenges",
-        "contact": "nehagupta@cs.stanford.edu"
+        "contact": "nehagupta@cs.stanford.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/gupta-neha/"
     },
     "Bahareh Hadidian": {
         "institution": "University of Michigan",
         "description": "High-Data-Rate and Energy-Efficient Wireless Transmitters for Beyond 5G Communication Networks",
-        "contact": "hadidian@umich.edu"
+        "contact": "hadidian@umich.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/hadidian/"
     },
     "Bahar Haghighat": {
         "institution": "Harvard University",
         "description": "Miniaturized Robotic Swarms for Sensing, Surveying, and Inspection",
-        "contact": "bahar@seas.harvard.edu"
+        "contact": "bahar@seas.harvard.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/haghighat/"
     },
     "Nasimeh Heydaribeni": {
         "institution": "University of Michigan",
         "description": "Analysis and Design of Information Transmission in Networks of Strategic Agents",
-        "contact": "heydari@umich.edu"
+        "contact": "heydari@umich.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/heydaribeni/"
     },
     "Anwar Hithnawi": {
         "institution": "ETH Zurich ",
         "description": "Cryptographic Enforcement of End-to-End Data Privacy",
-        "contact": "anwar.hithnawi@inf.ethz.ch"
+        "contact": "anwar.hithnawi@inf.ethz.ch",
+        "personal page": "https://risingstars21-eecs.mit.edu/hithnawi/"
     },
     "Megan Hofman": {
         "institution": "Carnegie Mellon University",
         "description": "A Framework for Producing Clinical CAD Tools with Generative Design",
-        "contact": "meganh@cs.cmu.edu"
+        "contact": "meganh@cs.cmu.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/hofman/"
     },
     "Mengdi Huai": {
         "institution": "University of Virginia",
         "description": "Fostering Trustworthiness in Machine Learning Algorithms",
-        "contact": "mh6ck@virginia.edu"
+        "contact": "mh6ck@virginia.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/huai/"
     },
     "Daphne Eden Ippolito": {
         "institution": "University of Pennsylvania",
         "description": "Deduplicating Training Data Makes Language Models Better",
-        "contact": "daphnei@seas.upenn.edu"
+        "contact": "daphnei@seas.upenn.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/ippolito/"
     },
     "Shailee Jain": {
         "institution": "University of Texas Austin",
         "description": "Using NLP Systems to Investigate Language Processing in the Human Brain",
-        "contact": "shaileejain@utexas.edu"
+        "contact": "shaileejain@utexas.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/jain/"
     },
     "Shalmali Joshi": {
         "institution": "Harvard University",
         "description": "Towards Safe, Robust and Reliable Machine Learning for Healthcare",
-        "contact": "shalmali@seas.harvard.edu"
+        "contact": "shalmali@seas.harvard.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/joshi/"
     },
     "Eunice Jun": {
         "institution": "University of Washington",
         "description": "Principles and Interactive Systems for Authoring Valid Statistical Analyses",
-        "contact": "emjun@cs.washington.edu"
+        "contact": "emjun@cs.washington.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/jun/"
     },
     "Shamya Karumbaiah": {
         "institution": "University of Pennsylvania",
         "description": "The Upstream Sources of Bias: Investigating Theory, Design, and Methods Shaping Adaptive Systems in Education",
-        "contact": "shamya@upenn.edu"
+        "contact": "shamya@upenn.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/karumbaiah/"
     },
     "Qi Lei": {
         "institution": "Princeton University",
         "description": "Provable Representation Learning: The Importance of Task Diversity and Pretext Tasks",
-        "contact": "qilei@princeton.edu"
+        "contact": "qilei@princeton.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/lei-qi/"
     },
     "Hanlin Li": {
         "institution": "Northwestern University",
         "description": "Improving Labor Transparency in Social Computing Systems",
-        "contact": "hanlinli2022@u.northwestern.edu"
+        "contact": "hanlinli2022@u.northwestern.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/li/"
     },
     "Jiaoyang Li": {
         "institution": "University of Southern California",
         "description": "Large-Scale Multi-Agent Coordination",
-        "contact": "jiaoyanl@usc.edu"
+        "contact": "jiaoyanl@usc.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/li-jiaoyang/"
     },
     "Mei-Yun Lin": {
         "institution": "University of Illinois Urbana-Champaign",
         "description": "Unravel the Atmospheric Escape of Heavy Ions from the Polar Wind",
-        "contact": "mylin2@illinois.edu"
+        "contact": "mylin2@illinois.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/lin-mei-yun/"
     },
     "Lydia Tingruo Liu": {
         "institution": "UC Berkeley",
         "description": "Designing distributive learning algorithms for the societal good",
-        "contact": "lydiatliu@berkeley.edu"
+        "contact": "lydiatliu@berkeley.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/liu-lydia-tingruo/"
     },
     "Quanquan Liu": {
         "institution": "MIT",
         "description": "Scalable and Efficient Graph Algorithms for Modern Machines",
-        "contact": "quanquan@mit.edu"
+        "contact": "quanquan@mit.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/liu-quanquan/"
     },
     "Wenxin Liu": {
         "institution": "University of Pennsylvania",
         "description": "Using deep learning for state estimation in a Bayesian framework",
-        "contact": "wenxinl@seas.upenn.edu"
+        "contact": "wenxinl@seas.upenn.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/liu-wenxin/"
     },
     "Xihui Liu": {
         "institution": "UC Berkeley",
         "description": "From Perception to Imagination: Vision-Language Cross-Modal Understanding and Generation",
-        "contact": "xihui.liu.me@gmail.com"
+        "contact": "xihui.liu.me@gmail.com",
+        "personal page": "https://risingstars21-eecs.mit.edu/liu-xihui/"
     },
     "Sujaya Anantha Maiyya": {
         "institution": "UC Santa Barbara",
         "description": "Managing data in both trusted and untrusted infrastructures",
-        "contact": "sujaya_maiyya@ucsb.edu"
+        "contact": "sujaya_maiyya@ucsb.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/maiyya/"
     },
     "Christine McGinn": {
         "institution": "Columbia University",
         "description": "Role of Nanoparticle Composites in Active Devices",
-        "contact": "cm3592@columbia.edu"
+        "contact": "cm3592@columbia.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/mcginn/"
     },
     "Sabrina J. Mielke": {
         "institution": "Johns Hopkins University",
         "description": "What Kind of Language Is Hard to Language-Model?",
-        "contact": "sjm@sjmielke.com"
+        "contact": "sjm@sjmielke.com",
+        "personal page": "https://risingstars21-eecs.mit.edu/mielke/"
     },
     "Samira Mirbagher Ajorpaz": {
         "institution": "UC San Diego",
         "description": "Microarchitectural Prediction for Performance and Security",
-        "contact": "s.mirbagher@gmail.com"
+        "contact": "s.mirbagher@gmail.com",
+        "personal page": "https://risingstars21-eecs.mit.edu/mirbagher-ajorpaz/"
     },
     "Trisha Mittal": {
         "institution": "University of Maryland College Park",
         "description": "Towards Holistic Emotion Perception with Applications in Social Media Analysis, Accessibility, and Multimedia Recommendation",
-        "contact": "trisha@umd.edu"
+        "contact": "trisha@umd.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/mittal/"
     },
     "Faidra Monachou": {
         "institution": "Stanford University",
         "description": "Discrimination, diversity, and information in selection problems",
-        "contact": "monachou@stanford.edu"
+        "contact": "monachou@stanford.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/monachou/"
     },
     "Michal Moshkovitz": {
         "institution": "Tel-Aviv University",
         "description": "Foundations of Explainable Machine learning",
-        "contact": "mmoshkovitz@eng.ucsd.edu"
+        "contact": "mmoshkovitz@eng.ucsd.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/moshkovitz/"
     },
     "Yuval Moskovitch": {
         "institution": "University of Michigan",
         "description": "Towards Reliable Data-Driven Decision Tools",
-        "contact": "yuvalm@umich.edu"
+        "contact": "yuvalm@umich.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/moskovitch/"
     },
     "Mahta Mousavi": {
         "institution": "Technische Universitat Berlin",
         "description": "Evaluation of EEG-based functional connectivity measures through simulations of whole-brain dynamics",
-        "contact": "mahta.mousavi@gmail.com"
+        "contact": "mahta.mousavi@gmail.com",
+        "personal page": "https://risingstars21-eecs.mit.edu/mousavi/"
     },
     "Chandrakana\tNandi": {
         "institution": "University of Washington Seattle",
         "description": "Programming Language Tools and Techniques for Computational Fabrication",
-        "contact": "cnandi@cs.washington.edu"
+        "contact": "cnandi@cs.washington.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/nandi/"
     },
     "Sabrina Neuman": {
         "institution": "Harvard University",
         "description": "Robomorphic Computing: A Design Methodology for Domain-Specific Accelerators Parameterized by Robot Morphology",
-        "contact": "sneuman@mit.edu"
+        "contact": "sneuman@mit.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/neuman/"
     },
     "Amy Elizabeth Ousterhout": {
         "institution": "UC Berkeley",
         "description": "Efficient Scheduling Policies for Microsecond-Scale Tasks",
-        "contact": "amy.ousterhout@berkeley.edu"
+        "contact": "amy.ousterhout@berkeley.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/ousterhout/"
     },
     "Srilakshmi Pattabiraman": {
         "institution": "University of Illinois Urbana-Champaign",
         "description": "Coding for Polymer and DNA Based Storage",
-        "contact": "sp16@illinois.edu"
+        "contact": "sp16@illinois.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/pattabiraman/"
     },
     "Lillian Pentecost": {
         "institution": "Harvard University",
         "description": "NVMExplorer: A Framework for Cross-Stack Comparisons of Embedded Non-Volatile Memories",
-        "contact": "lillian_pentecost@g.harvard.edu"
+        "contact": "lillian_pentecost@g.harvard.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/pentecost/"
     },
     "Yamuna Phal": {
         "institution": "University of Illinois Urbana-Champaign",
         "description": "Emerging Techniques in Infrared Imaging",
-        "contact": "yphal2@illinois.edu"
+        "contact": "yphal2@illinois.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/phal/"
     },
     "Yao Qin": {
         "institution": "Google",
         "description": "Understanding and Improving Robustness in Machine Learning Models",
-        "contact": "yaoqin@google.com"
+        "contact": "yaoqin@google.com",
+        "personal page": "https://risingstars21-eecs.mit.edu/qin-yao/"
     },
     "Giorgia Ramponi": {
         "institution": "ETH Zurich",
         "description": "Multi-agent RL: Truly batch model-free Inverse Reinforcement Learning about multiple intentions",
-        "contact": "giorgia.ramponi@polimi.it"
+        "contact": "giorgia.ramponi@polimi.it",
+        "personal page": "https://risingstars21-eecs.mit.edu/ramponi/"
     },
     "Anshuka Rangi": {
         "institution": "Amazon",
         "description": "Understanding the Limits of Poisoning Attacks in Multi-Armed Bandits and Reinforcement Learning",
-        "contact": "arangi@ucsd.edu"
+        "contact": "arangi@ucsd.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/rangi-anshuka/"
     },
     "Paria Rashidinejad": {
         "institution": "UC Berkeley",
         "description": "Bridging Offline Reinforcement Learning and Imitation Learning: A Tale of Pessimism",
-        "contact": "paria.rashidinejad@berkeley.edu"
+        "contact": "paria.rashidinejad@berkeley.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/rashidinejad/"
     },
     "Amrita Roy Chowdhury": {
         "institution": "University of Wisconsin-Madison",
         "description": "Differential Privacy and Cryptography \u2013 A Symbiotic Relationship",
-        "contact": "roychowdhur2@wisc.edu"
+        "contact": "roychowdhur2@wisc.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/roy-chowdhury/"
     },
     "Luana Ruiz": {
         "institution": "University of Pennsylvania",
         "description": "Machine Learning on Large-Scale Graphs",
-        "contact": "rubruiz@seas.upenn.edu"
+        "contact": "rubruiz@seas.upenn.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/ruiz/"
     },
     "Liyue Shen": {
         "institution": "Stanford University",
         "description": "Exploiting Prior Knowledge in Physical World Incorporated with Machine Learning for Solving Medical Imaging Problems",
-        "contact": "liyues@stanford.edu"
+        "contact": "liyues@stanford.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/shen-liyue/"
     },
     "Yuhan Shi": {
         "institution": "UCSD",
         "description": "Neuro-inspired Computing using Resistive Memory Devices",
-        "contact": "yus022@eng.ucsd.edu"
+        "contact": "yus022@eng.ucsd.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/shi-yuhan/"
     },
     "Tal Shnitzer": {
         "institution": "MIT",
         "description": "Multi-modal and Temporal Data Analysis with Diffusion Operators",
-        "contact": "talsd@mit.edu"
+        "contact": "talsd@mit.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/shnitzer/"
     },
     "Kaitlin Nicole Smith": {
         "institution": "University of Chicago",
         "description": "Decoherence Mitigation in Quantum Computers through Instruction Scheduling",
-        "contact": "kns@uchicago.edu"
+        "contact": "kns@uchicago.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/smith/"
     },
     "Mansi Sood": {
         "institution": "Carnegie Mellon University",
         "description": "Heterogeneous models for designing resilient topologies and controlling spreading phenomena in real-world networks",
-        "contact": "msood@andrew.cmu.edu"
+        "contact": "msood@andrew.cmu.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/sood-mansi/"
     },
     "Ana-Andreea Stoica": {
         "institution": "Columbia University",
         "description": "Diversity and inequality in social networks",
-        "contact": "as5001@columbia.edu"
+        "contact": "as5001@columbia.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/stoica/"
     },
     "Jina Suh": {
         "institution": "University of Washington/Microsoft Research",
         "description": "Designing Mental Health and Wellbeing Interventions through Computational and Contextual Understanding",
-        "contact": "jinasuh@cs.washington.edu"
+        "contact": "jinasuh@cs.washington.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/suh/"
     },
     "Tianqi Tang": {
         "institution": "UC Santa Barbara",
         "description": "Hardware Modeling & Efficient Architectural Exploration for Machine Learning Accelerator Design",
-        "contact": "ttq1008@gmail.com"
+        "contact": "ttq1008@gmail.com",
+        "personal page": "https://risingstars21-eecs.mit.edu/tang/"
     },
     "Maribel Torres-Velazquez": {
         "institution": "UW-Madison",
         "description": "Multi-channel Deep Learning Networks as an Advanced Modeling Technique in Improving Epilepsy Workup",
-        "contact": "torresvelazq@wisc.edu"
+        "contact": "torresvelazq@wisc.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/torres-velazquez/"
     },
     "Jingbo Wang": {
         "institution": "University of Southern California",
         "description": "Enhancing Software Security via Scalable Verification and Program Synthesis Techniques",
-        "contact": "jingbow@usc.edu"
+        "contact": "jingbow@usc.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/wang-jingbo/"
     },
     "Stephanie Wang": {
         "institution": "UC Berkeley",
         "description": "A Distributed Memory Layer for General-Purpose Execution",
-        "contact": "swang@cs.berkeley.edu"
+        "contact": "swang@cs.berkeley.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/wang-stephanie/"
     },
     "Amanda Watson": {
         "institution": "University of Pennsylvania",
         "description": "Computation of Human Performance",
-        "contact": "aawatson@seas.upenn.edu"
+        "contact": "aawatson@seas.upenn.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/watson/"
     },
     "Melanie Weber": {
         "institution": "University of Oxford",
         "description": "Geometric Methods for Machine Learning and Optimization",
-        "contact": "mw25@math.princeton.edu"
+        "contact": "mw25@math.princeton.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/weber/"
     },
     "Alycen Wiacek": {
         "institution": "Johns Hopkins University",
         "description": "Coherence-based Learning from Raw Ultrasound Data for Breast Mass Diagnosis",
-        "contact": "awiacek1@jhu.edu"
+        "contact": "awiacek1@jhu.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/wiacek/"
     },
     "Kristin Williams": {
         "institution": "Carnegie Mellon University",
         "description": "An Upcycled IoT: Reducing the Financial and Social Costs of Adopting New Computing through Lightweight Modification of Everyday Objects",
-        "contact": "krismawil@cs.cmu.edu"
+        "contact": "krismawil@cs.cmu.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/williams-2/"
     },
     "Qian Zhang": {
         "institution": "UCLA",
         "description": "Reinventing Software Developer Tools for Heterogeneous Computing Paradigm",
-        "contact": "zhangqian@cs.ucla.edu"
+        "contact": "zhangqian@cs.ucla.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/zhang-qian/"
     },
     "Jieyu Zhao": {
         "institution": "UCLA",
         "description": "Understanding and Intervening on Societal Biases in Natural Language Processing",
-        "contact": "jieyuzhao@ucla.edu"
+        "contact": "jieyuzhao@ucla.edu",
+        "personal page": "https://risingstars21-eecs.mit.edu/zhao-jieyu/"
     }
 }
