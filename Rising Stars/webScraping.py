@@ -11,18 +11,12 @@ def getNames():
     # initial setups
     # $$ #
     urls =  [ # link to participants lists
-        "https://www2.eecs.berkeley.edu/risingstars/2020/participants/groupA-C.shtml",
-        "https://www2.eecs.berkeley.edu/risingstars/2020/participants/groupD-F.shtml",
-        "https://www2.eecs.berkeley.edu/risingstars/2020/participants/groupG-H.shtml",
-        "https://www2.eecs.berkeley.edu/risingstars/2020/participants/groupI-K.shtml",
-        "https://www2.eecs.berkeley.edu/risingstars/2020/participants/groupL-Q.shtml",
-        "https://www2.eecs.berkeley.edu/risingstars/2020/participants/groupR-V.shtml",
-        "https://www2.eecs.berkeley.edu/risingstars/2020/participants/groupW-Z.shtml"
+        "https://publish.illinois.edu/rising-stars/participants/"
     ]
 
     response = requests.get(urls[0], timeout=10)
     html_content = response.text
-    wanted_list = ['Roy Antony Palomino Rojas'] # initial scraping models to get participants' names & personal pages
+    wanted_list = ['Ayten Ozge Akmandor'] # initial scraping models to get participants' names & personal pages
     # $$ #
 
     # init. autoscraper
@@ -33,11 +27,7 @@ def getNames():
     for u in urls:
         result = scraper.get_result_similar(url=u, grouped=True)#, group_by_alias=True)
         print(result)
-        names = list(result.values())[0]
-        address = list(result.values())[1]
-        basic = list(zip(names, address))
-        participants += basic
-    getDetails(participants) # get detailed information from personal pages (if applicable)
+    # getDetails(participants) # get detailed information from personal pages (if applicable)
     # $$ #
 
 def getDetails(participants):

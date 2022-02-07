@@ -22,7 +22,7 @@ def getDetails(names, bioLink):
     # scraper initialization / training
     temp = [ # training models
         # (bioLink[0], ["maa343@cornell.edu"]), # default case
-        ("https://risingstars21-eecs.mit.edu/ippolito/", ["daphnei@seas.upenn.edu"]) # case when email is too long so it goes over a single line
+        ("https://risingstars21-eecs.mit.edu/ippolito/", ["daphnei@seas.upenn.edu", "Position: PhD Candidate"]) # case when email is too long so it goes over a single line
     ]
     scraper = AutoScraper()
     for url, wanted_list in temp:
@@ -45,8 +45,10 @@ def getDetails(names, bioLink):
         result = scraper.get_result_similar(html=html_content) # by using get_result_similar, even though the exact email address is different, the scraper object will know that the object in the same position is the one to fetch
         if "Email: " in result[0]:
             result[0] = result[0].split()[1]
+        if "Position: " in result[1]:
+            result[1] = result[1].split(maxsplit=1)[1]
         print(result)
-        data[name] = {'institution': institution, 'description': desc, 'contact': result[0], 'personal page': bioLink[i]}
+        data[name] = {'institution': institution, 'description': desc, 'position': result[1], 'contact': result[0], 'personal page': bioLink[i]}
         # print("\nname:", name, "\ninstitution:", institution, "\ndesc:", desc, "\nemail:", result[0])
 
     final = json.dumps(data, indent=4)

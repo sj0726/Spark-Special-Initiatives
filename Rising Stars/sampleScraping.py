@@ -62,10 +62,10 @@ def getDetails(participants):
         # $$ #
         response = requests.get(link + participants[i][1], timeout=10)
         html_content = response.text
-        result = scraper.get_result_similar(html=html_content) # by using get_result_similar, even though the exact email address is different, the scraper object will know that the object in the same position is the one to fetch
+        result = scraper.get_result_similar(html=html_content) # by using get_result_similar, even though the exact content is different, the scraper object will know that the object in the same position is the one to fetch
         print(result)
         if len(result) < 3:
-            result.append("N/A")
+            result.append("N/A") # in case there is no information listed (happens for some participants)
         data[participants[i][0]] = {'institution:': result[0], 'description': result[1], 'contact': result[2]}
         # $$ #
 

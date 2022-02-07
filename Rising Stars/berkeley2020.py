@@ -22,7 +22,7 @@ def getNames():
 
     response = requests.get(urls[0], timeout=10)
     html_content = response.text
-    wanted_list = ['Roy Antony Palomino Rojas'] # initial scraping models to get participants' names & personal pages
+    wanted_list = ['Sarah Aguasvivas Manzano', 'amanzano.shtml'] # initial scraping models to get participants' names & personal pages
     # $$ #
 
     # init. autoscraper
@@ -45,8 +45,8 @@ def getDetails(participants):
     # $$
     link = "https://www2.eecs.berkeley.edu/risingstars/2020/participants/"
     temp = [ # training models
-        (link + participants[0][1], ["University of Colorado Boulder", "Control and Learning on Edge Devices for Peripheral Robot Intelligence", "https://sarahaguasvivas.github.io/"]), # case when email is too long so it goes over a single line
-        (link + participants[1][1], ["Northwestern University", "Re-imagining Wearable Visual Observation", "https://www.rawanalharbi.com/"])
+        (link + participants[0][1], ["University of Colorado Boulder", "PhD Candidate", "Control and Learning on Edge Devices for Peripheral Robot Intelligence", "https://sarahaguasvivas.github.io/"]), # case when email is too long so it goes over a single line
+        (link + participants[1][1], ["Northwestern University", "PhD Candidate", "Re-imagining Wearable Visual Observation", "https://www.rawanalharbi.com/"])
     ]
     # $$ #
 
@@ -64,13 +64,13 @@ def getDetails(participants):
         html_content = response.text
         result = scraper.get_result_similar(html=html_content) # by using get_result_similar, even though the exact email address is different, the scraper object will know that the object in the same position is the one to fetch
         print(result)
-        if len(result) < 3:
+        if len(result) < 4:
             result.append("N/A")
-        data[participants[i][0]] = {'institution:': result[0], 'description': result[1], 'contact': result[2]}
+        data[participants[i][0]] = {'institution:': result[0], 'position': result[1], 'description': result[2], 'contact': "N/A", 'personal page': result[3]}
         # $$ #
 
     final = json.dumps(data, indent=4)
-    with open("data/Berkeley2020.json", "w") as f: 
+    with open("test.json", "w") as f: 
         f.write(final)
 
 if __name__ == "__main__":
