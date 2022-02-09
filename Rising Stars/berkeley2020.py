@@ -66,11 +66,11 @@ def getDetails(participants):
         print(result)
         if len(result) < 4:
             result.append("N/A")
-        data[participants[i][0]] = {'institution:': result[0], 'position': result[1], 'description': result[2], 'contact': "N/A", 'personal page': result[3]}
+        data[participants[i][0]] = {'institution': result[0], 'position': result[1], 'description': result[2], 'contact': "N/A", 'personal page': result[3]}
         # $$ #
 
     final = json.dumps(data, indent=4)
-    with open("test.json", "w") as f: 
+    with open("data/Berkeley2020.json", "w") as f: 
         f.write(final)
 
 if __name__ == "__main__":

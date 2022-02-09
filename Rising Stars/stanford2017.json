@@ -1,0 +1,548 @@
+{
+    "data": [
+        {
+            "name": "Bilge Acun",
+            "institution:": "University of Illinois at Urbana-Champaign",
+            "position": "PhD Candidate",
+            "description": "Mitigating Variability in HPC Systems and Applications for Performance and Power Efficiency ",
+            "contact": "mailto:acun2@illinois.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/bilge-acun/"
+        },
+        {
+            "name": "Shaizeen Aga",
+            "institution:": "University of Michigan",
+            "position": "PhD Candidate",
+            "description": "Compute Caches",
+            "contact": "mailto:shaizeen@umich.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/shaizeen-aga/"
+        },
+        {
+            "name": "Shideh Kabiri Ameri",
+            "institution:": "University of Texas at Austin",
+            "position": "Postdoctoral Fellow",
+            "description": "Imperceptible Electronic Tattoos for Physiological Sensing ",
+            "contact": "mailto:s.kabiri@utexas.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/shideh-kabiri-ameri/"
+        },
+        {
+            "name": "Sara Ayoubi",
+            "institution:": "Waterloo University",
+            "position": "Postdoctoral Fellow",
+            "description": "A Cut-and-Solve Based Approach for the VNF Assignment Problem ",
+            "contact": "mailto:sara.ayoubi@hotmail.com",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/sara-ayoubi/"
+        },
+        {
+            "name": "Sarah Adel Bargal",
+            "institution:": "Boston University",
+            "position": "PhD Candidate",
+            "description": "Excitation Backprop Through Time for Spatio-temporal Localization of Actions in Videos. ",
+            "contact": "mailto:sbargal@bu.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/sarah-adel-bargal/"
+        },
+        {
+            "name": "Maria Jose Cadena",
+            "institution:": "Purdue University",
+            "position": "PhD Candidate",
+            "description": "Adding a third dimension to nanoscale imaging in the atomic force microscope: 3D subsurface imaging and reconstruction ",
+            "contact": "mailto:mcadenav@purdue.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/maria-jose/"
+        },
+        {
+            "name": "Aylin Caliskan",
+            "institution:": "Princeton University",
+            "position": "Postdoctoral Research Associate and CITP Fellow",
+            "description": "Fairness, Privacy, and Security via Machine Learning and Natural Language Processing ",
+            "contact": "mailto:aylinc@princeton.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/aylin-caliskan/"
+        },
+        {
+            "name": "Huiwen Chang",
+            "institution:": "Princeton University",
+            "position": "Phd Candidate",
+            "description": "PairCycleGAN: Style Transfer using Generative Adversarial Model ",
+            "contact": "mailto:huiwenc@cs.princeton.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/huiwen-chang/"
+        },
+        {
+            "name": "Ying-Chen Chen",
+            "institution:": "The University of Texas at Austin",
+            "position": "PhD student and research assistant",
+            "description": "Built-in Nonlinear Characteristics of Low Power Operating One-Resistor Selector-less RRAM ",
+            "contact": "mailto:yingchenchen@utexas.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/yuliya-chen/"
+        },
+        {
+            "name": "Eunsol Choi",
+            "institution:": "University of Washington",
+            "position": "Ph.D candidate",
+            "description": "Document-level Sentiment Inference with Social, Faction, and Discourse Context ",
+            "contact": "mailto:eunsol@cs.washington.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/eunsol-choi/"
+        },
+        {
+            "name": "Jungwon Choi",
+            "institution:": "Stanford University",
+            "position": "Ph.D student",
+            "description": "High-frequency, high-power resonant converter with Wideband gap devices for wireless power transfer systems ",
+            "contact": "mailto:jwonchoi@stanford.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/jungwon-choi/"
+        },
+        {
+            "name": "Vivian Chu",
+            "institution:": "Georgia Institute of Technology",
+            "position": "PhD Candidate",
+            "description": "Teaching Robots About Human Environments: Leveraging Human Interaction to Efficiently Learn and Use Multimodal Object Affordances ",
+            "contact": "mailto:vchu@gatech.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/vivian-chu/"
+        },
+        {
+            "name": "Aida Colon",
+            "institution:": "Columbia University",
+            "position": "Graduate Research Assistant",
+            "description": "3D Monolithic Integration of Piezoelectric MEMS on CMOS for RF and Sensing Applications ",
+            "contact": "mailto:arc2191@columbia.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/aida-colon/"
+        },
+        {
+            "name": "Natacha Crooks",
+            "institution:": "University of Texas at Austin and Cornell University",
+            "position": "PhD Student",
+            "description": "TARDiS: A branch-and-merge approach to weak consistency ",
+            "contact": "mailto:ncrooks@cs.utexas.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/natacha-crooks/"
+        },
+        {
+            "name": "Claudia D\u2019Arpino",
+            "institution:": "MIT",
+            "position": "PhD Candidate",
+            "description": "Learning How to Plan for Multi-Step Manipulation in Collaborative Robotics ",
+            "contact": "mailto:cdarpino@mit.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/claudia-darpino/"
+        },
+        {
+            "name": "Karen Dowling",
+            "institution:": "Stanford University",
+            "position": "PhD Candidate",
+            "description": "Gallium Nitride Based Magnetic Field Sensing for the Europa Environment ",
+            "contact": "mailto:dow13@stanford.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/karen-dowling/"
+        },
+        {
+            "name": "Katherine Driggs-Campbell",
+            "institution:": "Stanford University",
+            "position": "Postdoctoral Research Scholar",
+            "description": "Towards Trustworthy Autonomy: Exploring and Exploiting Structure in Human-Robot Systems ",
+            "contact": "mailto:krdc@stanford.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/katherine-driggs-campbell/"
+        },
+        {
+            "name": "Brittney English",
+            "institution:": "Georgia Institute of Technology",
+            "position": "PhD Candidate",
+            "description": "Designing an In-Home Scalable Robotic Arm and Tablet Gaming Suite for Hand Function Rehabilitation for Neurological Disorders ",
+            "contact": "mailto:brittney.english@gatech.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/brittney-english/"
+        },
+        {
+            "name": "Barbara Ericson",
+            "institution:": "Georgia Institute of Technology",
+            "position": "HCC PhD student",
+            "description": "Parsons Problems and Adaptive Parsons Problems: A More Efficient Form of Programming Practice ",
+            "contact": "mailto:ericson@cc.gatech.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/barbara-ericson/"
+        },
+        {
+            "name": "Nasim Mohammadi Estakhri",
+            "institution:": "University of Pennsylvania",
+            "position": "Postdoctoral Researcher",
+            "description": "Computational meta-platforms: Using light to solve mathematical equations ",
+            "contact": "mailto:esmo@seas.upenn.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/nasim-mohammadi-estakhri/"
+        },
+        {
+            "name": "Chelsea Finn",
+            "institution:": "UC Berkeley",
+            "position": "PhD student",
+            "description": "Learning to Learn: Enabling Robot Versatility with Adaptable Deep Representations ",
+            "contact": "mailto:cbfinn@eecs.berkeley.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/a/"
+        },
+        {
+            "name": "Tesca Fitzgerald",
+            "institution:": "Georgia Tech",
+            "position": "PhD Candidate",
+            "description": "Human-Guided Task Transfer in Interactive Robots",
+            "contact": "mailto:tesca.fitzgerald@cc.gatech.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/tesca-fitzgerald/"
+        },
+        {
+            "name": "Fraida Fund",
+            "institution:": "New York University",
+            "position": "PhD student",
+            "description": "Spectrum and Infrastructure Sharing in Millimeter Wave Cellular Networks: An Economic Perspective ",
+            "contact": "mailto:ffund@nyu.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/fraida-fund/"
+        },
+        {
+            "name": "Marjan Ghazvininejad",
+            "institution:": "University of Southern California",
+            "position": "Ph.D. Candidate",
+            "description": "Neural Creative Language Generation ",
+            "contact": "mailto:mghazvin@usc.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/marjan-ghazvininejad/"
+        },
+        {
+            "name": "Xiwen Gong",
+            "institution:": "University of Toronto",
+            "position": "PhD student",
+            "description": "Novel Solution-processed Materials for Efficient Optoelectronics ",
+            "contact": "mailto:xiwengong@gmail.com",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/xiwen-gong/"
+        },
+        {
+            "name": "Nika Haghtalab",
+            "institution:": "Carnegie Mellon University",
+            "position": "Ph.D. candidate",
+            "description": "Foundations for machine learning by the people, for the people \u2014 with a focus on learning in economic mechanisms ",
+            "contact": "mailto:nika@cmu.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/nika-haghtalab/"
+        },
+        {
+            "name": "Georgina Hall",
+            "institution:": "Princeton University",
+            "position": "Graduate Student",
+            "description": "Nonnegative polynomials, and applications to learning ",
+            "contact": "mailto:gh4@princeton.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/georgina-hall/"
+        },
+        {
+            "name": "Nazila Haratipour",
+            "institution:": "Intel Corporation",
+            "position": "Components Research Engineer",
+            "description": "Two-Dimensional Black Phosphorus for High Performance Field Effect Transistors ",
+            "contact": "mailto:harat001@umn.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/nazila-haratipour/"
+        },
+        {
+            "name": "He He",
+            "institution:": "Stanford University",
+            "position": "Post-doc",
+            "description": "Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings ",
+            "contact": "mailto:hehe@cs.stanford.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/he-he/"
+        },
+        {
+            "name": "Lisa Anne Hendricks",
+            "institution:": "UC Berkeley",
+            "position": "Graduate Student",
+            "description": "Building Systems that Talk About What They See ",
+            "contact": "mailto:lisa_anne@berkeley.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/lisa-anne-hendricks/"
+        },
+        {
+            "name": "Maia Jacobs",
+            "institution:": "Georgia Institute of Technology",
+            "position": "PhD Candidate",
+            "description": "Designing Adaptive Technology to Provide Personalized Support to Cancer Patients ",
+            "contact": "mailto:mjacobs30@gatech.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/maia-jacobs/"
+        },
+        {
+            "name": "Yuting Ji",
+            "institution:": "Stanford University",
+            "position": "Postdoctoral scholar",
+            "description": "Learning, Modeling and Optimization of the Smart Grid ",
+            "contact": "mailto:yutingji@stanford.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/yuting-ji/"
+        },
+        {
+            "name": "Rosie Jia",
+            "institution:": "University of California",
+            "position": "PhD Candidate",
+            "description": "Towards a Theory of Free-Lunch Privacy in Cyber-Physical Systems ",
+            "contact": "mailto:ruoxijia@berkeley.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/rosie-jia/"
+        },
+        {
+            "name": "Anastasia Dubrovina Karni",
+            "institution:": "Stanford University",
+            "position": "Postdoctoral fellow",
+            "description": "Spectral Generalized Multi-Dimensional Scaling ",
+            "contact": "mailto:nastyad@gmail.com",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/anastasia-dubrovina-karni/"
+        },
+        {
+            "name": "Dakshita Khurana",
+            "institution:": "UCLA",
+            "position": "PhD Student",
+            "description": "How to Read an Adversary\u2019s Mind ",
+            "contact": "mailto:dakshita@cs.ucla.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/dakshita-khurana/"
+        },
+        {
+            "name": "Jeeeun Kim",
+            "institution:": "University of Colorado Boulder",
+            "position": "PhD Student",
+            "description": "Human-Fabricator Interaction (HFI): Formalizing the Interaction between Human Designers and Fabricators ",
+            "contact": "mailto:jeeeun.kim@colorado.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/jeeeun-kim/"
+        },
+        {
+            "name": "Sandhya Koteshwara",
+            "institution:": "PhD Candidate",
+            "position": "University of Minnesota",
+            "description": "Key-Based Dynamic Functional Obfuscation of Integrated Circuits using Sequentially-Triggered Mode-Based Design ",
+            "contact": "",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/sandhya-koteshwara/"
+        },
+        {
+            "name": "Yixuan Li",
+            "institution:": "Cornell University",
+            "position": "PhD Candidate",
+            "description": "Snapshot Ensemble: Train 1, Get M for Free ",
+            "contact": "mailto:yl2363@cornell.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/yixuan-li/"
+        },
+        {
+            "name": "Celine Yingyan Lin",
+            "institution:": "Rice University",
+            "position": "Research fellow",
+            "description": "Energy-efficient Machine Learning Systems for Edge and Cloud Computing ",
+            "contact": "mailto:yingyan.lin@rice.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/celine-yingyan-lin/"
+        },
+        {
+            "name": "Changliu Liu",
+            "institution:": "University of California",
+            "position": "PhD Candidate",
+            "description": "Designing Robot Behavior in Human-Robot Interactions",
+            "contact": "mailto:changliuliu@berkeley.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/changliu-liu/"
+        },
+        {
+            "name": "Peihan Miao",
+            "institution:": "UC Berkeley",
+            "position": "PhD candidate",
+            "description": "Towards Secure Computation on Large Datasets ",
+            "contact": "mailto:peihan@berkeley.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/peihan-miao/"
+        },
+        {
+            "name": "Gal Mishne",
+            "institution:": "Yale University",
+            "position": "Gibbs Assistant Professor",
+            "description": "Local diffusion geometry for calcium imaging analysis ",
+            "contact": "mailto:gal.mishne@yale.edu ",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/gal-mishne/"
+        },
+        {
+            "name": "Radhika Mittal",
+            "institution:": "UC Berkeley",
+            "position": "Phd Student",
+            "description": "Revisiting Network Support for RDMA ",
+            "contact": "mailto:radhika@eecs.berkeley.edu ",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/radhika-mittal/"
+        },
+        {
+            "name": "Aseema Mohanty",
+            "institution:": "Columbia University/Cornell University",
+            "position": "Graduate Student",
+            "description": "Reconfigurable Visible Nanophotonics Platform for High Resolution In Vivo Optogenetics ",
+            "contact": "mailto:am2353@cornell.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/aseema-mohanty/"
+        },
+        {
+            "name": "Sara Mouradian",
+            "institution:": "MIT",
+            "position": "Graduate Student",
+            "description": "Scalable Solid State Quantum Information Processing ",
+            "contact": "mailto:smouradi@mit.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/sara-mouradian/"
+        },
+        {
+            "name": "Elizabeth Murnane",
+            "institution:": "Stanford University",
+            "position": "Postdoctoral Scholar",
+            "description": "Developing assessment and intervention technologies to support personal health and well-being ",
+            "contact": "mailto:emurnane@stanford.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/elizabeth-murnane/"
+        },
+        {
+            "name": "Parinaz Naghizadeh",
+            "institution:": "University of Michigan",
+            "position": "Postdoctoral Research Fellow",
+            "description": "Network games with applications in cyber security ",
+            "contact": "mailto:naghizad@umich.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/parinaz-naghizadeh/"
+        },
+        {
+            "name": "Azade Nazi",
+            "institution:": "Microsoft Research",
+            "position": "Post Doc researcher",
+            "description": "Node Sampling from Large Networks with Restricted Access",
+            "contact": "mailto:azade.nazi@gmail.com",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/azade-nazi/"
+        },
+        {
+            "name": "Uran Oh",
+            "institution:": "Carnegie Mellon University",
+            "position": "Postdoctoral Fellow",
+            "description": "Non-Visual On-Body Interaction to Improve Accessibility of Mobile Devices for People with Visual Impairments ",
+            "contact": "mailto:uranoh@cmu.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/uran-oh/"
+        },
+        {
+            "name": "Francesca Parise",
+            "institution:": "MIT",
+            "position": "Postdoctoral fellow",
+            "description": "Network aggregative games ",
+            "contact": "mailto:parisef@mit.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/francesca-parise/"
+        },
+        {
+            "name": "Umashanthi Pavalanathan",
+            "institution:": "Georgia Tech",
+            "position": "PhD Candidate",
+            "description": "Computational Approaches to Understanding Stylistic Variation in Online Writing ",
+            "contact": "mailto:umashanthi@gatech.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/umashanthi-pavalanathan/"
+        },
+        {
+            "name": "Antigoni Polychroniadou",
+            "institution:": "Cornell University",
+            "position": "Post-Doctoral Researcher",
+            "description": "How quickly can Secure Distributed Computer Systems operate? ",
+            "contact": "mailto:antigoni@cornell.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/antigoni-polychroniadou/"
+        },
+        {
+            "name": "Temiloluwa Prioleau",
+            "institution:": "Postdoctoral Fellow",
+            "position": "Rice University",
+            "description": "Digital SMD \u2013 Digital Behavioral Markers for Improved Self-Management of Diabetes",
+            "contact": "mailto:to9@rice.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/temiloluwa-prioleau/"
+        },
+        {
+            "name": "Ye Pu",
+            "institution:": "UC Berkeley",
+            "position": "Post-doc researcher",
+            "description": "Distributed optimization with limited computation and communication resources ",
+            "contact": "mailto:yepu@eecs.berkeley.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/ye-pu/"
+        },
+        {
+            "name": "Marina Radulaski",
+            "institution:": "Stanford University",
+            "position": "Nano- and Quantum Science and Engineering Postdoctoral Fellow",
+            "description": "Scalable Nanophotonics for Fast Classical and Quantum Information Processing ",
+            "contact": "mailto:marina.radulaski@stanford.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/marina-radulaski/"
+        },
+        {
+            "name": "Maryam Eslami Rasekh",
+            "institution:": "University of California Santa Barbara",
+            "position": "PhD Candidate",
+            "description": "Enabling next generation mobile networks with millimeter wave communication ",
+            "contact": "mailto:rasekh@ucsb.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/maryam-eslami-rasekh/"
+        },
+        {
+            "name": "Negar Reiskarimian",
+            "institution:": "Columbia University",
+            "position": "PhD candidate",
+            "description": "Breaking Lorentz Reciprocity Enables New Wireless Communication Paradigms: From Physics to Applications ",
+            "contact": "mailto:nr2475@columbia.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/negar-reiskarimian/"
+        },
+        {
+            "name": "Natali Ruchansky",
+            "institution:": "University of Southern California",
+            "position": "Postdoc",
+            "description": "The Minimum Wiener Connector ",
+            "contact": "mailto:natalir@bu.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/natali-ruchansky/"
+        },
+        {
+            "name": "Niloufar Salehi",
+            "institution:": "Stanford University",
+            "position": "PhD student",
+            "description": "Hive: Decentralized Open Design Through Network Rotation ",
+            "contact": "mailto:niloufar@cs.stanford.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/niloufar-salehi/"
+        },
+        {
+            "name": "Adriana Schulz",
+            "institution:": "MIT",
+            "position": "PhD Student",
+            "description": "Computational Design for the Next Manufacturing Revolution ",
+            "contact": "mailto:aschulz@csail.mit.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/adriana-schulz/"
+        },
+        {
+            "name": "Yanning Shen",
+            "institution:": "University of Minnesota",
+            "position": "PhD Student",
+            "description": "Nonlinear Models for Topology Inference and Learning over Graphs ",
+            "contact": "mailto:shenx513@umn.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/yanning-shen/"
+        },
+        {
+            "name": "Sha Shi",
+            "institution:": "University of Minnesota",
+            "position": "Research Assistant",
+            "description": "Large Magneto-Resistance of Organic Molecular Tunnel Junctions with Non-Magnetic Electrodes ",
+            "contact": "mailto:shixx262@umn.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/sha-shi/"
+        },
+        {
+            "name": "Si Si",
+            "institution:": "Google Research",
+            "position": "Software Engineer",
+            "description": "Small Models for Big Data ",
+            "contact": "mailto:sisidaisy@google.com",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/si-si/"
+        },
+        {
+            "name": "Nandita Vijaykumar",
+            "institution:": "Carnegie Mellon University",
+            "position": "PhD Student",
+            "description": "Cross-Layer Compute and Memory Abstractions for Enhanced Programmability, Portability, and Performance in GPUs ",
+            "contact": "mailto:nandita@cmu.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/nandita-vijaykumar/"
+        },
+        {
+            "name": "Emily Walker",
+            "institution:": "The University of Texas",
+            "position": "PhD Candidate",
+            "description": "Monolayer-Scale Growth of Bismuth and Bismuth Antimonide Thin Films, and Their Transfer to Arbitrary Substrates ",
+            "contact": "mailto:eswalker@utexas.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/emily-walker/"
+        },
+        {
+            "name": "Diyi Yang",
+            "institution:": "Carnegie Mellon University",
+            "position": "PhD",
+            "description": "Identify, Recommend, and Configure Social Roles in Online Communities ",
+            "contact": "mailto:diyiy@cs.cmu.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/diyi-yang/"
+        },
+        {
+            "name": "Serena Yeung",
+            "institution:": "Stanford University",
+            "position": "PhD student",
+            "description": "Every Moment Counts: Dense Detailed Labeling of Actions in Complex Videos ",
+            "contact": "mailto:serena@cs.stanford.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/serena-yeung/"
+        },
+        {
+            "name": "Linda Zhang",
+            "institution:": "Stanford University",
+            "position": "PhD candidate",
+            "description": "Quantum Engineering with Diamond Nanophotonic Systems ",
+            "contact": "mailto:ljzhang@stanford.edu",
+            "personal page": "https://risingstars2017.stanford.edu/organizing-committee/linda-zhang/"
+        }
+    ]
+}

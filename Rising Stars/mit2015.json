@@ -1,0 +1,492 @@
+{
+    "data": [
+        {
+            "name": "Henny Admoni",
+            "institution:": "Yale University",
+            "position": "PhD Candidate",
+            "description": "\u201cNonverbal Communication in Human-Robot Interaction\u201d",
+            "contact": "mailto:henny.admoni@yale.edu",
+            "personal page": "http://hennyadmoni.com"
+        },
+        {
+            "name": "Ilge Akkaya",
+            "institution:": "UC Berkeley",
+            "position": "PhD Candidate",
+            "description": "\u201cCompositional actor-oriented learning and optimization for swarm applications\u201d",
+            "contact": "mailto:ilgea@eecs.berkeley.edu",
+            "personal page": "http://eecs.berkeley.edu/~ilgea"
+        },
+        {
+            "name": "Sara Alspaugh",
+            "institution:": "UC Berkeley",
+            "position": "PhD Candidate",
+            "description": "\u201cCharacterizing Data Exploration Behavior to Identify Opportunities for Automation\u201d",
+            "contact": "mailto:alspaugh@eecs.berkeley.edu",
+            "personal page": "http://www.eecs.berkeley.edu/~alspaugh/"
+        },
+        {
+            "name": "Elnaz Banan Sadeghian",
+            "institution:": "Georgia Institute of Technology",
+            "position": "PhD student",
+            "description": "\u201cDetector for Two-Dimensional Magnetic Recording\u201d",
+            "contact": "mailto:ebsadeghian@gatech.edu",
+            "personal page": "http://users.ece.gatech.edu/~elnaz3"
+        },
+        {
+            "name": "Katherine Bouman",
+            "institution:": "MIT",
+            "position": "Graduate Student",
+            "description": "\u201cVisual Vibrometry: Estimating Material Properties from Small Motions in Video\u201d",
+            "contact": "mailto:klbouman@mit.edu",
+            "personal page": "http://people.csail.mit.edu/klbouman/"
+        },
+        {
+            "name": "Carrie Cai",
+            "institution:": "MIT",
+            "position": "PhD student",
+            "description": "\u201cWait-Learning: Leveraging Wait Time for Education\u201d",
+            "contact": "mailto:cjcai@mit.edu",
+            "personal page": "http://people.csail.mit.edu/ccai/"
+        },
+        {
+            "name": "Precious Cant\u00fa",
+            "institution:": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne (EPFL)",
+            "position": "Fulbright Post-doctoral Fellow",
+            "description": "\u201cPatterning via Optical Saturable Transitions\u201d",
+            "contact": "mailto:precious.cantu@epfl.ch",
+            "personal page": "http://sunmil.epfl.ch"
+        },
+        {
+            "name": "Peggy Chi",
+            "institution:": "UC Berkeley",
+            "position": "PhD student",
+            "description": "\u201cDesigning Video-Based Interactive Instructions\u201d",
+            "contact": "mailto:peggychi@eecs.berkeley.edu",
+            "personal page": "http://www.cs.berkeley.edu/~peggychi/"
+        },
+        {
+            "name": "Hannah Clevenson",
+            "institution:": "MIT",
+            "position": "PhD Candidate",
+            "description": "\u201cSensing and Timekeeping using a Light-Trapping Diamond Waveguide\u201d",
+            "contact": "mailto:hannahac@mit.edu",
+            "personal page": "https://risingstars15-eecs.mit.edu/hannah-anne-clevenson/"
+        },
+        {
+            "name": "SeyedehAida (Aida) Ebrahimi",
+            "institution:": "Purdue University",
+            "position": "PhD Candidate",
+            "description": "\u201cDroplet-based impedance spectroscopy for highly-sensitive biosensing within minutes\u201d",
+            "contact": "mailto:sebrahim@purdue.edu",
+            "personal page": "http://sites.google.com/site/aidaebrahimi/new-home-1"
+        },
+        {
+            "name": "Motahareh Eslamimehdiabadi",
+            "institution:": "UIUC",
+            "position": "PhD Candidate",
+            "description": "\u201cReasoning about Invisible Algorithms in News Feeds\u201d",
+            "contact": "mailto:eslamim2@illinois.edu",
+            "personal page": "http://web.engr.illinois.edu/~eslamim2/ "
+        },
+        {
+            "name": "Virginia Estellers",
+            "institution:": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne (EPFL)",
+            "position": "Postdoctoral Fellow\u00a0",
+            "description": "\u201cRobust Models and Efficient Algorithms for Imaging\u201d",
+            "contact": "mailto:vestellers@math.ucla.edu",
+            "personal page": "http://vision.ucla.edu/~virginia/"
+        },
+        {
+            "name": "Liyue Fan",
+            "institution:": "University of Southern California",
+            "position": "Postdoctoral Research Associate",
+            "description": "\u201cPreserving Individual Privacy in Big Data Analytics\u201d",
+            "contact": "mailto:liyuefan@usc.edu",
+            "personal page": "https://risingstars15-eecs.mit.edu/liyue-fan/"
+        },
+        {
+            "name": "Fei Fang",
+            "institution:": "University of Southern California",
+            "position": "PhD Candidate",
+            "description": "\u201cTowards Addressing Spatio-Temporal Aspects in Security Games\u201d",
+            "contact": "mailto:feifang@usc.edu",
+            "personal page": "http://teamcore.usc.edu/people/feifang/"
+        },
+        {
+            "name": "Giulia Fanti",
+            "institution:": "UC Berkeley",
+            "position": "Position: Ph.D. candidate",
+            "description": "\u201cPrivacy-preserving data access and dissemination; graph signal processing.",
+            "contact": "mailto:fg.fanti@gmail.com",
+            "personal page": "http://eecs.berkeley.edu/~gfanti/"
+        },
+        {
+            "name": "Lu Feng",
+            "institution:": " University of Pennsylvania",
+            "position": "Postdoctoral Fellow",
+            "description": "\u201cAssuring the Safety and Security of Cyber-Physical Systems\u201d",
+            "contact": "mailto:lufeng@cis.upenn.edu",
+            "personal page": "http://www.cis.upenn.edu/~lufeng"
+        },
+        {
+            "name": "Kathleen Fraser",
+            "institution:": "University of Toronto",
+            "position": "PhD candidate",
+            "description": "\u201cText and speech processing for the detection of dementia\u201d",
+            "contact": "mailto:kfraser@cs.toronto.edu",
+            "personal page": "http://www.cs.toronto.edu/~kfraser/"
+        },
+        {
+            "name": "Marzyeh Ghassemi",
+            "institution:": "MIT",
+            "position": "Graduate Student",
+            "description": "\u201cEstimating the Response and Effect of Clinical Interventions\u201d",
+            "contact": "mailto:mghassem@gmail.com",
+            "personal page": "http://mghassem.mit.edu"
+        },
+        {
+            "name": "Elena Leah Glassman",
+            "institution:": "MIT",
+            "position": "PhD Candidate, EECS",
+            "description": "\u201cSystems for Teaching Programming and Hardware Design at Scale\u201d",
+            "contact": "mailto:elg@mit.edu",
+            "personal page": "http://people.csail.mit.edu/elg/"
+        },
+        {
+            "name": "Basak Guler",
+            "institution:": "Pennsylvania State University",
+            "position": "Ph.D. Candidate",
+            "description": "\u201cInteraction",
+            "contact": "mailto:basak@psu.edu",
+            "personal page": "http://www.personal.psu.edu/bxg215"
+        },
+        {
+            "name": "Divya Gupta",
+            "institution:": "UCLA",
+            "position": "PhD student Final year",
+            "description": "Hosting Services on an Untrusted Cloud\u201d",
+            "contact": "divyag@cs.ucla.edu",
+            "personal page": "www.cs.ucla.edu/~divyag"
+        },
+        {
+            "name": "Judy Hoffman",
+            "institution:": "UC Berkeley",
+            "position": "Postdoctoral Research Associate",
+            "description": "\u201cAdapting Deep Visual Models for Visual Recognition in the Wild\u201d",
+            "contact": "http://www.eecs.berkeley.edu/~jhoffman/",
+            "personal page": "https://risingstars15-eecs.mit.edu/948-2/"
+        },
+        {
+            "name": "Hui-Lin Hsu",
+            "institution:": "University of Toronto",
+            "position": "Research Assistant",
+            "description": "\u201cReduction in the Photoluminescence Quenching for Erbium-Doped Amorphous Carbon Photonic Materials by Deuteration and Fluorination\u201d",
+            "contact": "mailto:huilin.hsu@mail.utoronto.ca",
+            "personal page": "https://www.linkedin.com/pub/hui-lin-hsu/8b/697/b26"
+        },
+        {
+            "name": "Carlee Joe-Wong",
+            "institution:": "Princeton University",
+            "position": "Ph.D. candidate",
+            "description": "Smart(er) Data Pricing\u201d",
+            "contact": "mailto:cjoe@princeton.edu",
+            "personal page": "http://www.princeton.edu/~cjoe/"
+        },
+        {
+            "name": "Gauri Joshi",
+            "institution:": "MIT",
+            "position": "PhD Candidate",
+            "description": "\u201cUsing Redundancy to Reduce Delay in Cloud Systems\u201d",
+            "contact": "mailto:gauri@mit.edu",
+            "personal page": "http://www.mit.edu/~gauri"
+        },
+        {
+            "name": "Ankita Arvind Kejriwal",
+            "institution:": "Stanford University",
+            "position": "Student",
+            "description": "\u201cScalable Low-Latency Indexes for a Key-Value Store\u201d",
+            "contact": "mailto:ankitak@cs.stanford.edu",
+            "personal page": "http://stanford.edu/~ankitak"
+        },
+        {
+            "name": "Hana Khamfroush",
+            "institution:": "Penn State University",
+            "position": "Postdoctoral Scholar",
+            "description": "\u201cOn Propagation of Phenomena in Interdependent Networks\u201d",
+            "contact": "mailto:hkham@cse.psu.edu",
+            "personal page": "https://scholar.google.com/citations?user=qNAcUB8AAAAJ&hl=en "
+        },
+        {
+            "name": "Hyeji Kim",
+            "institution:": "Stanford University",
+            "position": "PhD Candidate",
+            "description": "\u201cSuperposition coding is almost always optimal for the Poisson broadcast channel\u201d",
+            "contact": "mailto:hyejikim@stanford.edu",
+            "personal page": "http://stanford.edu/~hyejikim/"
+        },
+        {
+            "name": "Jung-Eun Kim",
+            "institution:": "UIUC",
+            "position": "PhD Candidate",
+            "description": "\u201cA New Real-Time Scheduling Paradigm for Safety-Critical Multicore Systems\u201d",
+            "contact": "mailto:jekim314@illinois.edu",
+            "personal page": "http://publish.illinois.edu/cpsintegrationlab/people/jung-eun-kim/"
+        },
+        {
+            "name": "Varada Kolhatkar",
+            "institution:": "Privacy Analytics Inc",
+            "position": "Postdoc",
+            "description": "\u201cResolving Shell Nouns\u201d",
+            "contact": "mailto:varada.kolhatkar@gmail.com",
+            "personal page": "https://risingstars15-eecs.mit.edu/varada-kolhatkar/"
+        },
+        {
+            "name": "Parisa Kordjamshidi",
+            "institution:": "UIUC",
+            "position": "Postdoctoral research associate",
+            "description": "\u201cSaul: Towards Declarative Learning Based Programming\u201d",
+            "contact": "mailto:kordjam@illinois.edu",
+            "personal page": "http://cogcomp.cs.illinois.edu/~kordjam/"
+        },
+        {
+            "name": "Ramya Korlakai Vinayak",
+            "institution:": "California Institute of Technology",
+            "position": "Graduate Student",
+            "description": "\u201cConvex Optimization Based Graph Clustering: Theoretical Guarantees and Practical Applications\u201d",
+            "contact": "mailto:ramya@caltech.edu",
+            "personal page": "http://www.its.caltech.edu/~rkorlaka/"
+        },
+        {
+            "name": "Karla Kvaternik",
+            "institution:": "Princeton University",
+            "position": "Postdoctoral Research Associate",
+            "description": "\u201cConsensus Optimization Based Coordination Control Strategies\u201d",
+            "contact": "mailto:karlak@princeton.edu",
+            "personal page": "http://www.scg.utoronto.ca/~kvaternik/"
+        },
+        {
+            "name": "Min Kyung Lee",
+            "institution:": "Carnegie Mellon University",
+            "position": "Research Scientist",
+            "description": "\u201cDesigning human-centered algorithmic technologies\u201d",
+            "contact": "mailto:mklee@cs.cmu.edu",
+            "personal page": "http://www.cs.cmu.edu/~mklee/"
+        },
+        {
+            "name": "Kun (Linda) Li",
+            "institution:": "UC Berkeley",
+            "position": "PhD candidate",
+            "description": "\u201cIII-V compound semiconductor lasers for optical communication and imaging.",
+            "contact": "mailto:lindakli@berkeley.edu",
+            "personal page": "https://www.linkedin.com/pub/kun-linda-li/24/231/691"
+        },
+        {
+            "name": "Hongjin Liang",
+            "institution:": "University of Science and Technology of China",
+            "position": "Limited-term associate researcher",
+            "description": "\u201cA Program Logic for Concurrent Objects under Fair Scheduling\u201d",
+            "contact": "mailto:lhj1018@ustc.edu.cn",
+            "personal page": "http://staff.ustc.edu.cn/~lhj1018/"
+        },
+        {
+            "name": "Xi Ling",
+            "institution:": "MIT",
+            "position": "Postdoctoral Scholar",
+            "description": "\u201cSeeding Promoter Assisted Chemical Vapor Deposition of MoS2 Monolayer\u201d",
+            "contact": "xiling@mit.edu",
+            "personal page": "https://scholar.google.com/citations?hl=en&user=-7EvQ-AAAAAJ&view_op=list_works&sortby=pubdate "
+        },
+        {
+            "name": "Fei Liu",
+            "institution:": "Carnegie Mellon University",
+            "position": "Position: Postdoctoral Fellow",
+            "description": "\u201cNatural Language Processing",
+            "contact": "mailto:feiliu@cs.cmu.edu",
+            "personal page": "http://www.cs.cmu.edu/~feiliu/"
+        },
+        {
+            "name": "Yu-Hsin Liu",
+            "institution:": "UCSD",
+            "position": "PhD student",
+            "description": "\u201cSilicon p-n junction photodetectors\u201d",
+            "contact": "mailto:yul083@ucsd.edu",
+            "personal page": "https://risingstars15-eecs.mit.edu/yu-hsin-liu/"
+        },
+        {
+            "name": "Kristen Lurie",
+            "institution:": "Stanford University",
+            "position": "PhD Student",
+            "description": "\u201cNew optical imaging tools and visualization techniques for bladder cancer\u201d",
+            "contact": "mailto:klurie@stanford.edu",
+            "personal page": "https://risingstars15-eecs.mit.edu/kristen-lurie/"
+        },
+        {
+            "name": "Jelena Marasevic",
+            "institution:": "Columbia University",
+            "position": "Ph.D. Candidate",
+            "description": "\u201cLinks between systems and theory: Full-duplex wireless and beyond\u201d",
+            "contact": "mailto:jelena@ee.columbia.edu",
+            "personal page": "http://www.ee.columbia.edu/~jelena"
+        },
+        {
+            "name": "Ghita Mezzour",
+            "institution:": "International University of Rabat",
+            "position": "Assistant Professor",
+            "description": "\u201cA Socio-Technical Approach to Cyber-Security\u201d",
+            "contact": "mailto:ghita.mezzour@gmail.com",
+            "personal page": "www.ece.cmu.edu/~ghitam"
+        },
+        {
+            "name": "Jamie Morgenstern",
+            "institution:": "University of Pennsylvania",
+            "position": "Warren Fellow",
+            "description": "\u201cApproximately Stable",
+            "contact": "mailto:jamiemmt.cs@gmail.com",
+            "personal page": "http://cs.cmu.edu/~jamiemmt"
+        },
+        {
+            "name": "Vaishnavi Nattar Ranganathan",
+            "institution:": "University of Washington",
+            "position": "Graduate student",
+            "description": "\u201cLimb reanimation with fully wireless brain computer interface\u201d",
+            "contact": "mailto:vnattar@uw.edu",
+            "personal page": "https://www.linkedin.com/profile/view?id=199182018&trk=nav_responsive_tab_profile"
+        },
+        {
+            "name": "Xiang Ni",
+            "institution:": "UIUC",
+            "position": "PhD Candidate",
+            "description": "\u201cMitigation of Failures in High Performance Computing via Runtime Techniques\u201d",
+            "contact": "mailto:xiangni2@illinois.edu",
+            "personal page": "http://charm.cs.uiuc.edu/people/ni"
+        },
+        {
+            "name": "Dessislava Nikolova",
+            "institution:": "Columbia University",
+            "position": "Postdoctoral Research Scientist",
+            "description": "\u201cSilicon photonics for Exascale systems\u201d",
+            "contact": "mailto:dnn2108@columbia.edu",
+            "personal page": "https://risingstars15-eecs.mit.edu/dessislava-nikolova/"
+        },
+        {
+            "name": "Farnaz Niroui",
+            "institution:": "MIT",
+            "position": "Ph.D. Candidate",
+            "description": "\u201cNanoscale Engineering with Molecular Building Blocks\u201d",
+            "contact": "mailto:fniroui@mit.edu",
+            "personal page": "https://risingstars15-eecs.mit.edu/farnaz-niroui/"
+        },
+        {
+            "name": "Idoia Ochoa",
+            "institution:": "Stanford University",
+            "position": "PhD",
+            "description": "\u201cGenomic data compression and processing\u201d",
+            "contact": "iochoa@stanford.edu",
+            "personal page": "http://web.stanford.edu/~iochoa/"
+        },
+        {
+            "name": "Eleanor O\u2019Rourke",
+            "institution:": "University of Washington",
+            "position": "PhD Candidate",
+            "description": "\u201cEducational Systems for Maximizing Learning Online and in the Classroom\u201d",
+            "contact": "mailto:eorourke@cs.washington.edu",
+            "personal page": "http://homes.cs.washington.edu/~eorourke/ "
+        },
+        {
+            "name": "Amanda Prorok",
+            "institution:": "\u0003University of Pennsylvania",
+            "position": "Postdoctoral Researcher",
+            "description": "\u201cHeterogeneous Robot Swarms\u201d",
+            "contact": "mailto:prorok@seas.upenn.edu",
+            "personal page": "http://www.prorok.me"
+        },
+        {
+            "name": "Elina Robeva",
+            "institution:": "UC Berkeley",
+            "position": "Graduate Student",
+            "description": "\u201cSuper-resolution without Separation.\u201d",
+            "contact": "mailto:erobeva@berkeley.edu",
+            "personal page": "math.berkeley.edu/~erobeva"
+        },
+        {
+            "name": "Melanie Schmidt",
+            "institution:": "Carnegie Mellon University",
+            "position": "PostDoc",
+            "description": "\u201cAlgorithmic techniques for solving the k-means problem on big data sets\u201d",
+            "contact": "mailto:melanieschmidt@cmu.edu",
+            "personal page": "http://ls2-www.cs.uni-dortmund.de/~schmidt/ "
+        },
+        {
+            "name": "Claudia Schulz",
+            "institution:": " Imperial College London",
+            "position": "Ph.D. Candidate",
+            "description": "\u201cExplaining Logic Programming with Argumentation\u201d",
+            "contact": "mailto:claudia.schulz@imperial.ac.uk",
+            "personal page": "http://www.doc.ic.ac.uk/~cis11/"
+        },
+        {
+            "name": "Mahsa Shoaran",
+            "institution:": "California Institute of Technology",
+            "position": "Postdoctoral Fellow",
+            "description": "\u201cLow-Power Circuit and System Design for Epilepsy Diagnosis and Therapy\u201d",
+            "contact": "mailto:mshoaran@caltech.edu",
+            "personal page": "http://www.mics.caltech.edu/people/mahsa.php"
+        },
+        {
+            "name": "Eva Song",
+            "institution:": "Princeton University",
+            "position": "PhD candidate",
+            "description": "\u201cA New Approach to Lossy Compression and Applications to Security,\u201d",
+            "contact": "mailto:csong@princeton.edu",
+            "personal page": "http://www.princeton.edu/~csong"
+        },
+        {
+            "name": "Veronika Strnadova-Neeley",
+            "institution:": "UC Santa Barbara",
+            "position": "Ph.D. Candidate",
+            "description": "\u201cEfficient Clustering and Data Reduction Methods for Large-Scale Structured Data\u201d",
+            "contact": "mailto:veronika@cs.ucsb.edu",
+            "personal page": "www.cs.ucsb.edu/~veronika/"
+        },
+        {
+            "name": "Huan Sun",
+            "institution:": "UC Santa Barbara",
+            "position": "Graduate Student",
+            "description": "\u201cIntelligent and Collaborative Question Answering\u201d",
+            "contact": "huansun@cs.ucsb.edu",
+            "personal page": "http://www.cs.ucsb.edu/~huansun/"
+        },
+        {
+            "name": "Ewa Syta",
+            "institution:": "Yale University",
+            "position": "PhD Candidate",
+            "description": "\u201cCertificate Cothority: Towards Trustworthy Collective CAs\u201d",
+            "contact": "mailto:ewa.syta@yale.edu",
+            "personal page": "http://ewa.syta.us/"
+        },
+        {
+            "name": "Rabia Tugce Yazicigil",
+            "institution:": "\u0003\u0003Columbia University",
+            "position": "Ph.D. Candidate",
+            "description": "\u201cEnabling 5/Next-G Wireless Communications with Energy-Efficient",
+            "contact": "mailto:rty2102@columbia.edu",
+            "personal page": "https://risingstars15-eecs.mit.edu/rabia-tugce-yazicigil/"
+        },
+        {
+            "name": "Qi (Rose) Yu",
+            "institution:": "University of Southern California",
+            "position": "PhD candidate",
+            "description": "\u201cFast Multivariate Spatio-temporal Analysis via Low Rank Tensor Learning\u201d",
+            "contact": "mailto:qiyu@usc.edu",
+            "personal page": "http://www-scf.usc.edu/~qiyu/"
+        },
+        {
+            "name": "Zhou Yu",
+            "institution:": "Carnegie Mellon University",
+            "position": "PhD student",
+            "description": "\u201cEngagement in Multimodal Interactive Conversational Systems\u201d",
+            "contact": "mailto:zhouyu@cs.cmu.edu",
+            "personal page": "http://www.cs.cmu.edu/~zhouyu/"
+        }
+    ]
+}

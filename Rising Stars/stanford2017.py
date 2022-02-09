@@ -76,7 +76,7 @@ def getDetails(participants):
         # result = scraper.get_result_similar(html=html_content) # by using get_result_similar, even though the exact email address is different, the scraper object will know that the object in the same position is the one to fetch
         # print(result)
         data[name] = {
-            'institution:': institution,
+            'institution': institution,
             'position': position,
             'description': abstract,
             'contact': email,

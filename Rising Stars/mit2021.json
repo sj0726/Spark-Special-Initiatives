@@ -1,0 +1,716 @@
+{
+    "data": [
+        {
+            "name": "Maria Antoniak",
+            "institution:": "Cornell University",
+            "position": "PhD Candidate",
+            "description": "Modeling Personal Experiences Shared in Online Communities",
+            "contact": "maa343@cornell.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/antoniak/"
+        },
+        {
+            "name": "Juncal Arbelaiz",
+            "institution:": "MIT",
+            "position": "PhD Candidate",
+            "description": "Distributed Kalman Filters for Spatially-invariant Systems: Trade-offs Between Performance and Architecture",
+            "contact": "arbelaiz@mit.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/arbelaiz/"
+        },
+        {
+            "name": "Nivedita Arora",
+            "institution:": "Georgia Institute of Technology",
+            "position": "PhD Candidate",
+            "description": "Internet of Interactive Computational Materials",
+            "contact": "nivedita.arora@gatech.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/arora/"
+        },
+        {
+            "name": "Shaimaa Azzam",
+            "institution:": "UC Santa Barbara",
+            "position": "Postdoctoral Fellow",
+            "description": "Photonic Interfaces for Two-dimensional Quantum Materials",
+            "contact": "azzam@ucsb.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/azzam/"
+        },
+        {
+            "name": "Andrea Victoria Bajcsy",
+            "institution:": "UC Berkeley",
+            "position": "PhD student",
+            "description": "Bridging Safety and Learning in Human-Robot Interaction",
+            "contact": "abajcsy@berkeley.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/bajcsy/"
+        },
+        {
+            "name": "Suguman Bansal",
+            "institution:": "University of Pennsylvania",
+            "position": "NSF/CRA Computing Innovation Postdoctoral Researcher",
+            "description": "Assured Autonomy : A Formal Approach",
+            "contact": "suguman@seas.upenn.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/bansal/"
+        },
+        {
+            "name": "Maria Bauza Villalonga",
+            "institution:": "MIT",
+            "position": "PhD student",
+            "description": "Precise generalization: how to make robotic manipulation scalable and reliable",
+            "contact": "bauza@mit.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/bauza-villalonga/"
+        },
+        {
+            "name": "Syrine Belakaria",
+            "institution:": "Washington State University",
+            "position": "PhD Candidate",
+            "description": "Output Space Entropy Search Framework for Multi-Objective Bayesian Optimization",
+            "contact": "syrine.belakaria@wsu.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/belakaria/"
+        },
+        {
+            "name": "Jessica Boles",
+            "institution:": "MIT",
+            "position": "PhD Candidate",
+            "description": "Piezoelectrics as a New Frontier for Miniaturizing Power Electronics",
+            "contact": "jboles@mit.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/boles/"
+        },
+        {
+            "name": "Elizabeth Bondi",
+            "institution:": "Harvard University",
+            "position": "PhD Candidate",
+            "description": "Imagery and Strategic Reasoning: Making Decisions in Conservation and Sustainability with Imperfect Data",
+            "contact": "ebondi@g.harvard.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/bondi/"
+        },
+        {
+            "name": "Maria Brbic",
+            "institution:": "Stanford University",
+            "position": "Postdoctoral Researcher",
+            "description": "Bridging labeled and unlabeled data in biomedicine",
+            "contact": "mbrbic@cs.stanford.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/brbic/"
+        },
+        {
+            "name": "Beidi Chen",
+            "institution:": "Stanford University",
+            "position": "Postdoctoral Researcher",
+            "description": "Algorithms and Frameworks for Efficient Neural Network Training",
+            "contact": "beidic@stanford.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/chen-beidi/"
+        },
+        {
+            "name": "Xinyun Chen",
+            "institution:": "UC Berkeley",
+            "position": "PhD Candidate",
+            "description": "Deep Learning for Program Synthesis from Diverse Specifications",
+            "contact": "xinyun.chen@berkeley.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/chen-xinyun/"
+        },
+        {
+            "name": "Xianyi Cheng",
+            "institution:": "Carnegie Mellon University",
+            "position": "PhD student",
+            "description": "Bringing Human-level Dexterity into Robotic Manipulation",
+            "contact": "xianyic@andrew.cmu.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/cheng/"
+        },
+        {
+            "name": "Samantha Coday",
+            "institution:": "UC Berkeley",
+            "position": "PhD Candidate",
+            "description": "Efficient and Light-weight Multilevel Power Converters for Hybrid Electric Aircraft",
+            "contact": "scoday@berkeley.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/coday/"
+        },
+        {
+            "name": "A. Feder Cooper",
+            "institution:": "Cornell University",
+            "position": "PhD Candidate",
+            "description": "(MC)^3: An Empirical Argument for Massively Capable MCMC",
+            "contact": "afc78@cornell.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/cooper/"
+        },
+        {
+            "name": "Katherine Cordwell",
+            "institution:": "Carnegie Mellon University",
+            "position": "PhD candidate",
+            "description": "Towards Practical Provably Correct Algorithms for Real Quantifier Elimination",
+            "contact": "kcordwel@cs.cmu.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/cordwell/"
+        },
+        {
+            "name": "Vidushi Dadu",
+            "institution:": "UCLA",
+            "position": "PhD Candidate",
+            "description": "Towards General Purpose Acceleration: Finding Structure in Irregularity",
+            "contact": "vidushi.dadu@cs.ucla.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/dadu/"
+        },
+        {
+            "name": "Maitraye Das",
+            "institution:": "Northwestern University",
+            "position": "PhD Candidate",
+            "description": "Augmenting Ability-Diverse Collaboration: Designing for Accessible Collaborative Content Creation by People with Vision Impairments",
+            "contact": "maitraye@u.northwestern.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/das/"
+        },
+        {
+            "name": "Emily Diana",
+            "institution:": "University of Pennsylvania",
+            "position": "PhD Candidate",
+            "description": "Multiaccurate Proxies for Downstream Fairness",
+            "contact": "ediana@wharton.upenn.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/diana/"
+        },
+        {
+            "name": "Griffin Dietz",
+            "institution:": "Stanford University",
+            "position": "PhD Candidate",
+            "description": "Cognitively Appropriate and Readily Accessible Computing Education Technologies for Young Learners",
+            "contact": "gdietz44@stanford.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/dietz/"
+        },
+        {
+            "name": "Kate Donahue",
+            "institution:": "Cornell University",
+            "position": "PhD Candidate",
+            "description": "Fairness, efficiency, and uncertainty in societal resource allocation models",
+            "contact": "kpd46@cornell.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/donahue/"
+        },
+        {
+            "name": "Priya Donti",
+            "institution:": "Carnegie Mellon University",
+            "position": "PhD Candidate",
+            "description": "Incorporating Power System Physics into Deep Learning via Implicit Layers",
+            "contact": "pdonti@andrew.cmu.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/donti/"
+        },
+        {
+            "name": "Lin Du",
+            "institution:": "UC Berkeley",
+            "position": "Postdoctoral research fellow",
+            "description": "Implantable Biomedical Systems to Restore Daily Activities for Paralyzed People",
+            "contact": "dulin@seas.upenn.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/du/"
+        },
+        {
+            "name": "Yaqi Duan",
+            "institution:": "Princeton University",
+            "position": "PhD Candidate",
+            "description": "Minimax-Optimal Off-Policy Evaluation with Linear Function Approximation",
+            "contact": "yaqid@princeton.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/duan/"
+        },
+        {
+            "name": "Aline Eid",
+            "institution:": "Georgia Tech",
+            "position": "PhD Candidate",
+            "description": "Could 5G Wirelessly Power IoT Devices?",
+            "contact": "aeid7@gatech.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/eid/"
+        },
+        {
+            "name": "Saadia Gabriel",
+            "institution:": "University of Washington",
+            "position": "PhD Candidate",
+            "description": "Probing Implications of News Headlines",
+            "contact": "skgabrie@cs.washington.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/gabriel/"
+        },
+        {
+            "name": "Aishwarya Ganesan",
+            "institution:": "VMware",
+            "position": "Postdoctoral Researcher",
+            "description": "Observably Consistent and Performant Distributed Systems",
+            "contact": "aishwarya.ganesan@hotmail.com",
+            "personal page": "https://risingstars21-eecs.mit.edu/ganesan/"
+        },
+        {
+            "name": "Sijia Geng",
+            "institution:": "University of Michigan",
+            "position": "PhD Candidate",
+            "description": "Safety and Stability of Future Smart Grids: Managing Uncertainties of Distributed Energy Resources",
+            "contact": "sgeng@umich.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/geng/"
+        },
+        {
+            "name": "Mor Geva Pipek",
+            "institution:": "Tel Aviv University",
+            "position": "PhD Candidate",
+            "description": "Robust and Interpretable Machine Reasoning Over Text",
+            "contact": "morgeva@mail.tau.ac.il",
+            "personal page": "https://risingstars21-eecs.mit.edu/geva-pipek/"
+        },
+        {
+            "name": "Zahra Ghodsi",
+            "institution:": "UCSD",
+            "position": "Postdoctoral Scholar",
+            "description": "Secure Frameworks for Outsourced Deep Learning",
+            "contact": "zghodsi@ucsd.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/ghodsi/"
+        },
+        {
+            "name": "Neha Gupta",
+            "institution:": "Stanford University",
+            "position": "PhD Candidate",
+            "description": "Theoretical approaches to machine learning challenges",
+            "contact": "nehagupta@cs.stanford.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/gupta-neha/"
+        },
+        {
+            "name": "Bahareh Hadidian",
+            "institution:": "University of Michigan",
+            "position": "PhD Candidate",
+            "description": "High-Data-Rate and Energy-Efficient Wireless Transmitters for Beyond 5G Communication Networks",
+            "contact": "hadidian@umich.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/hadidian/"
+        },
+        {
+            "name": "Bahar Haghighat",
+            "institution:": "Harvard University",
+            "position": "Postdoctoral Researcher",
+            "description": "Miniaturized Robotic Swarms for Sensing, Surveying, and Inspection",
+            "contact": "bahar@seas.harvard.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/haghighat/"
+        },
+        {
+            "name": "Nasimeh Heydaribeni",
+            "institution:": "University of Michigan",
+            "position": "PhD Candidate",
+            "description": "Analysis and Design of Information Transmission in Networks of Strategic Agents",
+            "contact": "heydari@umich.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/heydaribeni/"
+        },
+        {
+            "name": "Anwar Hithnawi",
+            "institution:": "ETH Zurich ",
+            "position": "Research Fellow",
+            "description": "Cryptographic Enforcement of End-to-End Data Privacy",
+            "contact": "anwar.hithnawi@inf.ethz.ch",
+            "personal page": "https://risingstars21-eecs.mit.edu/hithnawi/"
+        },
+        {
+            "name": "Megan Hofman",
+            "institution:": "Carnegie Mellon University",
+            "position": "PhD Candidate",
+            "description": "A Framework for Producing Clinical CAD Tools with Generative Design",
+            "contact": "meganh@cs.cmu.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/hofman/"
+        },
+        {
+            "name": "Mengdi Huai",
+            "institution:": "University of Virginia",
+            "position": "PhD Candidate",
+            "description": "Fostering Trustworthiness in Machine Learning Algorithms",
+            "contact": "mh6ck@virginia.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/huai/"
+        },
+        {
+            "name": "Daphne Eden Ippolito",
+            "institution:": "University of Pennsylvania",
+            "position": "PhD Candidate",
+            "description": "Deduplicating Training Data Makes Language Models Better",
+            "contact": "daphnei@seas.upenn.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/ippolito/"
+        },
+        {
+            "name": "Shailee Jain",
+            "institution:": "University of Texas Austin",
+            "position": "PhD Candidate",
+            "description": "Using NLP Systems to Investigate Language Processing in the Human Brain",
+            "contact": "shaileejain@utexas.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/jain/"
+        },
+        {
+            "name": "Shalmali Joshi",
+            "institution:": "Harvard University",
+            "position": "Postdoctoral Fellow",
+            "description": "Towards Safe, Robust and Reliable Machine Learning for Healthcare",
+            "contact": "shalmali@seas.harvard.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/joshi/"
+        },
+        {
+            "name": "Eunice Jun",
+            "institution:": "University of Washington",
+            "position": "PhD Candidate",
+            "description": "Principles and Interactive Systems for Authoring Valid Statistical Analyses",
+            "contact": "emjun@cs.washington.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/jun/"
+        },
+        {
+            "name": "Shamya Karumbaiah",
+            "institution:": "University of Pennsylvania",
+            "position": "PhD Candidate",
+            "description": "The Upstream Sources of Bias: Investigating Theory, Design, and Methods Shaping Adaptive Systems in Education",
+            "contact": "shamya@upenn.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/karumbaiah/"
+        },
+        {
+            "name": "Qi Lei",
+            "institution:": "Princeton University",
+            "position": "Postdoctoral Researcher",
+            "description": "Provable Representation Learning: The Importance of Task Diversity and Pretext Tasks",
+            "contact": "qilei@princeton.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/lei-qi/"
+        },
+        {
+            "name": "Hanlin Li",
+            "institution:": "Northwestern University",
+            "position": "PhD Candidate",
+            "description": "Improving Labor Transparency in Social Computing Systems",
+            "contact": "hanlinli2022@u.northwestern.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/li/"
+        },
+        {
+            "name": "Jiaoyang Li",
+            "institution:": "University of Southern California",
+            "position": "PhD Candidate",
+            "description": "Large-Scale Multi-Agent Coordination",
+            "contact": "jiaoyanl@usc.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/li-jiaoyang/"
+        },
+        {
+            "name": "Mei-Yun Lin",
+            "institution:": "University of Illinois Urbana-Champaign",
+            "position": "PhD Candidate",
+            "description": "Unravel the Atmospheric Escape of Heavy Ions from the Polar Wind",
+            "contact": "mylin2@illinois.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/lin-mei-yun/"
+        },
+        {
+            "name": "Lydia Tingruo Liu",
+            "institution:": "UC Berkeley",
+            "position": "PhD Candidate",
+            "description": "Designing distributive learning algorithms for the societal good",
+            "contact": "lydiatliu@berkeley.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/liu-lydia-tingruo/"
+        },
+        {
+            "name": "Quanquan Liu",
+            "institution:": "MIT",
+            "position": "Postdoctoral Scholar",
+            "description": "Scalable and Efficient Graph Algorithms for Modern Machines",
+            "contact": "quanquan@mit.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/liu-quanquan/"
+        },
+        {
+            "name": "Wenxin Liu",
+            "institution:": "University of Pennsylvania",
+            "position": "PhD Candidate",
+            "description": "Using deep learning for state estimation in a Bayesian framework",
+            "contact": "wenxinl@seas.upenn.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/liu-wenxin/"
+        },
+        {
+            "name": "Xihui Liu",
+            "institution:": "UC Berkeley",
+            "position": "Postdoctoral Scholar",
+            "description": "From Perception to Imagination: Vision-Language Cross-Modal Understanding and Generation",
+            "contact": "xihui.liu.me@gmail.com",
+            "personal page": "https://risingstars21-eecs.mit.edu/liu-xihui/"
+        },
+        {
+            "name": "Sujaya Anantha Maiyya",
+            "institution:": "UC Santa Barbara",
+            "position": "PhD Candidate",
+            "description": "Managing data in both trusted and untrusted infrastructures",
+            "contact": "sujaya_maiyya@ucsb.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/maiyya/"
+        },
+        {
+            "name": "Christine McGinn",
+            "institution:": "Columbia University",
+            "position": "PhD Candidate",
+            "description": "Role of Nanoparticle Composites in Active Devices",
+            "contact": "cm3592@columbia.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/mcginn/"
+        },
+        {
+            "name": "Sabrina J. Mielke",
+            "institution:": "Johns Hopkins University",
+            "position": "PhD Candidate",
+            "description": "What Kind of Language Is Hard to Language-Model?",
+            "contact": "sjm@sjmielke.com",
+            "personal page": "https://risingstars21-eecs.mit.edu/mielke/"
+        },
+        {
+            "name": "Samira Mirbagher Ajorpaz",
+            "institution:": "UC San Diego",
+            "position": "Postdoctoral Scholar",
+            "description": "Microarchitectural Prediction for Performance and Security",
+            "contact": "s.mirbagher@gmail.com",
+            "personal page": "https://risingstars21-eecs.mit.edu/mirbagher-ajorpaz/"
+        },
+        {
+            "name": "Trisha Mittal",
+            "institution:": "University of Maryland College Park",
+            "position": "PhD Candidate",
+            "description": "Towards Holistic Emotion Perception with Applications in Social Media Analysis, Accessibility, and Multimedia Recommendation",
+            "contact": "trisha@umd.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/mittal/"
+        },
+        {
+            "name": "Faidra Monachou",
+            "institution:": "Stanford University",
+            "position": "PhD Candidate",
+            "description": "Discrimination, diversity, and information in selection problems",
+            "contact": "monachou@stanford.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/monachou/"
+        },
+        {
+            "name": "Michal Moshkovitz",
+            "institution:": "Tel-Aviv University",
+            "position": "Postdoctoral Researcher",
+            "description": "Foundations of Explainable Machine learning",
+            "contact": "mmoshkovitz@eng.ucsd.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/moshkovitz/"
+        },
+        {
+            "name": "Yuval Moskovitch",
+            "institution:": "University of Michigan",
+            "position": "Postdoctoral Researcher",
+            "description": "Towards Reliable Data-Driven Decision Tools",
+            "contact": "yuvalm@umich.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/moskovitch/"
+        },
+        {
+            "name": "Mahta Mousavi",
+            "institution:": "Technische Universitat Berlin",
+            "position": "Postdoctoral Fellow",
+            "description": "Evaluation of EEG-based functional connectivity measures through simulations of whole-brain dynamics",
+            "contact": "mahta.mousavi@gmail.com",
+            "personal page": "https://risingstars21-eecs.mit.edu/mousavi/"
+        },
+        {
+            "name": "Chandrakana\tNandi",
+            "institution:": "University of Washington Seattle",
+            "position": "PhD Candidate",
+            "description": "Programming Language Tools and Techniques for Computational Fabrication",
+            "contact": "cnandi@cs.washington.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/nandi/"
+        },
+        {
+            "name": "Sabrina Neuman",
+            "institution:": "Harvard University",
+            "position": "NSF Computing Innovation Fellow",
+            "description": "Robomorphic Computing: A Design Methodology for Domain-Specific Accelerators Parameterized by Robot Morphology",
+            "contact": "sneuman@mit.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/neuman/"
+        },
+        {
+            "name": "Amy Elizabeth Ousterhout",
+            "institution:": "UC Berkeley",
+            "position": "Postdoctoral Researcher",
+            "description": "Efficient Scheduling Policies for Microsecond-Scale Tasks",
+            "contact": "amy.ousterhout@berkeley.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/ousterhout/"
+        },
+        {
+            "name": "Srilakshmi Pattabiraman",
+            "institution:": "University of Illinois Urbana-Champaign",
+            "position": "PhD Candidate",
+            "description": "Coding for Polymer and DNA Based Storage",
+            "contact": "sp16@illinois.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/pattabiraman/"
+        },
+        {
+            "name": "Lillian Pentecost",
+            "institution:": "Harvard University",
+            "position": "PhD Candidate",
+            "description": "NVMExplorer: A Framework for Cross-Stack Comparisons of Embedded Non-Volatile Memories",
+            "contact": "lillian_pentecost@g.harvard.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/pentecost/"
+        },
+        {
+            "name": "Yamuna Phal",
+            "institution:": "University of Illinois Urbana-Champaign",
+            "position": "PhD Candidate",
+            "description": "Emerging Techniques in Infrared Imaging",
+            "contact": "yphal2@illinois.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/phal/"
+        },
+        {
+            "name": "Yao Qin",
+            "institution:": "Google",
+            "position": "Research Scientist",
+            "description": "Understanding and Improving Robustness in Machine Learning Models",
+            "contact": "yaoqin@google.com",
+            "personal page": "https://risingstars21-eecs.mit.edu/qin-yao/"
+        },
+        {
+            "name": "Giorgia Ramponi",
+            "institution:": "ETH Zurich",
+            "position": "Postdoctoral researcher",
+            "description": "Multi-agent RL: Truly batch model-free Inverse Reinforcement Learning about multiple intentions",
+            "contact": "giorgia.ramponi@polimi.it",
+            "personal page": "https://risingstars21-eecs.mit.edu/ramponi/"
+        },
+        {
+            "name": "Anshuka Rangi",
+            "institution:": "Amazon",
+            "position": "Applied Scientist",
+            "description": "Understanding the Limits of Poisoning Attacks in Multi-Armed Bandits and Reinforcement Learning",
+            "contact": "arangi@ucsd.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/rangi-anshuka/"
+        },
+        {
+            "name": "Paria Rashidinejad",
+            "institution:": "UC Berkeley",
+            "position": "PhD Candidate",
+            "description": "Bridging Offline Reinforcement Learning and Imitation Learning: A Tale of Pessimism",
+            "contact": "paria.rashidinejad@berkeley.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/rashidinejad/"
+        },
+        {
+            "name": "Amrita Roy Chowdhury",
+            "institution:": "University of Wisconsin-Madison",
+            "position": "Graduate Research Assistant",
+            "description": "Differential Privacy and Cryptography \u2013 A Symbiotic Relationship",
+            "contact": "roychowdhur2@wisc.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/roy-chowdhury/"
+        },
+        {
+            "name": "Luana Ruiz",
+            "institution:": "University of Pennsylvania",
+            "position": "PhD Candidate",
+            "description": "Machine Learning on Large-Scale Graphs",
+            "contact": "rubruiz@seas.upenn.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/ruiz/"
+        },
+        {
+            "name": "Liyue Shen",
+            "institution:": "Stanford University",
+            "position": "PhD Candidate",
+            "description": "Exploiting Prior Knowledge in Physical World Incorporated with Machine Learning for Solving Medical Imaging Problems",
+            "contact": "liyues@stanford.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/shen-liyue/"
+        },
+        {
+            "name": "Yuhan Shi",
+            "institution:": "UCSD",
+            "position": "PhD Candidate",
+            "description": "Neuro-inspired Computing using Resistive Memory Devices",
+            "contact": "yus022@eng.ucsd.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/shi-yuhan/"
+        },
+        {
+            "name": "Tal Shnitzer",
+            "institution:": "MIT",
+            "position": "Postdoctoral Researcher",
+            "description": "Multi-modal and Temporal Data Analysis with Diffusion Operators",
+            "contact": "talsd@mit.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/shnitzer/"
+        },
+        {
+            "name": "Kaitlin Nicole Smith",
+            "institution:": "University of Chicago",
+            "position": "Position:Chicago Quantum Exchange IBM Postdoctoral Scholar",
+            "description": "Decoherence Mitigation in Quantum Computers through Instruction Scheduling",
+            "contact": "kns@uchicago.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/smith/"
+        },
+        {
+            "name": "Mansi Sood",
+            "institution:": "Carnegie Mellon University",
+            "position": "PhD Candidate",
+            "description": "Heterogeneous models for designing resilient topologies and controlling spreading phenomena in real-world networks",
+            "contact": "msood@andrew.cmu.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/sood-mansi/"
+        },
+        {
+            "name": "Ana-Andreea Stoica",
+            "institution:": "Columbia University",
+            "position": "PhD Candidate",
+            "description": "Diversity and inequality in social networks",
+            "contact": "as5001@columbia.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/stoica/"
+        },
+        {
+            "name": "Jina Suh",
+            "institution:": "University of Washington/Microsoft Research",
+            "position": "PhD Candidate and Principal Research Software Engineer",
+            "description": "Designing Mental Health and Wellbeing Interventions through Computational and Contextual Understanding",
+            "contact": "jinasuh@cs.washington.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/suh/"
+        },
+        {
+            "name": "Tianqi Tang",
+            "institution:": "UC Santa Barbara",
+            "position": "PhD Candidate",
+            "description": "Hardware Modeling & Efficient Architectural Exploration for Machine Learning Accelerator Design",
+            "contact": "ttq1008@gmail.com",
+            "personal page": "https://risingstars21-eecs.mit.edu/tang/"
+        },
+        {
+            "name": "Maribel Torres-Velazquez",
+            "institution:": "UW-Madison",
+            "position": "PhD Candidate",
+            "description": "Multi-channel Deep Learning Networks as an Advanced Modeling Technique in Improving Epilepsy Workup",
+            "contact": "torresvelazq@wisc.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/torres-velazquez/"
+        },
+        {
+            "name": "Jingbo Wang",
+            "institution:": "University of Southern California",
+            "position": "PhD Candidate",
+            "description": "Enhancing Software Security via Scalable Verification and Program Synthesis Techniques",
+            "contact": "jingbow@usc.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/wang-jingbo/"
+        },
+        {
+            "name": "Stephanie Wang",
+            "institution:": "UC Berkeley",
+            "position": "PhD Candidate and Software Engineer",
+            "description": "A Distributed Memory Layer for General-Purpose Execution",
+            "contact": "swang@cs.berkeley.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/wang-stephanie/"
+        },
+        {
+            "name": "Amanda Watson",
+            "institution:": "University of Pennsylvania",
+            "position": "Postdoctoral Fellow",
+            "description": "Computation of Human Performance",
+            "contact": "aawatson@seas.upenn.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/watson/"
+        },
+        {
+            "name": "Melanie Weber",
+            "institution:": "University of Oxford",
+            "position": "Hooke Research Fellow",
+            "description": "Geometric Methods for Machine Learning and Optimization",
+            "contact": "mw25@math.princeton.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/weber/"
+        },
+        {
+            "name": "Alycen Wiacek",
+            "institution:": "Johns Hopkins University",
+            "position": "PhD Candidate",
+            "description": "Coherence-based Learning from Raw Ultrasound Data for Breast Mass Diagnosis",
+            "contact": "awiacek1@jhu.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/wiacek/"
+        },
+        {
+            "name": "Kristin Williams",
+            "institution:": "Carnegie Mellon University",
+            "position": "PhD Candidate",
+            "description": "An Upcycled IoT: Reducing the Financial and Social Costs of Adopting New Computing through Lightweight Modification of Everyday Objects",
+            "contact": "krismawil@cs.cmu.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/williams-2/"
+        },
+        {
+            "name": "Qian Zhang",
+            "institution:": "UCLA",
+            "position": "Postdoctoral Researcher",
+            "description": "Reinventing Software Developer Tools for Heterogeneous Computing Paradigm",
+            "contact": "zhangqian@cs.ucla.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/zhang-qian/"
+        },
+        {
+            "name": "Jieyu Zhao",
+            "institution:": "UCLA",
+            "position": "PhD Candidate",
+            "description": "Understanding and Intervening on Societal Biases in Natural Language Processing",
+            "contact": "jieyuzhao@ucla.edu",
+            "personal page": "https://risingstars21-eecs.mit.edu/zhao-jieyu/"
+        }
+    ]
+}

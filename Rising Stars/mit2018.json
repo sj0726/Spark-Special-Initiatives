@@ -1,0 +1,612 @@
+{
+    "data": [
+        {
+            "name": "Yomna Abdelrahman",
+            "institution:": "University of Stuttgart",
+            "position": "PhD Candidate",
+            "description": "Thermal Imaging in HCI",
+            "contact": "yomna.abdelrahman@vis.uni-stuttgart.de",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-abdelrahman/"
+        },
+        {
+            "name": "Sangeetha Abdu Jyothi",
+            "institution:": "University of Illinois, Urbana-Champaign",
+            "position": "PhD Candidate",
+            "description": "Automated Resource Management in Large-Scale Networked Systems",
+            "contact": "abdujyo2@illinois.edu\nWebsite: http://abdujyo2.web.engr.illinois.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-abdu-jyothi/"
+        },
+        {
+            "name": "Aishwarya Agrawal",
+            "institution:": "Georgia Institute of Technology",
+            "position": "PhD Candidate",
+            "description": "Towards Intelligent Vision and Language Systems",
+            "contact": "aishwarya@gatech.edu\nWebsite: https://www.cc.gatech.edu/~aagrawal307/",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-agrawal/"
+        },
+        {
+            "name": "Fatemeh Akbar",
+            "institution:": "University of Michigan",
+            "position": "PhD Candidate",
+            "description": "Novel Architectures for Low-Complexity Scalable Phased Arrays Abstra",
+            "contact": "noyan@umich.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-akbar/"
+        },
+        {
+            "name": "Maryam Aliakbarpour",
+            "institution:": "Massachusetts Institute of Technology",
+            "position": "PhD Candidate",
+            "description": "Differentially Private Identity and Equivalence Testing of Discrete Distributions",
+            "contact": "maryama@mit.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-aliakbarpour/"
+        },
+        {
+            "name": "Behnaz Arzani",
+            "institution:": "Microsoft Research",
+            "position": "Postdoctoral Researcher",
+            "description": "Towards Self-Managing and Performant Networks",
+            "contact": "arzanibehnaz@gmail.com",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-arzani/"
+        },
+        {
+            "name": "Suguman Bansal",
+            "institution:": "Rice University",
+            "position": "PhD Candidate",
+            "description": "Scalable Quantitative Verification and its Applications",
+            "contact": "sugumanb@gmail.com",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-bansal/"
+        },
+        {
+            "name": "Zoya Bylinskii",
+            "institution:": "Adobe Research",
+            "position": "Research Scientist",
+            "description": "Computational Perception for Multimodal Document Understanding",
+            "contact": "zoya@mit.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-bylinskii/"
+        },
+        {
+            "name": "Sarah Cannon",
+            "institution:": "University of California, Berkeley",
+            "position": "NSF Postdoctoral Research Fellow",
+            "description": "Markov Chains, Programmable Matter, and Emergent Behavior",
+            "contact": "sarah.cannon@gatech.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-cannon/"
+        },
+        {
+            "name": "Margarita Paz Castro",
+            "institution:": "University of Toronto",
+            "position": "PhD Candidate",
+            "description": "Relaxed Decision Diagrams for Discrete Optimization Problems",
+            "contact": "mpcastro@mie.utoronto.ca",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-castro/"
+        },
+        {
+            "name": "Stevie Chancellor",
+            "institution:": "Georgia Institute of Technology",
+            "position": "PhD Candidate",
+            "description": "Computational Methods to Understand Deviant Health Behaviors in Online Communities",
+            "contact": "schancellor3@gatech.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-chancellor/"
+        },
+        {
+            "name": "Sarah Chasins",
+            "institution:": "University of California, Berkeley",
+            "position": "PhD Candidate",
+            "description": "Helena:  A Web Automation Language for End Users",
+            "contact": "schasins@cs.berkeley.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-chasins/"
+        },
+        {
+            "name": "Angela Dai",
+            "institution:": "Stanford University",
+            "position": "PhD Candidate",
+            "description": "Using Generative Deep Learning to Create High-Quality Models from 3D Scans",
+            "contact": "adai@cs.stanford.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-dai/"
+        },
+        {
+            "name": "Bita Darvish Rouhani",
+            "institution:": "University of California, San Diego",
+            "position": "PhD Candidate",
+            "description": "Succinct and Assured Machine Learning: Training and Execution",
+            "contact": "bita@ucsd.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-darvishrouhani/"
+        },
+        {
+            "name": "Orianna DeMasi",
+            "institution:": "University of California, Berkeley",
+            "position": "PhD Candidate",
+            "description": "Developing a Dialog System to Augment SMS Helpline Counselor Training",
+            "contact": "odemasi@berkeley.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-demasi/"
+        },
+        {
+            "name": "Talya Eden",
+            "institution:": "Tel Aviv University",
+            "position": "PhD Candidate",
+            "description": "Sublinear-Time Algorithms",
+            "contact": "talyaa01@gmail.com",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-eden/"
+        },
+        {
+            "name": "Aishwarya Ganesan",
+            "institution:": "University of Wisconsin, Madison",
+            "position": "PhD Candidate",
+            "description": "Towards Truly Reliable Distributed Storage",
+            "contact": "ag@cs.wisc.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-ganesan/"
+        },
+        {
+            "name": "Chaya Ganesh",
+            "institution:": "Aarhus University",
+            "position": "Postdoctoral Researcher",
+            "description": "Efficient Zero-Knowledge Proof Systems for Composite Statements",
+            "contact": "chaya.ganesh@gmail.com",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-ganesh/"
+        },
+        {
+            "name": "Esha Ghosh",
+            "institution:": "Microsoft Research",
+            "position": "Postdoctoral Researcher",
+            "description": "Integrity and Privacy in the Cloud: Efficient Algorithms for Secure and Privacy-Preserving Computing on Outsourced Data",
+            "contact": "Esha.Ghosh@microsoft.com",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-ghosh/"
+        },
+        {
+            "name": "Alysson Rebecca Gold",
+            "institution:": "Stanford University",
+            "position": "PhD Candidate",
+            "description": "A Non-Perturbative Numerical Solver for Nonlinear Beam-Wave Interactions in Electron Beam Driven Radiation Sources",
+            "contact": "vrielink@stanford.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-gold/"
+        },
+        {
+            "name": "Hannah Gommerstadt",
+            "institution:": "Carnegie Mellon University",
+            "position": "PhD Candidate",
+            "description": "Session-Typed Concurrent Contracts",
+            "contact": "hgommers@cs.cmu.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-gommerstadt/"
+        },
+        {
+            "name": "Diana Cristina Gonzalez Gonzalez",
+            "institution:": "Massachusetts Institute of Techonology",
+            "position": "Postdoctoral Fellow",
+            "description": "On the Performance Limits of Relaying Networks at Low-SNR Regime",
+            "contact": "dianigon@mit.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-gonzalez/"
+        },
+        {
+            "name": "Nil Zeynep Gurel",
+            "institution:": "Georgia Institute of Technology",
+            "position": "PhD Candidate and Research Assistant",
+            "description": "Toward Wearable Sensing Enabled Closed-Loop Non-invasive Vagus Nerve Stimulation",
+            "contact": "nil@gatech.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-gurel/"
+        },
+        {
+            "name": "Sepideh Hassan Moghaddam",
+            "institution:": "University of Southern California",
+            "position": "PhD Candidate",
+            "description": "Analysis, Design, and Optimization of Large-Scale Networks of Dynamical Systems",
+            "contact": "hassanmo@usc.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-hassanmoghaddam/"
+        },
+        {
+            "name": "Elizabeth Farrell Helbling",
+            "institution:": "Harvard University",
+            "position": "PhD Candidate",
+            "description": "Design Tradeoffs in the Creation of Autonomous, Insect-Scale Flying Robots",
+            "contact": "ehelbling@seas.harvard.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-helbling/"
+        },
+        {
+            "name": "Qiuyuan Huang",
+            "institution:": "Microsoft Research",
+            "position": "Postdoctoral Researcher",
+            "description": "Deep Learning for Language Intelligence",
+            "contact": "qihua@microsoft.com",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-huang-qiuyuan/"
+        },
+        {
+            "name": "Sandy Huang",
+            "institution:": "University of California, Berkeley",
+            "position": "PhD Candidate",
+            "description": "Enabling Robot Transparency with Informative Actions",
+            "contact": "shhuang@cs.berkeley.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-huang-sandy/"
+        },
+        {
+            "name": "Rupamathi Jaddivada",
+            "institution:": "Massachusetts Institute of Technology",
+            "position": "PhD Student",
+            "description": "Toward Economically-Efficient and Technically-Realizable Electric Energy Service",
+            "contact": "rjaddiva@mit.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-jadddivada/"
+        },
+        {
+            "name": "Akanksha Jain",
+            "institution:": "University of Texas at Austin",
+            "position": "Postdoctoral Researcher",
+            "description": "Towards Smarter Hardware Prediction Mechanisms",
+            "contact": "akanksha@cs.utexas.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-jain/"
+        },
+        {
+            "name": "Seyedeh Mahsa Kamali",
+            "institution:": "California Institute of Technology",
+            "position": "PhD Candidate",
+            "description": "Changing Perceptions in Optics: What Can a Thin Engineered Surface Do?",
+            "contact": "skamali@caltech.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-kamali/"
+        },
+        {
+            "name": "Angjoo Kanazawa",
+            "institution:": "University of California, Berkeley",
+            "position": "Postdoctoral Researcher",
+            "description": "Perceiving Deformable Shapes:  Humans, Animals, and Birds",
+            "contact": "kanazawa@berkeley.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-kanazawa/"
+        },
+        {
+            "name": "Mandy Barrett Korpusik",
+            "institution:": "Massachusetts Institute of Technology",
+            "position": "PhD Candidate",
+            "description": "Deep Learning Models for Spoken Dialogue Systems",
+            "contact": "korpusik@mit.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-korpusik/"
+        },
+        {
+            "name": "Pan Li",
+            "institution:": "University of Washington",
+            "position": "PhD Student",
+            "description": "A Bottom Up Perspective of Power System Operation:  Coordination of Demand Response and Distributed Energy Resources",
+            "contact": "lipan419@gmail.com",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-li/"
+        },
+        {
+            "name": "Qi Li",
+            "institution:": "University of Illinois, Urbana-Champaign",
+            "position": "Postdoctoral Researcher",
+            "description": "Truth Discovery from Multi-Sourced Data",
+            "contact": "qili5@illinois.edu\nWebsite:  https://publish.illinois.edu/qili5/",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-li-qi/"
+        },
+        {
+            "name": "Mengxia Liu",
+            "institution:": "University of Toronto",
+            "position": "PhD Candidate",
+            "description": "Colloidal Quantum Dots for Solar Energy Conversion",
+            "contact": "mengxia.liu@mail.utoronto.ca",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-liu/"
+        },
+        {
+            "name": "Sevil Zeynep Lulec",
+            "institution:": "University of Toronto",
+            "position": "PhD Candidate",
+            "description": "Innovative Circuit Design Techniques for Wireless RF Transceivers with High Configurability and Low Power",
+            "contact": "sz.lulec@mail.utoronto.ca",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-lulec/"
+        },
+        {
+            "name": "Derya Malak",
+            "institution:": "Massachusetts Institute of Technology",
+            "position": "Postdoctoral Research Associate",
+            "description": "Coordinating Caching and Computation in Networks",
+            "contact": "deryam@mit.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-malak/"
+        },
+        {
+            "name": "Zelda Mariet",
+            "institution:": "Massachusetts Institute of Technology",
+            "position": "PhD Student",
+            "description": "Negatively Dependent Measures for Machine Learning",
+            "contact": "zmariet@mit.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-mariet/"
+        },
+        {
+            "name": "Negar Mehr",
+            "institution:": "University of California, Berkeley",
+            "position": "PhD Candidate",
+            "description": "Analysis and Control of the Current and Future Traffic Networks",
+            "contact": "negar.mehr@berkeley.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-mehr/"
+        },
+        {
+            "name": "Aastha Ketan Mehta",
+            "institution:": "Max Planck Institute for Software Systems",
+            "position": "PhD Student",
+            "description": "Pacer: Efficient I/O Side-Channel Mitigation in the Cloud",
+            "contact": "aasthakm@mpi-sws.org",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-mehta/"
+        },
+        {
+            "name": "Baharan Mirzasoleiman",
+            "institution:": "Stanford University",
+            "position": "Postdoctoral Researcher",
+            "description": "Big Data Summarization using Submodular Functions",
+            "contact": "baharanm@stanford.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-mirzasoleiman/"
+        },
+        {
+            "name": "Nasim Mohammadi Estakhri",
+            "institution:": "University of Pennsylvania",
+            "position": "Postdoctoral Researcher",
+            "description": "From Solving Equations to Compact Optical Devices: The Fascinating World of Nanoscale Light-Matter Interactions",
+            "contact": "esmo@seas.upenn.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-mohammadiestakhri/"
+        },
+        {
+            "name": "Rajalakshmi Nandakumar",
+            "institution:": "University of Washington",
+            "position": "PhD Candidate",
+            "description": "Physiological Computing at Scale",
+            "contact": "rajaln@cs.washington.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-nandakumar/"
+        },
+        {
+            "name": "Shadi Noghabi",
+            "institution:": "University of Illinois, Urbana-Champaign",
+            "position": "PhD Student",
+            "description": "Building Large-Scale Production Systems for Latency-sensitive Applications",
+            "contact": "abdolla2@illinois.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-noghabi/"
+        },
+        {
+            "name": "Jelena Notaros",
+            "institution:": "Massachusetts Institute of Technology",
+            "position": "PhD Student",
+            "description": "Integrated Optical Phased Array Architectures and Applications",
+            "contact": "notaros@mit.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-notaros/"
+        },
+        {
+            "name": "Shijia Pan",
+            "institution:": "Carnegie Mellon University",
+            "position": "Postdoctoral Researcher",
+            "description": "Indoor Human Information Acquisition from Physical Vibrations",
+            "contact": "shijiapan@cmu.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-pan/"
+        },
+        {
+            "name": "Emma Pierson",
+            "institution:": "Stanford University",
+            "position": "PhD Student",
+            "description": "Fast Threshold Tests for Detecting Discrimination",
+            "contact": "emmap1@stanford.edu\nWebsite:  https://cs.stanford.edu/~emmap1/",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-pierson/"
+        },
+        {
+            "name": "Neelam Prabhu Gaunkar",
+            "institution:": "Iowa State University",
+            "position": "PhD Candidate",
+            "description": "Design of Low Non-Uniform Field Sensors for Portable Diagnostic Systems",
+            "contact": "neelampg@iastate.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-prabhu-gaunkar/"
+        },
+        {
+            "name": "Maithra Raghu",
+            "institution:": "Cornell University and Google Brain",
+            "position": "PhD Student",
+            "description": "Insights from Deep Representations with Healthcare Applications",
+            "contact": "maithrar@gmail.com",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-raghu/"
+        },
+        {
+            "name": "Niranjini Rajagopal",
+            "institution:": "Carnegie Mellon University",
+            "position": "PhD Candidate",
+            "description": "A Sensor Fusion Approach to Indoor Localization",
+            "contact": "niranjir@andrew.cmu.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-rajagopal/"
+        },
+        {
+            "name": "Alena Rodionova",
+            "institution:": "University of Pennsylvania",
+            "position": "PhD Candidate",
+            "description": "Foundations of Safe Autonomy: On-Board Verification and Formally-Constrained Machine Learning",
+            "contact": "alena.rodionova@seas.upenn.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-rodionova/"
+        },
+        {
+            "name": "Rachel Rudinger",
+            "institution:": "Johns Hopkins University",
+            "position": "PhD Candidate",
+            "description": "Neural Models for Decompositional Semantics",
+            "contact": "rudinger@jhu.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-rudinger/"
+        },
+        {
+            "name": "Emma R. Schmidgall",
+            "institution:": "University of Washington",
+            "position": "Research Associate",
+            "description": "Integrated Photonic Circuits for Single Quantum Emitters",
+            "contact": "eschmid@uw.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-schmidgall/"
+        },
+        {
+            "name": "Alexandra Kathryn Schofield",
+            "institution:": "Cornell University",
+            "position": "PhD Candidate",
+            "description": "Local Privacy for Text Data to Train Distributional Semantic Models",
+            "contact": "xanda@cs.cornell.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-schofield/"
+        },
+        {
+            "name": "Sivaranjani Seetharaman",
+            "institution:": "University of Notre Dame",
+            "position": "PhD Candidate",
+            "description": "Congestion in Large-Scale Transportation Networks: Analysis and Control Perspectives",
+            "contact": "sseethar@nd.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-seetharaman/"
+        },
+        {
+            "name": "Yuanyuan Shi",
+            "institution:": "University of Washington",
+            "position": "PhD Candidate",
+            "description": "Real-time Control for Complex Physical Systems: A Tractable Data-Driven Approach",
+            "contact": "yyshi@uw.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-shi/"
+        },
+        {
+            "name": "Misha Sra",
+            "institution:": "Massachusetts Institute of Technology",
+            "position": "Research Affiliate",
+            "description": "Perceptual Engineering",
+            "contact": "sra@media.mit.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-sra/"
+        },
+        {
+            "name": "Lili Su",
+            "institution:": "Massachusetts Institute of Technology",
+            "position": "Postdoctoral Associate",
+            "description": "Defending Distributed Learning Against Arbitrarily Malicious Attacks",
+            "contact": "lilisu3@csail.mit.edu\nURL:  https://sites.google.com/site/lilisuece/",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-su-lili/"
+        },
+        {
+            "name": "Wenjing Su",
+            "institution:": "Google",
+            "position": "Google Hardware Engineer",
+            "description": "Additively Manufactured Reconfigurable Microwave Components Based on Microfluidics for Wireless Sensing and Internet-of-things Applications",
+            "contact": "wenjing.su.gatech@gmail.com",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-su-wenjing/"
+        },
+        {
+            "name": "Yihan Sun",
+            "institution:": "Carnegie Mellon University",
+            "position": "PhD Student",
+            "description": "Parallel Algorithms and Data Structures in Theory and Practice",
+            "contact": "yihans@cs.cmu.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-sun-yihan/"
+        },
+        {
+            "name": "Yixin Sun",
+            "institution:": "Princeton University",
+            "position": "PhD Student",
+            "description": "Routing Attacks on Internet Services",
+            "contact": "yixins@cs.princeton.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-sun-yixin/"
+        },
+        {
+            "name": "Mina Tahmasbi Arashloo",
+            "institution:": "Princeton University",
+            "position": "PhD Student",
+            "description": "Programmable Network Monitoring and Control",
+            "contact": "arashloo@cs.princeton.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-tahmasbi-arashloo/"
+        },
+        {
+            "name": "Caroline June Trippel",
+            "institution:": "Princeton University",
+            "position": "PhD Candidate",
+            "description": "Concurrency and Security Verification in Heterogeneous, Parallel Systems",
+            "contact": "ctrippel@princeton.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-trippel/"
+        },
+        {
+            "name": "Ellen Vitercik",
+            "institution:": "Carnegie Mellon University",
+            "position": "PhD Student",
+            "description": "Foundations of Data-Driven Algorithm Design",
+            "contact": "vitercik@cs.cmu.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-vitercik/"
+        },
+        {
+            "name": "Ching-Hua Wang",
+            "institution:": "Stanford University",
+            "position": "PhD Student",
+            "description": "2D Materials for CMOS and Memory Integration",
+            "contact": "chwang9@stanford.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-wang-ching-hua/"
+        },
+        {
+            "name": "Zi Wang",
+            "institution:": "Massachusetts Institute of Technology",
+            "position": "PhD Candidate",
+            "description": "Towards Integrated Intelligent Systems",
+            "contact": "ziw@mit.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-wang-zi/"
+        },
+        {
+            "name": "Fan Wei",
+            "institution:": "Stanford University",
+            "position": "PhD Candidate",
+            "description": "Fast Algorithms for Property Testing",
+            "contact": "fanwei@stanford.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-wei/"
+        },
+        {
+            "name": "Nora S. Willett",
+            "institution:": "Princeton University",
+            "position": "PhD Student",
+            "description": "Animation Authoring Tools",
+            "contact": "noraw@princeton.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-willett/"
+        },
+        {
+            "name": "Anqi Wu",
+            "institution:": "Princeton University",
+            "position": "PhD Student",
+            "description": "Gaussian Process Based Nonlinear Latent Structure Discovery in Multivariate Spike Train Data",
+            "contact": "anqiw@princeton.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-wu/"
+        },
+        {
+            "name": "Huijuan Xu",
+            "institution:": "Boston University",
+            "position": "PhD Student",
+            "description": "Video Understanding with Localization",
+            "contact": "hxu@bu.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-xu/"
+        },
+        {
+            "name": "Mengjia Yan",
+            "institution:": "University of Illinois at Urbana-Champaign",
+            "position": "PhD Student",
+            "description": "Secure Cache Hierarchies",
+            "contact": "myan8@illinois.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-yan/"
+        },
+        {
+            "name": "Hazal Yuksel",
+            "institution:": "Columbia University",
+            "position": "Postdoctoral Research Associate",
+            "description": "Widely Tunable FDD Wireless: Challenges and Opportunities",
+            "contact": "hy434@cornell.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-yuksel/"
+        },
+        {
+            "name": "Amy Xian Zhang",
+            "institution:": "Massachusetts Institute of Technology",
+            "position": "PhD Student",
+            "description": "Building Systems to Improve Online Discussion",
+            "contact": "axz@mit.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-zhang-amy/"
+        },
+        {
+            "name": "Shanghang Zhang",
+            "institution:": "Carnegie Mellon University",
+            "position": "Postdoctoral",
+            "description": "Deep Understanding of Urban Mobility from Cityscape Webcams",
+            "contact": "shzhang.pku@gmail.com",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-zhang-shanghang/"
+        },
+        {
+            "name": "Yiying I. Zhu",
+            "institution:": "Georgia Institute of Technology",
+            "position": "Postdoctoral Fellow",
+            "description": "Emerging Techniques in Contrast-Enhanced Ultrasound Imaging",
+            "contact": "yiying@gatech.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-zhu/"
+        },
+        {
+            "name": "Marinka Zitnik",
+            "institution:": "Stanford University",
+            "position": "Postdoctoral Fellow",
+            "description": "Next-Generation Algorithms for Complex and Heterogeneous Biomedical Networks",
+            "contact": "marinka@cs.stanford.edu",
+            "personal page": "https://risingstars18-eecs.mit.edu/participant-zitnik/"
+        }
+    ]
+}

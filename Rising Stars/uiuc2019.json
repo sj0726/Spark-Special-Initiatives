@@ -1,0 +1,620 @@
+{
+    "data": [
+        {
+            "name": "Ayten Ozge Akmandor",
+            "institution:": "Princeton University",
+            "position": "PhD Candidate",
+            "description": "Semantically Enhanced Classification of Real-world Tasks ",
+            "contact": "N/A",
+            "personal page": "http://scholar.princeton.edu/akmandor"
+        },
+        {
+            "name": " Andreea Alexandru ",
+            "institution:": "University of Pennsylvania ",
+            "position": "PhD Candidate",
+            "description": "",
+            "contact": "N/A",
+            "personal page": "https://www.seas.upenn.edu/~aandreea/"
+        },
+        {
+            "name": "Bahar Asgari",
+            "institution:": "Georgia Institute of Technology",
+            "position": "PhD Candidate ",
+            "description": "",
+            "contact": "N/A",
+            "personal page": "https://www.prism.gatech.edu/~basgari3/"
+        },
+        {
+            "name": " Forough Arabshahi ",
+            "institution:": "Carnegie Mellon University",
+            "position": "PhD Candidate",
+            "description": "",
+            "contact": "N/A",
+            "personal page": "https://forougha.github.io/"
+        },
+        {
+            "name": "Samaneh Azadi",
+            "institution:": "University of California, Berkeley",
+            "position": "PhD Candidate",
+            "description": "",
+            "contact": "N/A",
+            "personal page": "https://people.eecs.berkeley.edu/~sazadi/"
+        },
+        {
+            "name": "Naama Ben-David",
+            "institution:": "Carnegie Mellon University",
+            "position": "PhD Candidate",
+            "description": "",
+            "contact": "N/A",
+            "personal page": "http://www.cs.cmu.edu/~nbendavi"
+        },
+        {
+            "name": "Amanda Bienz",
+            "institution:": "University of Illinois at Urbana-Champaign",
+            "position": "Postdoctoral Researcher",
+            "description": "",
+            "contact": "N/A",
+            "personal page": "http://bienz2.web.engr.illinois.edu/"
+        },
+        {
+            "name": "Su Lin Blodgett",
+            "institution:": "University of Massachusetts at Amherst",
+            "position": "PhD Candidate",
+            "description": "",
+            "contact": "N/A",
+            "personal page": "https://sblodgett.github.io/"
+        },
+        {
+            "name": "Tegan Brennan",
+            "institution:": "University of California, Santa Barbara.",
+            "position": "PhD Candidate",
+            "description": "",
+            "contact": "N/A",
+            "personal page": "N/A"
+        },
+        {
+            "name": "Ceara Byrne",
+            "institution:": "N/A",
+            "position": "PhD Candidate",
+            "description": "",
+            "contact": "N/A",
+            "personal page": "http://www.cearabyrne.com"
+        },
+        {
+            "name": "Chitraleema Chakraborty",
+            "institution:": "Harvard University",
+            "position": "Chitraleema Chakraborty",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "https://www.linkedin.com/in/chitraleema-chakraborty-6b779578"
+        },
+        {
+            "name": "Margaret Chapman",
+            "institution:": "University of California, Berkeley",
+            "position": "Margaret Chapman",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "https://www.margaretpfeifferchapman.com/"
+        },
+        {
+            "name": "Beidi Chen",
+            "institution:": "Rice University",
+            "position": "Beidi Chen",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "https://www.cs.rice.edu/~bc20/"
+        },
+        {
+            "name": "Chen Chen",
+            "institution:": "Google Inc.",
+            "position": "Chen Chen",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "http://www.public.asu.edu/~cchen211/"
+        },
+        {
+            "name": "Shuang Chen",
+            "institution:": "Cornell University",
+            "position": "Shuang Chen",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "http://sc2682cornell.github.io"
+        },
+        {
+            "name": "Chunfeng Cui",
+            "institution:": "University of California, Santa Barbara",
+            "position": "Chunfeng Cui",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "https://chunfengc.github.io"
+        },
+        {
+            "name": "Ghada Dessouky.",
+            "institution:": "Technische Universit\u00e4t Darmstadt",
+            "position": "Ghada Dessouky",
+            "description": "",
+            "contact": "N/A",
+            "personal page": "https://www.informatik.tu-darmstadt.de/systemsecurity/people"
+        },
+        {
+            "name": "Min Du",
+            "institution:": "University of California, Berkeley",
+            "position": "Min Du",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "https://people.eecs.berkeley.edu/~min.du/"
+        },
+        {
+            "name": "Esin Durmus",
+            "institution:": "Cornell University",
+            "position": "Esin Durmus",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "http://www.cs.cornell.edu/~esindurmus/"
+        },
+        {
+            "name": "Najme Ebrahimi",
+            "institution:": "University of Michigan \u2013 Ann Arbor",
+            "position": "Postdoctoral Researcher",
+            "description": "",
+            "contact": "N/A",
+            "personal page": "https://sites.google.com/view/najmeebrahimi/home"
+        },
+        {
+            "name": "Pardis Emami Naeini",
+            "institution:": "Carnegie Mellon University",
+            "position": "Pardis Emami Naeini",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "http://www.cs.cmu.edu/~pemamina/"
+        },
+        {
+            "name": "Xian Fan",
+            "institution:": "Rice University",
+            "position": "Xian Fan",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "N/A"
+        },
+        {
+            "name": "Sumegha Garg",
+            "institution:": "Princeton University",
+            "position": "Sumegha Garg",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "https://www.cs.princeton.edu/~sumeghag/"
+        },
+        {
+            "name": "Yasaman Ghasempour",
+            "institution:": "Rice University",
+            "position": "Yasaman Ghasempour",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "http://ghasempour.rice.edu/"
+        },
+        {
+            "name": "Shiry Ginosar",
+            "institution:": "University of California, Berkeley",
+            "position": "Shiry Ginosar",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "http://people.eecs.berkeley.edu/~shiry/"
+        },
+        {
+            "name": "Surbhi Goel",
+            "institution:": "University of Texas at Austin",
+            "position": "Surbhi Goel",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "http://www.cs.utexas.edu/~surbhi/"
+        },
+        {
+            "name": "Sahar Hashemgeloogerdi",
+            "institution:": "N/A",
+            "position": "Sahar Hashemgeloogerdi",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "N/A"
+        },
+        {
+            "name": "Hoda Heidari",
+            "institution:": "ETH-Zurich",
+            "position": "Hoda Heidari",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "https://las.inf.ethz.ch/people/hoda-heidari"
+        },
+        {
+            "name": "Sylvia Herbert",
+            "institution:": "University of California, Berkeley",
+            "position": "Sylvia Herbert",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "N/A"
+        },
+        {
+            "name": "Patricia Hidalgo-Gonzalez",
+            "institution:": "University of California, Berkeley",
+            "position": "Patricia Hidalgo-Gonzalez",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "N/A"
+        },
+        {
+            "name": "Alexandra Ion",
+            "institution:": "ETH-Zurich",
+            "position": "Alexandra Ion",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "http://alexandraion.com/"
+        },
+        {
+            "name": "Reyhaneh Jabbarvand",
+            "institution:": "University of California, Irvine",
+            "position": "Reyhaneh Jabbarvand",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "https://www.ics.uci.edu/~jabbarvr/"
+        },
+        {
+            "name": "Natasha Jaques",
+            "institution:": "Massachusetts Institute of Technology",
+            "position": "Natasha Jaques",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "N/A"
+        },
+        {
+            "name": "Faria Kalim",
+            "institution:": "University of Illinois at Urbana-Champaign",
+            "position": "Faria Kalim",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "http://www.fariakalim.com"
+        },
+        {
+            "name": "Yea-Seul Kim",
+            "institution:": "University of Washington",
+            "position": "Yea-Seul Kim",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "http://students.washington.edu/yeaseul1/"
+        },
+        {
+            "name": "Mina Konakovic Lukovic",
+            "institution:": "Massachusetts Institute of Technology",
+            "position": "Mina Konakovic Lukovic",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "https://lgg.epfl.ch/~mina"
+        },
+        {
+            "name": "Qi Lei",
+            "institution:": "University of Texas at Austin",
+            "position": "Qi Lei",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "http://users.ices.utexas.edu/~leiqi"
+        },
+        {
+            "name": "Andrea Lincoln",
+            "institution:": "Massachusetts Institute of Technology",
+            "position": "Andrea Lincoln",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "N/A"
+        },
+        {
+            "name": "Sifei Liu",
+            "institution:": "Nvidia Graphics Pvt Ltd",
+            "position": "Sifei Liu",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "http://sifeiliu.net"
+        },
+        {
+            "name": "Dana\u00eb Metaxa",
+            "institution:": "Stanford University",
+            "position": "Dana\u00eb Metaxa",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "http://metaxa.net"
+        },
+        {
+            "name": "Nooshin Mohammadi Estakhri",
+            "institution:": "University of Michigan \u2013 Ann Arbor",
+            "position": "Nooshin Mohammadi Estakhri",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "https://sites.google.com/site/nooshinmestakhri/home"
+        },
+        {
+            "name": "Erin Molloy",
+            "institution:": "University of Illinois at Urbana-Champaign",
+            "position": "Erin Molloy",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "http://erinkmolloy.web.illinois.edu"
+        },
+        {
+            "name": "Soo-Jin Moon",
+            "institution:": "Carnegie Mellon University",
+            "position": "Soo-Jin Moon",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "http://users.ece.cmu.edu/~soojinm"
+        },
+        {
+            "name": "Shana Moothedath",
+            "institution:": "University of Washington",
+            "position": "Shana Moothedath",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "http://faculty.washington.edu/sm15/"
+        },
+        {
+            "name": "Tricia Ngoon",
+            "institution:": "University of California, San Diego",
+            "position": "Tricia Ngoon",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "http://tngoon.github.io"
+        },
+        {
+            "name": "Pei-Chen Peng",
+            "institution:": "Cedars-Sinai Medical Center",
+            "position": "Pei-Chen Peng",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "http://peichenpeng.com"
+        },
+        {
+            "name": "Talia Ringer",
+            "institution:": "University of Washington",
+            "position": "Talia Ringer",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "http://tlringer.github.io/"
+        },
+        {
+            "name": "Leda\u00a0 Sari",
+            "institution:": "University of Illinois at Urbana-Champaign",
+            "position": "Leda\u00a0 Sari",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "N/A"
+        },
+        {
+            "name": "Shreya Saxena",
+            "institution:": "Columbia University",
+            "position": "Shreya Saxena",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "https://sites.google.com/view/shreyasaxena/"
+        },
+        {
+            "name": "Maria Shugrina",
+            "institution:": "University of Toronto",
+            "position": "Maria Shugrina",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "http://shumash.com/research"
+        },
+        {
+            "name": "Saima Siddiqui",
+            "institution:": "Argonne National Laboratory",
+            "position": "Saima Siddiqui",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "https://ssiddiqui.mit.edu/"
+        },
+        {
+            "name": "Elahe Soltanaghaei",
+            "institution:": "Carnegie Mellon University",
+            "position": "Elahe Soltanaghaei",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "http://www.cs.virginia.edu/~es3ce/"
+        },
+        {
+            "name": "Akshitha Sriraman",
+            "institution:": "University of Michigan \u2013 Ann Arbor",
+            "position": "Akshitha Sriraman",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "http://akshithasriraman.eecs.umich.edu/"
+        },
+        {
+            "name": "Swabha Swayamdipta",
+            "institution:": "Carnegie Mellon University",
+            "position": "Swabha Swayamdipta",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "http://swabhs.com"
+        },
+        {
+            "name": "Nazanin Takbiri",
+            "institution:": "University of Massachusetts Amherst",
+            "position": "Nazanin Takbiri",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "https://www.linkedin.com/in/nazanin-takbiri-427057135"
+        },
+        {
+            "name": "Laure Thompson",
+            "institution:": "Cornell University",
+            "position": "Laure Thompson",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "http://www.cs.cornell.edu/~laurejt/"
+        },
+        {
+            "name": "Emily Toomey",
+            "institution:": "Massachusetts Institute of Technology",
+            "position": "Emily Toomey",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "N/A"
+        },
+        {
+            "name": "G\u00fcliz Tuncay",
+            "institution:": "University of Illinois at Urbana-Champaign",
+            "position": "G\u00fcliz Tuncay",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "http://tuncay2.web.engr.illinois.edu"
+        },
+        {
+            "name": "Bige Unluturk",
+            "institution:": "Georgia Institute of Technology",
+            "position": "Bige Unluturk",
+            "description": "",
+            "contact": "N/A",
+            "personal page": "http://www.prism.gatech.edu/~bunluturk3/"
+        },
+        {
+            "name": "Junia Valente",
+            "institution:": "University of Texas at Dallas",
+            "position": "Junia Valente",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "https://utd.edu/~juniavalente"
+        },
+        {
+            "name": "Gayane Vardoyan",
+            "institution:": "University of Massachusetts at Amherst",
+            "position": "Gayane Vardoyan",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "https://people.cs.umass.edu/~gvardoyan/"
+        },
+        {
+            "name": "Nikhita Vedula",
+            "institution:": "Ohio State University",
+            "position": "Nikhita Vedula",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "http://web.cse.ohio-state.edu/~vedula.5"
+        },
+        {
+            "name": "Radha Venkatagiri",
+            "institution:": "University of Illinois at Urbana Champaign",
+            "position": "Radha Venkatagiri",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "https://publish.illinois.edu/radha-venkatagiri/"
+        },
+        {
+            "name": "Ramya Korlakai Vinayak",
+            "institution:": "University of Washington",
+            "position": "Ramya Korlakai Vinayak",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "https://ramyakv.github.io/"
+        },
+        {
+            "name": "Xintong Wang",
+            "institution:": "University of Michigan \u2013 Ann Arbor",
+            "position": "Xintong Wang",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "http://www-personal.umich.edu/~xintongw/"
+        },
+        {
+            "name": "Xu Wang",
+            "institution:": "Carnegie Mellon University",
+            "position": "Xu Wang",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "http://www.iamxuwang.com/"
+        },
+        {
+            "name": "Qingyun Wu",
+            "institution:": "University of Virginia",
+            "position": "Qingyun Wu",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "http://www.people.virginia.edu/~qw2ky/"
+        },
+        {
+            "name": "Neeraja Yadwadkar",
+            "institution:": "Stanford University",
+            "position": "Neeraja Yadwadkar",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "https://people.eecs.berkeley.edu/~neerajay/"
+        },
+        {
+            "name": "Yang Yang",
+            "institution:": "Carnegie Mellon University",
+            "position": "Yang Yang",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "http://www.cs.cmu.edu/~yy3/"
+        },
+        {
+            "name": "Zhi Yao",
+            "institution:": "University of California, Los Angeles",
+            "position": "Zhi Yao",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "N/A"
+        },
+        {
+            "name": "Cecilia Zhang",
+            "institution:": "University of California, Berkeley",
+            "position": "Cecilia Zhang",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "https://people.eecs.berkeley.edu/~cecilia77/"
+        },
+        {
+            "name": "Rui Zhang",
+            "institution:": "University of North Carolina at Chapel Hill",
+            "position": "Rui Zhang",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "N/A"
+        },
+        {
+            "name": "Shuowen Zhang",
+            "institution:": "National University of Singapore",
+            "position": "Shuowen Zhang",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "https://shuowenzhang.wixsite.com/mysite"
+        },
+        {
+            "name": "Hongwei Zhao",
+            "institution:": "University of California, Santa Barbara",
+            "position": "Hongwei Zhao",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "https://hwzhao2011.wixsite.com/hongweizhao"
+        },
+        {
+            "name": "Yixue Zhao",
+            "institution:": "University of Southern California",
+            "position": "Yixue Zhao",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "http://scf.usc.edu/~yixuezha/"
+        },
+        {
+            "name": "Yuhang Zhao",
+            "institution:": "Cornell University",
+            "position": "Yuhang Zhao",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "https://www.yuhangz.com"
+        },
+        {
+            "name": "Wenting Zheng",
+            "institution:": "University of California, Berkeley",
+            "position": "Wenting Zheng",
+            "description": "N/A",
+            "contact": "N/A",
+            "personal page": "https://people.eecs.berkeley.edu/~wzheng/"
+        }
+    ]
+}

@@ -108,7 +108,7 @@ def getDetails(participants):
         # break
 
         data[name] = {
-            'institution:': institution,
+            'institution': institution,
             'position': position,
             'description': desc,
             'contact': "N/A",
