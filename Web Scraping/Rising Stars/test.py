@@ -9,7 +9,7 @@ for x in data:
     print(data[x])
     temp = {
             'name': x,
-            'institution:': data[x]['institution:'],
+            'institution': data[x]['institution:'],
             'position': data[x]['position'],
             'description': data[x]['description'],
             'contact': data[x]['contact'],
