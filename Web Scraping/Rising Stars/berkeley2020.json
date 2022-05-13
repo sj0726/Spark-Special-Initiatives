@@ -1,0 +1,1220 @@
+{
+    "data": [
+        {
+            "name": "Sarah Aguasvivas Manzano",
+            "institution:": "University of Colorado Boulder",
+            "position": "PhD Candidate",
+            "description": "Control and Learning on Edge Devices for Peripheral Robot Intelligence",
+            "contact": "N/A",
+            "personal page": "https://sarahaguasvivas.github.io/"
+        },
+        {
+            "name": "Rawan Alharbi",
+            "institution:": "Northwestern University",
+            "position": "PhD Candidate",
+            "description": "Re-imagining Wearable Visual Observation",
+            "contact": "N/A",
+            "personal page": "https://www.rawanalharbi.com/"
+        },
+        {
+            "name": "Patricia Alves-Oliveira",
+            "institution:": "University of Washington",
+            "position": "Postdoctoral Researcher",
+            "description": "Robots that Enhance Human Experience",
+            "contact": "N/A",
+            "personal page": "https://www.patricialvesoliveira.com/"
+        },
+        {
+            "name": "Maria Apostolaki",
+            "institution:": "ETH Zurich",
+            "position": "PhD Candidate",
+            "description": "Routing security for Blockchain systems",
+            "contact": "N/A",
+            "personal page": "https://nsg.ee.ethz.ch/people/maria-apostolaki/"
+        },
+        {
+            "name": "Hadar Averbuch-Elor",
+            "institution:": "Cornell-Tech",
+            "position": "Postdoctoral Researcher",
+            "description": "Controlling Visual Data Generation",
+            "contact": "N/A",
+            "personal page": "http://www.cs.cornell.edu/~hadarelor/"
+        },
+        {
+            "name": "Samaneh Azadi",
+            "institution:": "UC Berkeley",
+            "position": "PhD Candidate",
+            "description": "Semantic Bottleneck Scene Generation",
+            "contact": "N/A",
+            "personal page": "https://people.eecs.berkeley.edu/~sazadi/"
+        },
+        {
+            "name": "Tayebeh Bahreini",
+            "institution:": "Wayne State University, Michigan",
+            "position": "PhD Candidate",
+            "description": "VECMAN: A Framework for Energy-Aware Resource Management in VEC Systems",
+            "contact": "N/A",
+            "personal page": "http://webpages.eng.wayne.edu/~fv3342/"
+        },
+        {
+            "name": "Yasaman Bahri",
+            "institution:": "Google Research",
+            "position": "Research Scientist",
+            "description": "A Scientific Approach To Bridging Theory & Practice in Machine Learning",
+            "contact": "N/A",
+            "personal page": "http://yasamanb.github.io"
+        },
+        {
+            "name": "Hannaneh Barahouei Pasandi",
+            "institution:": "Virginia Commonwealth University",
+            "position": "PhD Candidate",
+            "description": "Self-Driving MAC Protocol Optimization in WLAN Networks",
+            "contact": "N/A",
+            "personal page": "https://hanabhp.github.io"
+        },
+        {
+            "name": "Sruti Bhagavatula",
+            "institution:": "Carnegie Mellon University",
+            "position": "PhD Candidate",
+            "description": "What breach? Measuring online awareness of security incidents by studying real-world browsing behavior",
+            "contact": "N/A",
+            "personal page": "http://www.cs.cmu.edu/~sbhagava/"
+        },
+        {
+            "name": "Alankrita Bhatt",
+            "institution:": "UC San Diego",
+            "position": "PhD Candidate",
+            "description": "Universal Graph Compression",
+            "contact": "N/A",
+            "personal page": "N/A"
+        },
+        {
+            "name": "Indrani Bhattacharya",
+            "institution:": "Stanford University",
+            "position": "Postdoctoral Scholar",
+            "description": "Radiology-Pathology Fusion for Automated Prostate Cancer Detection",
+            "contact": "N/A",
+            "personal page": "https://sites.google.com/site/indranibhattacharya021188/home"
+        },
+        {
+            "name": "Stephanie Bohaichuk",
+            "institution:": "Stanford University",
+            "position": "PhD Candidate",
+            "description": "Device Applications of Insulator-Metal Transitions",
+            "contact": "N/A",
+            "personal page": "N/A"
+        },
+        {
+            "name": "Renuka Bowrothu",
+            "institution:": "University of Florida",
+            "position": "PhD Candidate",
+            "description": "Energy Efficient Passives for 5G and Beyond",
+            "contact": "N/A",
+            "personal page": "https://www.linkedin.com/in/renuka-bowrothu/"
+        },
+        {
+            "name": "Fraser Brown",
+            "institution:": "Stanford University",
+            "position": "PhD Candidate",
+            "description": "https://web.stanford.edu/~mlfbrown/",
+            "contact": "N/A",
+            "personal page": "N/A"
+        },
+        {
+            "name": "Nataly Brukhim",
+            "institution:": "Princeton University",
+            "position": "PhD Candidate",
+            "description": "New directions in Boosting",
+            "contact": "N/A",
+            "personal page": "https://www.cs.princeton.edu/~nbrukhim/"
+        },
+        {
+            "name": "Kalesha Bullard",
+            "institution:": "Facebook AI Research",
+            "position": "Postdoctoral Researcher",
+            "description": "Exploring Emergent Communication in Embodied Multi-Agent Populations",
+            "contact": "N/A",
+            "personal page": "https://www.kaleshabullard.com/"
+        },
+        {
+            "name": "Diana Cai",
+            "institution:": "Princeton University",
+            "position": "PhD Candidate",
+            "description": "Finite mixture models do not reliably learn the number of components",
+            "contact": "N/A",
+            "personal page": "https://www.dianacai.com"
+        },
+        {
+            "name": "Khyathi Raghavi Chandu",
+            "institution:": "Carnegie Mellon University",
+            "position": "PhD Candidate",
+            "description": "Effective Controllability of Multimodal Narrative Intelligence",
+            "contact": "N/A",
+            "personal page": "http://www.cs.cmu.edu/~kchandu/"
+        },
+        {
+            "name": "Irene Chen",
+            "institution:": "Massachusetts Institute of Technology",
+            "position": "PhD Candidate",
+            "description": "Clustering Censored Multivariate Time-Series for Disease Phenotyping",
+            "contact": "N/A",
+            "personal page": "http://irenechen.net"
+        },
+        {
+            "name": "Xinyi Chen",
+            "institution:": "Princeton University",
+            "position": "PhD Candidate",
+            "description": "Black-Box Control for Linear Dynamical Systems",
+            "contact": "N/A",
+            "personal page": "https://xinyi.github.io/"
+        },
+        {
+            "name": "Xinyun Chen",
+            "institution:": "UC Berkeley",
+            "position": "PhD Candidate",
+            "description": "Deep Learning for Program Synthesis from Diverse Specifications",
+            "contact": "N/A",
+            "personal page": "https://jungyhuk.github.io/"
+        },
+        {
+            "name": "Yizheng Chen",
+            "institution:": "Columbia University",
+            "position": "Postdoctoral Researcher",
+            "description": "Certified Robustness Properties for Security Classifiers",
+            "contact": "N/A",
+            "personal page": "http://surrealyz.github.io/"
+        },
+        {
+            "name": "Yue Chen",
+            "institution:": "Tsinghua University",
+            "position": "PhD Candidate",
+            "description": "Energy Sharing Design in a Prosumer Era",
+            "contact": "N/A",
+            "personal page": "N/A"
+        },
+        {
+            "name": "YooJung Choi",
+            "institution:": "University of California, Los Angeles",
+            "position": "PhD Candidate",
+            "description": "Probabilistic Reasoning for Robust and Fair Decision Making",
+            "contact": "N/A",
+            "personal page": "N/A"
+        },
+        {
+            "name": "Zhen Dai",
+            "institution:": "University of Toronto",
+            "position": "Postdoctoral Researcher",
+            "description": "Generator Outage Identification Using Synchrophasor Measurements",
+            "contact": "N/A",
+            "personal page": "N/A"
+        },
+        {
+            "name": "Deeksha Dangwal",
+            "institution:": "University of California, Santa Barbara",
+            "position": "PhD Candidate",
+            "description": "Privacy of Program Traces",
+            "contact": "N/A",
+            "personal page": "https://deekshadangwal.com/"
+        },
+        {
+            "name": "Ipshita Datta",
+            "institution:": "Columbia University",
+            "position": "PhD Candidate",
+            "description": "Low-loss composite photonic platform based on 2d semiconductor monolayers",
+            "contact": "N/A",
+            "personal page": "N/A"
+        },
+        {
+            "name": "Pubali Datta",
+            "institution:": "University of Illinois Urbana-Champaign",
+            "position": "PhD Candidate",
+            "description": "Workflow-Centric Audit and Authorization in the Serverless Ecosystem",
+            "contact": "N/A",
+            "personal page": "https://pdatta2.web.illinois.edu/"
+        },
+        {
+            "name": "Sarah Dean",
+            "institution:": "University of California, Berkeley",
+            "position": "PhD Candidate",
+            "description": "Safe and Robust Perception-Based Control",
+            "contact": "N/A",
+            "personal page": "https://people.eecs.berkeley.edu/~sarahdean/"
+        },
+        {
+            "name": "Farah Deeba",
+            "institution:": "The University of British Columbia",
+            "position": "PhD Candidate",
+            "description": "Tissue Characterization using Quantitative Ultrasound",
+            "contact": "N/A",
+            "personal page": "http://www.ece.ubc.ca/~farahdeeba/"
+        },
+        {
+            "name": "Shuwen Deng",
+            "institution:": "Yale University",
+            "position": "PhD Candidate",
+            "description": "Securing Modern Processors: Secure Processor TLBs, Caches, and Beyond",
+            "contact": "N/A",
+            "personal page": "https://csl.yale.edu/~shuwen/"
+        },
+        {
+            "name": "Yi Ding",
+            "institution:": "University of Chicago",
+            "position": "PhD Candidate",
+            "description": "Learning Structure for Computer Systems Management",
+            "contact": "N/A",
+            "personal page": "https://y-ding.github.io/"
+        },
+        {
+            "name": "Grace Dinh",
+            "institution:": "University of California, Berkeley",
+            "position": "PhD Candidate",
+            "description": "Theoretical Methods for Optimizing Structured Array Computations",
+            "contact": "N/A",
+            "personal page": "URL"
+        },
+        {
+            "name": "Thaleia Dimitra Doudali",
+            "institution:": "Georgia Institute of Technology",
+            "position": "PhD Candidate",
+            "description": "Machine Intelligent and Timely Data Management for Hybrid Memory Systems",
+            "contact": "N/A",
+            "personal page": "https://www.cc.gatech.edu/~tdoudali/"
+        },
+        {
+            "name": "Niharika S. D'Souza",
+            "institution:": "Johns Hopkins University",
+            "position": "PhD Candidate",
+            "description": "Mapping Brain Connectivity to Behavior: A Deep-Generative Hybrid Framework",
+            "contact": "N/A",
+            "personal page": "http://niharikasd.weebly.com/"
+        },
+        {
+            "name": "Danielle Duvalsaint",
+            "institution:": "Carnegie Mellon University",
+            "position": "PhD Candidate",
+            "description": "Measuring the Security of Circuit Locking Techniques",
+            "contact": "N/A",
+            "personal page": "N/A"
+        },
+        {
+            "name": "Regina Eckert",
+            "institution:": "University of California, Berkeley",
+            "position": "PhD Candidate",
+            "description": "Computational imaging for 3D refractive index microscopy",
+            "contact": "N/A",
+            "personal page": "https://people.eecs.berkeley.edu/~eckert/"
+        },
+        {
+            "name": "Nazek El-Atab",
+            "institution:": "King Abdallah University of Science and Technology, Saudi Arabia",
+            "position": "Postdoctoral Researcher",
+            "description": "Topologically Transformed Electronics",
+            "contact": "N/A",
+            "personal page": "N/A"
+        },
+        {
+            "name": "Rasha El-Jaroudi",
+            "institution:": "University of Texas at Austin",
+            "position": "PhD Candidate",
+            "description": "Novel III-V alloys for optoelectronic devices",
+            "contact": "N/A",
+            "personal page": "https://lase.mer.utexas.edu/"
+        },
+        {
+            "name": "Mai ElSherief",
+            "institution:": "Georgia Institute of Technology",
+            "position": "Postdoctoral Scholar",
+            "description": "Computational Methods for Next Generation Online Media Ecosystems",
+            "contact": "N/A",
+            "personal page": "https://mayelsherif.github.io/melsherif/"
+        },
+        {
+            "name": "Esmat Farzana",
+            "institution:": "University of California, Santa Barbara",
+            "position": "Postdoctoral Researcher",
+            "description": "\u03b2-Ga2O3 and GaN: for Next Generation Energy Efficient High-Power Devices",
+            "contact": "N/A",
+            "personal page": "https://www.linkedin.com/in/esmat-farzana-b96385152/"
+        },
+        {
+            "name": "Jessie Finocchiaro",
+            "institution:": "University of Colorado Boulder",
+            "position": "PhD Candidate",
+            "description": "An Embedding Framework for Consistent Convex Surrogates",
+            "contact": "N/A",
+            "personal page": "http://jfinocchiaro.github.io"
+        },
+        {
+            "name": "Roya Firoozi",
+            "institution:": "University of California, Berkeley",
+            "position": "PhD Candidate",
+            "description": "Predictive and Collaborative Multi-Robot Coordination with Model Predictive Control and Duality Theory",
+            "contact": "N/A",
+            "personal page": "https://sites.google.com/view/royafiroozi/home"
+        },
+        {
+            "name": "Dilrukshi Gamage",
+            "institution:": "University of Moratuwa, Sri Lanka",
+            "position": "PhD Candidate",
+            "description": "Rapid Communities on MOOCs: Scaffolding the Social Presence in Massive Open Online Course by Communitiesof Practice",
+            "contact": "N/A",
+            "personal page": "http://www.bit.ly/dilrukshigamage"
+        },
+        {
+            "name": "Elba Garza",
+            "institution:": "Texas A&M University",
+            "position": "PhD Candidate",
+            "description": "CHiRP: Control-Flow History Reuse Prediction",
+            "contact": "N/A",
+            "personal page": "http://www.elbagarza.com"
+        },
+        {
+            "name": "Christine Geeng",
+            "institution:": "University of Washington",
+            "position": "PhD Candidate",
+            "description": "Studying Risks in Online Communications: Case Studies in Sexting and Misinformation",
+            "contact": "N/A",
+            "personal page": "https://christinegeeng.com"
+        },
+        {
+            "name": "Marilyn George",
+            "institution:": "Brown University",
+            "position": "PhD Candidate",
+            "description": "Adversarial Level Agreements for Cryptographic Protocols",
+            "contact": "N/A",
+            "personal page": "http://cs.brown.edu/~mgeorge5/"
+        },
+        {
+            "name": "Mahsa Ghasemi",
+            "institution:": "University of Texas at Austin",
+            "position": "PhD Candidate",
+            "description": "Efficient Data Processing and Trustworthy Decision Making through Structured Task Representation",
+            "contact": "N/A",
+            "personal page": "https://mahsaghasemi.github.io/"
+        },
+        {
+            "name": "Ramina Ghods",
+            "institution:": "Carnegie Mellon University, Robotics Institute",
+            "position": "Postdoctoral Scholar",
+            "description": "Multi-Agent Active Search and Rescue",
+            "contact": "N/A",
+            "personal page": "http://www.cs.cmu.edu/~rghods/"
+        },
+        {
+            "name": "Leilani H. Gilpin",
+            "institution:": "Sony AI",
+            "position": "Research Scientist",
+            "description": "Anomaly Detection Through Explanations",
+            "contact": "N/A",
+            "personal page": "http://lgilpin.com"
+        },
+        {
+            "name": "Shiry Ginosar",
+            "institution:": "University of California, Berkeley",
+            "position": "Postdoctoral Scholar",
+            "description": "Body2Hands: Learning to Infer 3D Hands from Conversational Gesture Body Dynamics",
+            "contact": "N/A",
+            "personal page": "http://people.eecs.berkeley.edu/~evonne_ng/projects/body2hands/"
+        },
+        {
+            "name": "Kira Goldner",
+            "institution:": "Columbia University",
+            "position": "Postdoctoral Researcher",
+            "description": "Mechanism Design for Social Good",
+            "contact": "N/A",
+            "personal page": "https://www.kiragoldner.com/"
+        },
+        {
+            "name": "Huijing Gong",
+            "institution:": "University of Maryland, College Park",
+            "position": "PhD Candidate",
+            "description": "Security of Lattice-Based Cryptography under \"Imperfect\" Scenarios",
+            "contact": "N/A",
+            "personal page": "http://gong-cr.github.io"
+        },
+        {
+            "name": "Jennifer Hammelman",
+            "institution:": "Massachusetts Institute of Technology",
+            "position": "PhD Candidate",
+            "description": "Identification of determinants of differential chromatin accessibility through a massively parallel genome-integrated reporter assay",
+            "contact": "N/A",
+            "personal page": "N/A"
+        },
+        {
+            "name": "Rana Hanocka",
+            "institution:": "Tel Aviv University, Israel",
+            "position": "PhD Candidate",
+            "description": "Point2Mesh: A Self-Prior for Deformable Meshes",
+            "contact": "N/A",
+            "personal page": "https://ranahanocka.github.io/point2mesh/"
+        },
+        {
+            "name": "Madhumitha Harishankar",
+            "institution:": "Carnegie Mellon University",
+            "position": "PhD Candidate",
+            "description": "PayPlace: Secure and Flexible Operator-Mediated Payments in Blockchain Marketplaces at Scale",
+            "contact": "N/A",
+            "personal page": "https://madhu.fyi"
+        },
+        {
+            "name": "Emily Hastings",
+            "institution:": "University of Illinois Urbana-Champaign",
+            "position": "PhD Candidate",
+            "description": "LIFT: Integrating Stakeholder Voices into Algorithmic Team Formation",
+            "contact": "N/A",
+            "personal page": "https://emhastings.github.io/"
+        },
+        {
+            "name": "Hajar Homayouni",
+            "institution:": "Colorado State University",
+            "position": "PhD Candidate",
+            "description": "Anomaly Detection and Explanation in Big Data",
+            "contact": "N/A",
+            "personal page": "https://www.cs.colostate.edu/~hhajar/"
+        },
+        {
+            "name": "Sena Hounsinou",
+            "institution:": "University of Colorado, Colorado Springs",
+            "position": "Postdoctoral Researcher",
+            "description": "Vulnerability of Controller Area Network to Schedule-based Attacks",
+            "contact": "N/A",
+            "personal page": "N/A"
+        },
+        {
+            "name": "Wei-Lin (Kimberly) Hsiao",
+            "institution:": "University of Texas at Austin",
+            "position": "PhD Candidate",
+            "description": "Computational Fashion Understanding",
+            "contact": "N/A",
+            "personal page": "http://www.cs.utexas.edu/~kimhsiao/"
+        },
+        {
+            "name": "Chamsi Hssaine",
+            "institution:": "Cornell University",
+            "position": "PhD Candidate",
+            "description": "Satisficing Search and Algorithmic Price Competition",
+            "contact": "N/A",
+            "personal page": "https://chamsihssaine.github.io/"
+        },
+        {
+            "name": "Yiqing Hua",
+            "institution:": "Cornell University",
+            "position": "PhD Candidate",
+            "description": "Understanding adversarial interactions against politicians on social media",
+            "contact": "N/A",
+            "personal page": "https://yiqing-hua.com"
+        },
+        {
+            "name": "Qijing Jenny Huang",
+            "institution:": "University of California, Berkeley",
+            "position": "PhD Candidate",
+            "description": "Co-optimization of Algorithms, Hardware, and Scheduling for Deep Learning Applications",
+            "contact": "N/A",
+            "personal page": "https://hqjenny.com"
+        },
+        {
+            "name": "Tzu-Yung Huang",
+            "institution:": "University of Pennsylvania",
+            "position": "PhD Candidate",
+            "description": "Advancements Towards a Deployable Compact Diamond Quantum Device",
+            "contact": "N/A",
+            "personal page": "N/A"
+        },
+        {
+            "name": "Yu Huang",
+            "institution:": "University of Michigan, Ann Arbor",
+            "position": "PhD Candidate",
+            "description": "Towards An Objective Measure of Developers' Cognitive Activities",
+            "contact": "N/A",
+            "personal page": "http://www-personal.umich.edu/~yhhy/"
+        },
+        {
+            "name": "Yujia Huang",
+            "institution:": "California Institute of Technology",
+            "position": "PhD Candidate",
+            "description": "Neural Networks with Recurrent Generative Feedback",
+            "contact": "N/A",
+            "personal page": "https://yjhuangcd.github.io"
+        },
+        {
+            "name": "Jeevana Priya Inala",
+            "institution:": "Massachusetts Institute of Technology",
+            "position": "PhD Candidate",
+            "description": "Program Synthesis for Robust Robots",
+            "contact": "N/A",
+            "personal page": "http://jinala.github.io/"
+        },
+        {
+            "name": "Bashima Islam",
+            "institution:": "University of North Carolina at Chapel Hill",
+            "position": "PhD Candidate",
+            "description": "Scheduling Tasks on Intermittently-Powered Time-Aware Intelligent Systems",
+            "contact": "N/A",
+            "personal page": "https://www.cs.unc.edu/~bashima/"
+        },
+        {
+            "name": "Shweta Jain",
+            "institution:": "University of Illinois Urbana-Champaign",
+            "position": "Postdoctoral Scholar",
+            "description": "Counting cliques in real-world graphs",
+            "contact": "N/A",
+            "personal page": "https://people.ucsc.edu/~sjain12/"
+        },
+        {
+            "name": "Kasthuri Jayarajah",
+            "institution:": "Singapore Management University",
+            "position": "Postdoctoral Researcher",
+            "description": "The Case for Collaborative Sensing on the Edge",
+            "contact": "N/A",
+            "personal page": "https://kjayarajah.github.io/"
+        },
+        {
+            "name": "Ruth Johnson",
+            "institution:": "University of California, Los Angeles",
+            "position": "PhD Candidate",
+            "description": "Electronic health record signatures identify undiagnosed patients with Common Variable Immunodeficiency Disease",
+            "contact": "N/A",
+            "personal page": "https://ruthjohnson95.github.io/"
+        },
+        {
+            "name": "Colleen Josephson",
+            "institution:": "Stanford University",
+            "position": "PhD Candidate",
+            "description": "Techniques to enable low-power ubiquitous sensing",
+            "contact": "N/A",
+            "personal page": "https://cjosephson.net/"
+        },
+        {
+            "name": "Sara Kandil",
+            "institution:": "University of California, San Diego",
+            "position": "PhD Candidate",
+            "description": "Metasurfaces for spin-control of surface waves",
+            "contact": "N/A",
+            "personal page": "https://scholar.google.com.eg/citations?user=EZxbHFIAAAAJ&hl=en"
+        },
+        {
+            "name": "Zerina Kapetanovic",
+            "institution:": "University of Washington",
+            "position": "PhD Candidate",
+            "description": "FarmBeats: An IoT Platform for Data-Driven Agriculture",
+            "contact": "N/A",
+            "personal page": "https://www.zerinakapetanovic.com"
+        },
+        {
+            "name": "Rasha Karakchi",
+            "institution:": "University of South Carolina",
+            "position": "Postdoctoral Researcher",
+            "description": "An Overlay Architecture for Pattern Matching",
+            "contact": "N/A",
+            "personal page": "N/A"
+        },
+        {
+            "name": "Nan Rosemary Ke",
+            "institution:": "Mila Institute, Quebec",
+            "position": "PhD Candidate",
+            "description": "From \"What\" to \"Why\": towards causal deep learning",
+            "contact": "N/A",
+            "personal page": "https://nke001.github.io/N85"
+        },
+        {
+            "name": "Marilyn Keller",
+            "institution:": "Max-Planck Institute for Intelligent Systems, Germany",
+            "position": "PhD Candidate",
+            "description": "A population-based implant shapes set for fracture surgery",
+            "contact": "N/A",
+            "personal page": "https://ps.is.tuebingen.mpg.de/person/mkeller2"
+        },
+        {
+            "name": "Sarah Keren",
+            "institution:": "Harvard UniversityA\u0302 / Hebrew University, Israel",
+            "position": "Postdoctoral Researcher",
+            "description": "Automated Design of Better Environments for Intelligent Agents",
+            "contact": "N/A",
+            "personal page": "https://sarahkeren.wixsite.com/sarahkeren-academics"
+        },
+        {
+            "name": "Anna Keune",
+            "institution:": "University of California, Irvine",
+            "position": "Postdoctoral Researcher",
+            "description": "Fabric-based computing: Materials as non-neutral drivers of computer science learning",
+            "contact": "N/A",
+            "personal page": "http://www.annakeune.com/"
+        },
+        {
+            "name": "Huda Khayrallah",
+            "institution:": "Johns Hopkins University",
+            "position": "PhD Candidate",
+            "description": "Simulated Multiple Reference Training: Leveraging Paraphrases for Machine Translation",
+            "contact": "N/A",
+            "personal page": "http://www.cs.jhu.edu/~huda/"
+        },
+        {
+            "name": "Khimya Khetarpal",
+            "institution:": "McGill University / Mila, Quebec",
+            "position": "PhD Candidate",
+            "description": "Bridging Perception and Action: Towards Continual Reinforcement Learning",
+            "contact": "N/A",
+            "personal page": "https://kkhetarpal.github.io/"
+        },
+        {
+            "name": "Laura Kim",
+            "institution:": "Massachusetts Institute of Technology",
+            "position": "Postdoctoral Scholar",
+            "description": "Nanophotonics and Plasmonics for Understanding Quantum Materials and Enabling New Quantum Technologies",
+            "contact": "N/A",
+            "personal page": "N/A"
+        },
+        {
+            "name": "Allison Koenecke",
+            "institution:": "Stanford University",
+            "position": "PhD Candidate",
+            "description": "Racial Disparities in Automated Speech Recognition",
+            "contact": "N/A",
+            "personal page": "http://stanford.edu/~koenecke/"
+        },
+        {
+            "name": "Mina Konakovic Lukovic",
+            "institution:": "Massachusetts Institute of Technology",
+            "position": "Postdoctoral Researcher",
+            "description": "Differential geometry for metamaterial design",
+            "contact": "N/A",
+            "personal page": "http://people.csail.mit.edu/mina/"
+        },
+        {
+            "name": "Anusha Lalitha",
+            "institution:": "Stanford University",
+            "position": "Postdoctoral Researcher",
+            "description": "Bayesian Algorithms for Decentralized Stochastic Bandits",
+            "contact": "N/A",
+            "personal page": "https://sites.google.com/a/eng.ucsd.edu/alalitha/"
+        },
+        {
+            "name": "Caroline Lemieux",
+            "institution:": "University of California, Berkeley",
+            "position": "PhD Candidate",
+            "description": "Expanding the Reach of Fuzzing",
+            "contact": "N/A",
+            "personal page": "https://www.carolemieux.com/"
+        },
+        {
+            "name": "Xueting Li",
+            "institution:": "University of California, Merced",
+            "position": "PhD Candidate",
+            "description": "Joint-task Self-supervised Learning for Temporal Correspondence",
+            "contact": "N/A",
+            "personal page": "https://sunshineatnoon.github.io"
+        },
+        {
+            "name": "Anqi (Angie) Liu",
+            "institution:": "California Institute of Technology",
+            "position": "Postdoctoral Researcher",
+            "description": "Machine Learning for the Real World: Distributionally Robust Extrapolation",
+            "contact": "N/A",
+            "personal page": "https://anqiliu-ai.github.io/"
+        },
+        {
+            "name": "Wanchun Liu",
+            "institution:": "University of Sydney, Australia",
+            "position": "Postdoctoral Researcher",
+            "description": "Novel Splitting Receiver Design and Remote State Estimation over Markov Fading Channels",
+            "contact": "N/A",
+            "personal page": "https://sites.google.com/site/wanchunliu0205/home"
+        },
+        {
+            "name": "Xuan Luo",
+            "institution:": "University of Washington",
+            "position": "PhD Candidate",
+            "description": "Consistent Video Depth Estimation",
+            "contact": "N/A",
+            "personal page": "http://roxanneluo.github.io/"
+        },
+        {
+            "name": "Meiyi Ma",
+            "institution:": "University of Virginia",
+            "position": "PhD Candidate",
+            "description": "Formal Logic enhanced Learning for Cyber-Physical Systems",
+            "contact": "N/A",
+            "personal page": "http://www.cs.virginia.edu/~mm5tk/index.html"
+        },
+        {
+            "name": "Uyen Mai",
+            "institution:": "University of California, San Diego",
+            "position": "PhD Candidate",
+            "description": "Log Transformation Improves Dating of Phylogenies",
+            "contact": "N/A",
+            "personal page": "https://uym2.github.io"
+        },
+        {
+            "name": "Ana Marasovic",
+            "institution:": "Allen Institute for AI / University of Washington",
+            "position": "Postdoctoral Researcher",
+            "description": "Natural Language Rationales with Full-Stack Visual Reasoning",
+            "contact": "N/A",
+            "personal page": "https://www.anamarasovic.com/"
+        },
+        {
+            "name": "Reuth Mirsky",
+            "institution:": "University of Texas at Austin",
+            "position": "Postdoctoral Scholar",
+            "description": "Plan Recognition for Collaboration",
+            "contact": "N/A",
+            "personal page": "https://sites.google.com/site/dekelreuth/"
+        },
+        {
+            "name": "Kristina Monakhova",
+            "institution:": "University of California, Berkeley",
+            "position": "PhD Candidate",
+            "description": "Computational cameras for ML and ML for computational cameras",
+            "contact": "N/A",
+            "personal page": "https://people.eecs.berkeley.edu/~monakhova/"
+        },
+        {
+            "name": "Arsha Nagrani",
+            "institution:": "Google",
+            "position": "Research Scientist",
+            "description": "Speech2Action: Cross-modal Supervision for Action Recognition",
+            "contact": "N/A",
+            "personal page": "http://www.robots.ox.ac.uk/~arsha/"
+        },
+        {
+            "name": "Xueyan Niu",
+            "institution:": "Purdue University",
+            "position": "PhD Candidate",
+            "description": "Information Theoretical Modeling of Multi-Agent Interactions",
+            "contact": "N/A",
+            "personal page": "https://web.ics.purdue.edu/~niu26/"
+        },
+        {
+            "name": "Shruti Palaskar",
+            "institution:": "Carnegie Mellon University",
+            "position": "PhD Candidate",
+            "description": "Learning Semantic Concepts for Video Summarization",
+            "contact": "N/A",
+            "personal page": "https://shrutijpalaskar.github.io"
+        },
+        {
+            "name": "Sharbani Pandit",
+            "institution:": "Georgia Institute of Technology",
+            "position": "PhD Candidate",
+            "description": "Combating Robocalls with a Virtual Assistant",
+            "contact": "N/A",
+            "personal page": "N/A"
+        },
+        {
+            "name": "Athina Panotopoulou",
+            "institution:": "Dartmouth College",
+            "position": "PhD Candidate",
+            "description": "Tactile Images for 3D Shapes",
+            "contact": "N/A",
+            "personal page": "https://www.cs.dartmouth.edu/~athina/"
+        },
+        {
+            "name": "Amandalynne Paullada",
+            "institution:": "University of Washington",
+            "position": "PhD Candidate",
+            "description": "Dataset (Dis)contents: A survey of data collection and usage practices in machine learning",
+            "contact": "N/A",
+            "personal page": "http://www.amandalynne.pw/"
+        },
+        {
+            "name": "Amy Pavel",
+            "institution:": "Carnegie Mellon University",
+            "position": "Postdoctoral Researcher",
+            "description": "Describing Videos for Non-Visual Accessibility",
+            "contact": "N/A",
+            "personal page": "https://amypavel.com"
+        },
+        {
+            "name": "Chara Podimata",
+            "institution:": "Harvard University",
+            "position": "PhD Candidate",
+            "description": "Algorithms for Incentive-Compatible and Incentive-Aware Learning",
+            "contact": "N/A",
+            "personal page": "https://www.charapodimata.com/"
+        },
+        {
+            "name": "Sarah Masud Preum",
+            "institution:": "Carnegie Mellon University",
+            "position": "Postdoctoral Scholar",
+            "description": "EMSContExt: EMS Protocol-driven Concept Extraction for Cognitive Assistance in Emergency Response",
+            "contact": "N/A",
+            "personal page": "http://www.cs.virginia.edu/~sp9cx/"
+        },
+        {
+            "name": "Aditi Raghunathan",
+            "institution:": "Stanford University",
+            "position": "PhD Candidate",
+            "description": "Surprises in Robust Machine Learning",
+            "contact": "N/A",
+            "personal page": "http://web.stanford.edu/~aditir/"
+        },
+        {
+            "name": "Roberta Raileanu",
+            "institution:": "New York University",
+            "position": "PhD Candidate",
+            "description": "Fast Adaptation to New Environments via Policy-Dynamics Value Functions",
+            "contact": "N/A",
+            "personal page": "https://rraileanu.github.io/"
+        },
+        {
+            "name": "Sonia Roberts",
+            "institution:": "University of Pennsylvania",
+            "position": "PhD Candidate",
+            "description": "Mitigating energy loss in a robot hopping on a physically emulated dissipative substrate",
+            "contact": "N/A",
+            "personal page": "https://kodlab.seas.upenn.edu/group/sonia/"
+        },
+        {
+            "name": "Kexin Rong",
+            "institution:": "Stanford University",
+            "position": "PhD Candidate",
+            "description": "Prioritizing Computation Over Input Data with Locality Sensitive Hashing",
+            "contact": "N/A",
+            "personal page": "https://kexinrong.github.io/"
+        },
+        {
+            "name": "Behnoush Rostami",
+            "institution:": "University of Michigan",
+            "position": "PhD Candidate",
+            "description": "Design and Fabrication of High-Density High-Electrode-Count Silicon-Based Micro-Probe Array",
+            "contact": "N/A",
+            "personal page": "https://www.researchgate.net/profile/Behnoosh_Rostami3"
+        },
+        {
+            "name": "Amrita Roy Chowdhury",
+            "institution:": "University of Wisconsin-Madison",
+            "position": "PhD Candidate",
+            "description": "Crypt\u03b5: Crypto-Assisted Differential Privacy on Untrusted Servers",
+            "contact": "N/A",
+            "personal page": "https://sites.google.com/wisc.edu/amrita-roy-chowdhury/"
+        },
+        {
+            "name": "Sandhya Saisubramanian",
+            "institution:": "University of Massachusetts Amherst",
+            "position": "PhD Candidate",
+            "description": "Reliable Decision-Making with Incomplete Knowledge",
+            "contact": "N/A",
+            "personal page": "https://www.sandhyasai.com/"
+        },
+        {
+            "name": "Jean Salac",
+            "institution:": "University of Chicago",
+            "position": "PhD Candidate",
+            "description": "Beyond Child's Play: Understanding & Supporting Program Comprehension in Young Learners",
+            "contact": "N/A",
+            "personal page": "https://jeansalac.github.io/"
+        },
+        {
+            "name": "Tara Salman",
+            "institution:": "Washington University in St. Louis",
+            "position": "PhD Candidate",
+            "description": "Collaborative Knowledge-Based Security Risk Assessments Using Blockchains",
+            "contact": "N/A",
+            "personal page": "https://sites.wustl.edu/tarasalman/"
+        },
+        {
+            "name": "Shibani Santurkar",
+            "institution:": "Massachusetts Institute of Technology",
+            "position": "PhD Candidate",
+            "description": "From ImageNet to Image Classification: Contextualizing Progress on Benchmarks",
+            "contact": "N/A",
+            "personal page": "http://people.csail.mit.edu/shibani/"
+        },
+        {
+            "name": "Simone Schaub-Meyer",
+            "institution:": "Technical University Darmstadt, Germany",
+            "position": "Postdoctoral Researcher",
+            "description": "PhaseNet for Video Frame Interpolation",
+            "contact": "N/A",
+            "personal page": "https://schaubsi.github.io/"
+        },
+        {
+            "name": "Caitlyn E. Seim",
+            "institution:": "Stanford University",
+            "position": "Postdoctoral Researcher",
+            "description": "Wearable Haptic Devices for Sensorimotor Rehabilitation",
+            "contact": "N/A",
+            "personal page": "http://web.stanford.edu/~cseim/"
+        },
+        {
+            "name": "Jiasi Shen",
+            "institution:": "Massachusetts Institute of Technology",
+            "position": "PhD Candidate",
+            "description": "Using Active Learning to Synthesize Models of Applications that Access Databases",
+            "contact": "N/A",
+            "personal page": "http://shenjiasi.com/"
+        },
+        {
+            "name": "Urmita Sikder",
+            "institution:": "University of California, Berkeley",
+            "position": "PhD Candidate",
+            "description": "Hybrid CMOS-NEM Circuits for Energy-Efficient Computation",
+            "contact": "N/A",
+            "personal page": "N/A"
+        },
+        {
+            "name": "Rachee Singh",
+            "institution:": "University of Massachusetts, Amherst / Microsoft Research",
+            "position": "PhD Candidate",
+            "description": "Rate adaptive wide area networks",
+            "contact": "N/A",
+            "personal page": "http://www.racheesingh.com/"
+        },
+        {
+            "name": "Dhanya Sridhar",
+            "institution:": "Columbia University",
+            "position": "Postdoctoral Researcher",
+            "description": "Adapting Text Embeddings for Causal Inference",
+            "contact": "N/A",
+            "personal page": "https://dsridhar91.github.io/"
+        },
+        {
+            "name": "Yi Su",
+            "institution:": "Cornell University",
+            "position": "PhD Candidate",
+            "description": "Off-Policy Evaluation and Learning for Interactive Systems",
+            "contact": "N/A",
+            "personal page": "https://www.yisu.moe/"
+        },
+        {
+            "name": "Ava Tan",
+            "institution:": "University of California, Berkeley",
+            "position": "PhD Candidate",
+            "description": "Materials, Device, and Array Design for Next-Generation Ferroelectric Memory Technologies",
+            "contact": "N/A",
+            "personal page": "https://people.eecs.berkeley.edu/~ava/"
+        },
+        {
+            "name": "Cecilia Testart",
+            "institution:": "Massachusetts Institute of Technology",
+            "position": "PhD Candidate",
+            "description": "Towards data-driven Internet routing security",
+            "contact": "N/A",
+            "personal page": "https://people.csail.mit.edu/ctestart/"
+        },
+        {
+            "name": "Meenakshi Upadhyaya",
+            "institution:": "University of Massachusetts Amherst",
+            "position": "PhD Candidate",
+            "description": "Organic Thermoelectrics: Transforming Waste Heat into Clean Energy",
+            "contact": "N/A",
+            "personal page": "https://meenakshiupadhyaya.github.io/"
+        },
+        {
+            "name": "Ecenur Ustun",
+            "institution:": "Cornell University",
+            "position": "PhD Candidate",
+            "description": "Machine Learning-Assisted Early Timing Prediction for Rapid FPGA Design Closure",
+            "contact": "N/A",
+            "personal page": "http://people.ece.cornell.edu/eu49/"
+        },
+        {
+            "name": "Chengcheng Wan",
+            "institution:": "University of Chicago",
+            "position": "PhD Candidate",
+            "description": "Accurate Anytime Learning for Energy and Timeliness in Software Systems",
+            "contact": "N/A",
+            "personal page": "http://people.cs.uchicago.edu/~cwan/"
+        },
+        {
+            "name": "Yating Wan",
+            "institution:": "University of California, Santa Barbara",
+            "position": "Postdoctoral Scholar",
+            "description": "Monolithic Integration of InAs Quantum Dot Lasers on Si Substrates",
+            "contact": "N/A",
+            "personal page": "https://optoelectronics.ece.ucsb.edu/index.php/profile/yating-wan"
+        },
+        {
+            "name": "Boya Wang",
+            "institution:": "The University of Texas at Austin",
+            "position": "Postdoctoral Scholar",
+            "description": "Single Instruction, Multiple Data Computation with Information Stored in DNA (SIMD||DNA)",
+            "contact": "N/A",
+            "personal page": "http://boyawang.weebly.com"
+        },
+        {
+            "name": "Fuyixue Wang",
+            "institution:": "Massachusetts Institute of Technology",
+            "position": "PhD Candidate",
+            "description": "Spatiotemporal encoding methods for fast brain MRI",
+            "contact": "N/A",
+            "personal page": "http://www.mit.edu/~fuyixue/"
+        },
+        {
+            "name": "Xin Wang",
+            "institution:": "University of California, Berkeley",
+            "position": "PhD Candidate",
+            "description": "Last-Mile Delivery of Computer Vision with Test-Time Adaptation",
+            "contact": "N/A",
+            "personal page": "https://xinw.ai/"
+        },
+        {
+            "name": "Wen Wang",
+            "institution:": "Yale University",
+            "position": "PhD Candidate",
+            "description": "Building Hardware Architectures for Post-Quantum Cryptography",
+            "contact": "N/A",
+            "personal page": "https://caslab.csl.yale.edu/~wen/"
+        },
+        {
+            "name": "Manxi Wu",
+            "institution:": "Massachusetts Institute of Technology",
+            "position": "PhD Candidate",
+            "description": "Multi-agent Bayesian Learning with Adaptive Strategies: Convergence and Stability",
+            "contact": "N/A",
+            "personal page": "N/A"
+        },
+        {
+            "name": "Tongshuang (Sherry) Wu",
+            "institution:": "University of Washington",
+            "position": "PhD Candidate",
+            "description": "Principles and Interactive Tools for Evaluating and Improving the Behavior of NLP models",
+            "contact": "N/A",
+            "personal page": "https://homes.cs.washington.edu/~wtshuang/"
+        },
+        {
+            "name": "Xiaoxia Wu",
+            "institution:": "The University of Texas at Austin",
+            "position": "PhD Candidate",
+            "description": "Implicit Regularization and Convergence for Weight Normalization",
+            "contact": "N/A",
+            "personal page": "https://sites.google.com/view/xwu/home"
+        },
+        {
+            "name": "Zhanni Wu",
+            "institution:": "University of Michigan",
+            "position": "PhD Candidate",
+            "description": "Dynamic Control of Waves: Reconfigurable and Spatiotemporally Modulated Metasurfaces",
+            "contact": "N/A",
+            "personal page": "N/A"
+        },
+        {
+            "name": "Mengqi (Mandy) Xia",
+            "institution:": "Cornell University",
+            "position": "PhD Candidate",
+            "description": "A Wave Optics Based Fiber Scattering Model",
+            "contact": "N/A",
+            "personal page": "https://mandyxmq.github.io/"
+        },
+        {
+            "name": "Liyan Xie",
+            "institution:": "Georgia Institute of Technology",
+            "position": "PhD Candidate",
+            "description": "Robust Statistical Inference Through the Lens of Optimization",
+            "contact": "N/A",
+            "personal page": "https://sites.gatech.edu/lxie/"
+        },
+        {
+            "name": "Ningning Xie",
+            "institution:": "The University of Hong Kong",
+            "position": "PhD Candidate",
+            "description": "Effect Handlers, Evidently",
+            "contact": "N/A",
+            "personal page": "https://xnning.github.io/"
+        },
+        {
+            "name": "Yujia Xie",
+            "institution:": "Georgia Institute of Technology",
+            "position": "PhD Candidate",
+            "description": "Meta Learning with Relational Information for Short Sequences",
+            "contact": "N/A",
+            "personal page": "https://sites.google.com/view/yujia"
+        },
+        {
+            "name": "Wenjie Xiong",
+            "institution:": "Facebook",
+            "position": "Postdoctoral Researcher",
+            "description": "Hardware Security in DRAMs and Processor Caches",
+            "contact": "N/A",
+            "personal page": "https://caslab.csl.yale.edu/~wenjie/"
+        },
+        {
+            "name": "Helen Xu",
+            "institution:": "Massachusetts Institute of Technology",
+            "position": "PhD Candidate",
+            "description": "A Parallel Packed Memory Array to Store Dynamic Graphs",
+            "contact": "N/A",
+            "personal page": "http://people.csail.mit.edu/hjxu/"
+        },
+        {
+            "name": "Huijuan Xu",
+            "institution:": "University of California, Berkeley",
+            "position": "Postdoctoral Scholar",
+            "description": "Compositional and Robust Action Understanding",
+            "contact": "N/A",
+            "personal page": "http://people.eecs.berkeley.edu/~huijuan/"
+        },
+        {
+            "name": "Le Xu",
+            "institution:": "University of Illinois Urbana Champaign",
+            "position": "PhD Candidate",
+            "description": "Move Fast and Meet Deadlines: Fine-grained Real-time Stream Processing with Cameo",
+            "contact": "N/A",
+            "personal page": "http://lexu1.web.engr.illinois.edu"
+        },
+        {
+            "name": "Yi Xue",
+            "institution:": "University of California, Berkeley",
+            "position": "Postdoctoral Researcher",
+            "description": "Three-dimensional Multi-site Random Access Photostimulation (3D-MAP)",
+            "contact": "N/A",
+            "personal page": "https://xueyiirene.wixsite.com/homepage"
+        },
+        {
+            "name": "Momona Yamagami",
+            "institution:": "University of Washington, Seattle",
+            "position": "PhD Candidate",
+            "description": "Exploring Novel Input Techniques for Human-Computer Interaction: Promoting Ubiquitous Rehabilitation Through Accessible Design",
+            "contact": "N/A",
+            "personal page": "http://momona-yamagami.github.io/"
+        },
+        {
+            "name": "Junwen Yang",
+            "institution:": "University of Chicago",
+            "position": "PhD Candidate",
+            "description": "Improving Performance and Quality of Database-Backed Software",
+            "contact": "N/A",
+            "personal page": "https://jwyoung1818.github.io/#"
+        },
+        {
+            "name": "Ziyu Yao",
+            "institution:": "Ohio State University",
+            "position": "PhD Candidate",
+            "description": "On Building an Effective and Trustworthy Natural Language Interface: An intelligent agent that can communicate, collaborate, and learn",
+            "contact": "N/A",
+            "personal page": "http://ziyuyao.org"
+        },
+        {
+            "name": "Diman Zad Tootaghaj",
+            "institution:": "Hewlett Packard Labs",
+            "position": "Postdoctoral Researcher",
+            "description": "Modeling, Monitoring and Scheduling Techniques for Network Recovery from Massive Failures",
+            "contact": "N/A",
+            "personal page": "https://dimanzt.com/home.html"
+        },
+        {
+            "name": "Amy Zhang",
+            "institution:": "McGill University / Mila Institute, Quebec",
+            "position": "PhD Candidate",
+            "description": "Learning Invariant Representations for Reinforcement Learning without Reconstruction",
+            "contact": "N/A",
+            "personal page": "https://amyzhang.github.io/"
+        },
+        {
+            "name": "Justine Zhang",
+            "institution:": "Cornell University",
+            "position": "PhD Candidate",
+            "description": "Modeling the Balance of Conversational Objectives",
+            "contact": "N/A",
+            "personal page": "http://tisjune.github.io/"
+        },
+        {
+            "name": "Xueru Zhang",
+            "institution:": "University of Michigan",
+            "position": "PhD Candidate",
+            "description": "How Do Fair Decisions Fare in Long-TermQualification?",
+            "contact": "N/A",
+            "personal page": "http://www-personal.umich.edu/~xueru/"
+        }
+    ]
+}
